@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Wikipedia:Student tutorial/page3
+Image:Nuvola_apps_cache.png'''Linking''' You can easily make links to other articles in Wikipedia. If you want to link the word ''aardvark'' to the article on aardvarks, you would simply add two sets of square brackets around the word like this: aardvark. The link would look like this: aardvark. You can also change what text appears in the link. To do this, add a pipe symbol ( | ) after the page you want to link to. Then add what you want to appear. So typing Aardvark would look like this: Aardvark. You can link to other websites as well as Wikipedia too. [http://www.google.com Google] would look like this: [http://www.google.com Google] ---- {| style="width:100%; background:transparent;" | '''Wikipedia:Student tutorial/page2''' | '''Wikipedia:Student tutorial/page4''' |} Category:Wikipedia Schools

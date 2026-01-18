@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Sat, 14 Apr 2001 14:42:00 -0700 (PDT)
+Subject: Start Date: 4/14/01; HourAhead hour: 22;  <CODESITE>
+Start Date: 4/14/01; HourAhead hour: 22; No ancillary schedules awarded. Variances detected. Variances detected in Load schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001041422.txt ---- Load Schedule ---- $$$ Variance found in table tblLoads. Details: (Hour: 22 / Preferred: 10.89 / Final: 7.89) TRANS_TYPE: FINAL LOAD_ID: SCE1 MKT_TYPE: 2 TRANS_DATE: 4/14/01 SC_ID: EPMI

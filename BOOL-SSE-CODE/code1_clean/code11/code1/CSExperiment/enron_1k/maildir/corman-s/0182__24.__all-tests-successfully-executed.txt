@@ -1,0 +1,8 @@
+From: a..smith@enron.com
+To: helpdesk.hottap@enron.com, toby.kuehl@enron.com, bradley.holmes@enron.com, 
+	john.buchanan@enron.com, terry.kowalke@enron.com, 
+	darrell.schoolcraft@enron.com, lynn.blair@enron.com, 
+	sheila.nacey@enron.com
+Date: Mon, 22 Oct 2001 04:27:35 -0700 (PDT)
+Subject: All tests successfully executed
+All testing was completed successfully, and we have confirmed with ENW Resolution Center that Exchange servers are up.

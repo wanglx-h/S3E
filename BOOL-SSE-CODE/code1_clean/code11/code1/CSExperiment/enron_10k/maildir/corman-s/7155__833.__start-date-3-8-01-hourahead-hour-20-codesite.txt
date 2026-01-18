@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Thu, 8 Mar 2001 11:39:00 -0800 (PST)
+Subject: Start Date: 3/8/01; HourAhead hour: 20;  <CODESITE>
+Start Date: 3/8/01; HourAhead hour: 20; No ancillary schedules awarded. No variances detected. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001030820.txt ---- Energy Import/Export Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 3/8/01 TIE_POINT: PVERDE_5_DEVERS INTERCHG_ID: EPMI_CISO_WATER ENGY_TYPE: FIRM *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 3/8/01 TIE_POINT: FCORNR_5_PSUEDO INTERCHG_ID: EPMI_CISO_BLAZERS ENGY_TYPE: NFRM

@@ -1,0 +1,26 @@
+From: gary.kenagy@enron.com
+To: dannis.bellard@enron.com, lynn.blair@enron.com, mike.bryant@enron.com, 
+	john.buchanan@enron.com, shelley.corman@enron.com, 
+	rick.dietz@enron.com, bradley.holmes@enron.com, 
+	steve.january@enron.com, phil.lowry@enron.com, 
+	sheila.nacey@enron.com, dale.ratliff@enron.com, 
+	darrell.schoolcraft@enron.com, donna.scott@enron.com, 
+	gary.spraggins@enron.com, scott.abshire@enron.com, 
+	kevin.dumas@enron.com, mark.gigliotti@enron.com, 
+	steve.hotte@enron.com, hasan.kedwaii@enron.com, tony.mayer@enron.com, 
+	joe.palik@enron.com, nick.rahn@enron.com, sue.rich@enron.com, 
+	lisa.sawyer@enron.com, kelly.strader@enron.com, 
+	michael.sullivan@enron.com, james.sumpter@enron.com, 
+	elaine.tombaugh@enron.com, paul.anderson@enron.com, 
+	clifford.basha@enron.com, craig.bronaugh@enron.com, 
+	kimberly.carter@enron.com, david.farrell@enron.com, 
+	bob.hagen@enron.com, steve.littel@enron.com, 
+	george.margoliner@enron.com, george.marshall@enron.com, 
+	donald.montgomery@enron.com, eott <.murray@enron.com>, 
+	kenneth.poole@enron.com, ruben.rodriguez@enron.com, 
+	angela.sayegh@enron.com, j.smith@enron.com, chris.taft@enron.com, 
+	hardy.thomas@enron.com, rodney.thompson@enron.com, 
+	roderick.white@enron.com
+Date: Wed, 6 Feb 2002 16:38:09 -0800 (PST)
+Subject: Enron Building Power Outage
+Randy Lord with building maintenance advised us that HL&P had a switch problem that caused the Enron building to lose all commercial power. The UPS systems switched to the auxillary generators and there was minimal impact to the computer rooms and Gas Control Center during the outage. The backup chiller on the roof did not kick in automatically and building maintenance performed the switch manually. The computer rooms warmed up a bit, but not enough to be a problem. They plan to bring contractors in tomorrow morning to determine what the problem was with the backup chiller. The Gas Logistics business systems did lose one server but there was minimal to no business impact. Gas Control was not impacted. We will check with Randy tomorrow morning to see if HL&P has determined the root cause of their equipment failure. Let us know if you have any questions or concerns. Gary Kenagy and Scott Abshire

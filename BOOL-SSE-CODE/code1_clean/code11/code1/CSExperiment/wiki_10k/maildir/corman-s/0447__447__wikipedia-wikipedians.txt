@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Wikipedia:Wikipedians
+File:10 sharing book cover background.jpg A '''Wikipedian''' is a person who helps to contribute to Wikipedia. Wikipedians are people who join the Wikipedia community. They change pages to add information and improve them. Many of them WP:WHY, so they can do more. Anybody can change Wikipedia—you can too. Click the ''Change'' or ''Edit'' Tab (GUI) at the top of any page to change it. == User permissions == Wikipedians can edit pages anonymously, or with a user account. Some pages are :Wikipedia:Protection policy. Wikipedians without an account, or whose accounts are less than four days old, or who have made fewer than ten edits to unprotected pages, cannot edit protected pages. They also cannot move or delete pages. Some editors with much more experience become WP:SYSOP. They can Wikipedia:Blocking policy users, protect or unprotect pages, and edit fully protected pages, such as the Main Page. == Related pages == * Special:ListUsers * Special:ActiveUsers Category:Wikipedians Category:Wikipedia users

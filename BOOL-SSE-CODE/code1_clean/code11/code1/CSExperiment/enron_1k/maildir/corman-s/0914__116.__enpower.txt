@@ -1,0 +1,5 @@
+From: diana.scholtes@enron.com
+To: will.smith@enron.com
+Date: Tue, 14 Aug 2001 10:43:04 -0700 (PDT)
+Subject: Enpower
+Will, Is there any way to extract scheduled data in spreadsheet format for a specific deal and date range? Diana Scholtes

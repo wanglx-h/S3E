@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: robert.benson@enron.com
+Date: Thu, 16 Aug 2001 14:29:59 -0700 (PDT)
+Subject: <<Concur Expense Document>> - Group Outing
+The Approval status has changed on the following report: Status last changed by: Mark D. Davis Jr Expense Report Name: Group Outing Report Total: $410.95 Amount Due Employee: $410.95 Amount Approved: $410.95 Amount Paid: $0.00 Approval Status: Approved Payment Status: Pending To review this expense report, click on the following link for Concur Expense. http://expensexms.enron.com

@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Wikipedia:Project charter
+:''This is a rough draft of what may eventually become a guideline. Feel free to help out.'' This project is aimed at helping four groups of people: # People who are learning English as an additional language (EAL) # People who translate articles from English to other languages # People who have learning difficulties and therefore cannot understand articles with hard words and complex grammar, like articles at :en:Main Page # Children, whose vocabulary is limited by their limited experience. Though there is some disagreement about which of these groups is most important, most people think that all these groups can be served here. Because people in these categories (especially EAL) are most of the time interested in well-known and/or international interest, we have a temporary guideline of promoting Wikipedia:Core article. This does not infer automatic deletion of non-core articles, nor the ostracism of the users that create them. It only means that our focus is core articles, until those are complete.

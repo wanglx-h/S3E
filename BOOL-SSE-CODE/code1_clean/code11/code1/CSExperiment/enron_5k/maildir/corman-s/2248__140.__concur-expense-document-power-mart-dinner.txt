@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: robert.benson@enron.com
+Date: Fri, 9 Nov 2001 02:31:17 -0800 (PST)
+Subject: <<Concur Expense Document>> - Power Mart Dinner
+The Payment status has changed on the following report: Status last changed by: System Expense Report Name: Power Mart Dinner Report Total: $183.34 Amount Due Employee: $183.34 Amount Approved: $183.34 Amount Paid: $0.00 Approval Status: Approved Payment Status: Processed To review this expense report, click on the following link for Concur Expense. http://expensexms.enron.com

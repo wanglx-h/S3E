@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: False
+'''False''' means untrue. If something is false, it means it is not real. A falsehood is anything said that is not true. A falsehood can also be a series of lies, told to "prove" something that is false itself. In logic, "false" is one of the Truth value (with the other one being 'true'). This is written as \bot, F or 0. logic|url=https://www.britannica.com/topic/truth-value|access-date=2020-10-09|website=Encyclopedia Britannica|language=en}} == Related pages == * Contradiction == References == Category:Logic Category:Basic English 850 words

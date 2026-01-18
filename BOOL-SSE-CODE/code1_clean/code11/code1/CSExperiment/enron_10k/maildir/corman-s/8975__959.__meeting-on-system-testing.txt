@@ -1,0 +1,5 @@
+From: lynn.blair@enron.com
+To: sharon.brown@enron.com
+Date: Mon, 19 Nov 2001 14:28:33 -0800 (PST)
+Subject: Meeting on System Testing
+Sharon, would you please set up the following meeting for me to be held after Tuesday of next week. Topic: Review of process for testing model office and production Time Frame: 1 hour Attendees: Brad Holmes Maggie Matheson Ramona Betancourt Hasan Kedwaii John Buchanan Terry Kowalke Sheila nacey Jim Studebaker Thanks. Lynn

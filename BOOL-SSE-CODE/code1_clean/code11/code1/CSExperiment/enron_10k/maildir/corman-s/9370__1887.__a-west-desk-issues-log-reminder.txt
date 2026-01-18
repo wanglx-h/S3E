@@ -1,0 +1,5 @@
+From: wendella.rhoads@enron.com
+To: portland.shift@enron.com
+Date: Mon, 23 Oct 2000 22:57:00 -0700 (PDT)
+Subject: A West Desk Issues Log Reminder
+Just a reminder to log any default functions or additions you would like to see to CAPS in the West Desk Issues Log. ("%systemroot%\system32\winbatch.exe W:\Scripts\msaccess97rt.wbt "P:\VolumeMgmt\Poston\WestDeskITISSUES.mde") Please copy and paste shortcut without brackets or qoutes. Thank You, Wendella

@@ -1,0 +1,5 @@
+From: robert.badeer@enron.com
+To:
+Date: Fri, 23 Jun 2000 09:00:00 -0700 (PDT)
+Subject: Log out of system before going home
+IT guys switching from PGE to a new system

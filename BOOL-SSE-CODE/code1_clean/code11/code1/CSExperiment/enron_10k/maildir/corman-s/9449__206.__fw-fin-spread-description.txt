@@ -1,0 +1,5 @@
+From: willis.philip@enron.com
+To: robert.benson@enron.com
+Date: Mon, 13 Aug 2001 12:18:35 -0700 (PDT)
+Subject: FW: Fin spread description
+-----Original Message----- From: Walker, Chris Sent: Monday, August 13, 2001 1:54 PM To: Philip, Willis Subject: Fin spread description Willis, Take a look at the attached file with the proposed long description. With the spread functionality, the West Hub product must be active on EOL. Also, an Eastern Hub financial product will need to be created under the Fin Swap product type in order for the spread to work, even though it may not be used. The spread is calculated East minus West. Call me with any questions. Chris Walker 3-7533

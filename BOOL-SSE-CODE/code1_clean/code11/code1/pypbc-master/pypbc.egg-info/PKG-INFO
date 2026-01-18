@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pypbc
+Version: 1.0
+Summary: Python wrapper for the PBC (Pairing-Based Cryptography) library
+Home-page: https://www.github.com/Jemtaly/pypbc
+Author: Jemtaly (original by Geremy Condra)
+Author-email: Jemtaly@outlook.com
+License-File: LICENSE

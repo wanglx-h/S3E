@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: T cell
+A '''T cell''' is a type of lymphocyte, a white blood cell. T-cells play an important role in the immune system. They attack infected cells, foreign cells, and cancer cells and completely destroy them. This stops viruses or cancer from spreading to healthy cells. The "T" in T cell stands for thymus. The thymus is where T cells wikt:mature. File:T cell activation.svg == Types == * Cytotoxic T cells (Tc cells) * Helper T cells, (Th cells) * Regulatory T cells (Treg cells), used to be called '''suppressor T cells''' * Natural Killer T cells (NKT cells) * γδ T cells == Related pages == *Major histocompatibility complex == Other websites == * Janeway, Charles A. ''et al.'' 2001. ''Immunobiology''. 5th ed, New York and London: Garland. [https://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=imm.TOC&depth=2] * [http://www.niaid.nih.gov/publications/immune/the_immune_system.pdf The Immune System] (PDF) * [http://content.nejm.org/cgi/content/full/358/25/2698 (Successful!) Treatment of metastatic melanoma with autologous CD4+ T cells against NY-ESO-1] Category:Immunology Category:Blood cells

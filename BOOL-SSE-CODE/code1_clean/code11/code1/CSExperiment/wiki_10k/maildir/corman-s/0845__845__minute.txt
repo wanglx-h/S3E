@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Minute
+A '''minute''' is a customary unit of time. It is equal to 60 seconds. There are 60 minutes in an hour. Unlike the second, the minute is not an SI unit. A minute is also of a degree (geometry). In this context, a minute is also called an '''arcminute''', and is written with the ' symbol. For example, the Sun and Moon both have angular diameters of about 30 arcminutes—when seen from Earth. COSMOS|url=https://astronomy.swin.edu.au/cosmos/A/Arcminute|access-date=2020-09-24|website=astronomy.swin.edu.au}} == Related pages == * Arcsecond == References == Category:Basic English 850 words Category:Units of time Category:Geometry

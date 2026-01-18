@@ -1,0 +1,5 @@
+From: ahafner2@csc.com
+To: rring@enron.com
+Date: Thu, 8 Nov 2001 05:40:01 -0800 (PST)
+Subject: PECO Account Listing
+Richard, I wanted to get this out to you so that you can get started with your analysis. However, there is one account that we're looking into in more detail - it's highlighted in yellow. The spreadsheet is split into two tabs - one for open, the other for closed accounts. I'll send you an update when I get an answer on the account in question as to whether it should be in the open or closed category. (See attached file: newEnronEgyPECOChoice.xls) If you have any questions, please give me a yell, Allyson

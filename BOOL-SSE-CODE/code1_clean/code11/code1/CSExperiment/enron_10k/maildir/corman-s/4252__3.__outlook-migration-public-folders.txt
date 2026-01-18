@@ -1,0 +1,5 @@
+From: nony.flores@enron.com
+To: gary.bode@enron.com
+Date: Thu, 7 Jun 2001 18:51:00 -0700 (PDT)
+Subject: Outlook Migration - Public Folders
+Gary, In preparation for the Outlook migration, we have come up with the basic structure of the public folders needed for EWS Legal. The initial access to create and/or rename folders should be given to the users identified next to the group and/or subgroup (i.e. for Enron Global Markets - grant access to Alan Aronowitz and Nita Garcia). Upon completion of the migration, the assistant assigned to each of these groups will procure access to others in her group and create additional folders as they may be needed. Please let us know if you have any questions regarding the attached information. Thanks. Janette Elbertson and Nony Flores

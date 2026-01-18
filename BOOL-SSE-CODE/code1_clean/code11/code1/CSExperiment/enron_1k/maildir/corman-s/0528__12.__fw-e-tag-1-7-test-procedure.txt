@@ -1,0 +1,5 @@
+From: diana.scholtes@enron.com
+To: cara.semperger@enron.com
+Date: Mon, 28 Jan 2002 12:03:48 -0800 (PST)
+Subject: FW: E-Tag 1.7 Test Procedure
+-----Original Message----- From: sccobb@srpnet.com [mailto:sccobb@srpnet.com] Sent: Friday, January 25, 2002 4:09 PM To: Interchange Scheduling & Accounting Subcommittee (ISAS) Subject: E-Tag 1.7 Test Procedure ISAS Members, Attached is a draft test procedure for E-Tag 1.7. It was created and approved by a small "swat team" of ISAS members and WSCC Staff. Please review this draft procedure and provide any comments you may have by 1200 MST Tuesday, January 29, 2002. Thanks. <<E-Tag Functionality Test Ver 1_1-25-02.doc>>

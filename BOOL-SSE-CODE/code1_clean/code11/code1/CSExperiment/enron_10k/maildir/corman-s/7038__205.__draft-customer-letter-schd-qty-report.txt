@@ -1,0 +1,7 @@
+From: james.studebaker@enron.com
+To: shelley.corman@enron.com, lisa.sawyer@enron.com, gerry.medeles@enron.com, 
+	ramona.betancourt@enron.com, maggie.matheson@enron.com, 
+	john.buchanan@enron.com
+Date: Wed, 17 Oct 2001 13:27:01 -0700 (PDT)
+Subject: Draft - Customer letter Schd Qty report
+Shelley, Attached is a draft of the letter concerning the reinstatement of the old scheduled quantities report. Jim

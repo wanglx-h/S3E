@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Amplitude
+File:Wave.png File:Sinus amplitude en.svg The '''amplitude''' or '''peak amplitude''' of a wave is a measure of how big its oscillation is. Amplitudes are always measured as positive numbers (for example: 3.5, 1, 120) and are never negative number (for example: -3.5, -1, -120). That's because distance can only be greater than zero or equal to zero; negative distance does not exist. The distance from the top of one peak to the bottom of another is called ''peak-to-peak amplitude''. Another way to describe peak-to-peak amplitude is to say that it is the distance between the maximum positive value and the maximum negative value of a wave is the maximum displacement of a wave from an equilibrium position ==Related pages== * Waves and their properties: ** Frequency ** Period (physics) ** Wavelength * Amplitude modulation * Oscilloscope * Vibration control * Vibration isolation Category:Wave physics Category:Mechanical vibrations

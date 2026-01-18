@@ -1,0 +1,10 @@
+From: bert.hernandez@enron.com
+To: lynn.blair@enron.com, john.buchanan@enron.com, shelley.corman@enron.com, 
+	mary.draemer@enron.com, bradley.holmes@enron.com, 
+	steve.january@enron.com, hasan.kedwaii@enron.com, 
+	terry.kowalke@enron.com, sheila.nacey@enron.com, 
+	darrell.schoolcraft@enron.com, james.studebaker@enron.com, 
+	oncall.tms@enron.com
+Date: Sun, 17 Mar 2002 20:49:54 -0800 (PST)
+Subject: TW WEEKEND NOTES
+Please see the attached file for the weekend notes of March 16th-17th. We had problems with the confirmation phase of several cycles over the weekend. Worked with Help Desk and Production Support to complete cycles. Thanks, Bert

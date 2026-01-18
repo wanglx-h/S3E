@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Sitestatstext
+There are '''$2''' article pages in the Simple English Wikipedia at the moment. This number does not include redirects or articles without links. There are '''$1''' pages on Simple English Wikipedia. This number includes all pages on this wiki, including user pages, talk pages, help pages, and redirects. There are '''$8''' uploaded files. '''$4''' changes have been made since Simple English Wikipedia was started. That comes to '''$5''' 'changes per page' in the project. The m:Help:Job queue length is '''$7'''.

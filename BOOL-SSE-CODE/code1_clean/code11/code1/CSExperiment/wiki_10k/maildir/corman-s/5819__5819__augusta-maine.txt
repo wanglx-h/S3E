@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Augusta, Maine
+| subdivision_type = List of sovereign states | subdivision_name = | subdivision_type1 = U.S. state | subdivision_name1 = Maine | subdivision_type2 = List of counties in Maine | subdivision_name2 = Kennebec County, Maine | leader_title = Mayor | leader_name = Mark O'Brien | area_total_km2 = 142.8 | population_total = 18,896 | population_as_of = April 1, 2020 | population_density_km2 = 132.3 | timezone = | utc_offset = −05:00 | postal_code_type = ZIPcode(s) | postal_code = 04330, 04332, 04333, 04336, 04338 | blank_name_sec2 = Community Identification Number | blank_info_sec2 = 2301102100 | website = }} '''Augusta''' is the capital (city) city of the U.S. state of Maine. As of 2020, 18,896 people live in Augusta. Category:State capitals in the United States Category:Cities in Maine Category:County seats in Maine Category:1754 establishments Category:1750s establishments in the Thirteen Colonies Category:18th-century establishments in Maine

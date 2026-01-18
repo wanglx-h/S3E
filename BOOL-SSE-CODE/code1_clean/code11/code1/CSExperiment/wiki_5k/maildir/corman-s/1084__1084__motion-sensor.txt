@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Motion sensor
+A '''motion sensor''' is a sensor tool. It is used for studying motions. It is connected to a :en:Data_logger. The data-logger is connected to a computer. The computer runs a data-logging program. The computer is connected to power, and a security system. Motion sensors have many uses including security. Applications for movement sensor technology include clinical, workplace safety & athletic sports. ==References== Category:Machines Category:Sensors

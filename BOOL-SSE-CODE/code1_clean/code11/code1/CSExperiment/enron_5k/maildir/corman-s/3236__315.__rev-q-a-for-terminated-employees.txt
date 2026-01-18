@@ -1,0 +1,5 @@
+From: rick.johnson@enron.com
+To: terrie.james@enron.com, mary.clark@enron.com, karen.denne@enron.com
+Date: Mon, 26 Nov 2001 09:36:04 -0800 (PST)
+Subject: Rev. Q&A for terminated employees
+We have confirmed the SAP configuration for vacation accrual. monthly accrued vacation credit will not be on the book until the last day of each month. accordingly the previous answer was flawed. This revision corrects that. IE employees terminated on Jan 30 will not receive credit for January vacation. The revised answer is attached.

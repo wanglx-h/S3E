@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Sidebar
+*SEARCH * navigation ** mainpage|mainpage-description ** portal-url|portal ** Wikipedia:Simple talk|Simple talk ** recentchanges-url|recentchanges ** randompage-url|randompage ** helppage|help ** contact-url|contactpage ** sitesupport-url|sitesupport ** Wikipedia:About|aboutsite ** specialpages-url|specialpages

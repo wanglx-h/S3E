@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Fri, 2 Mar 2001 14:38:00 -0800 (PST)
+Subject: Start Date: 3/2/01; HourAhead hour: 23;  <CODESITE>
+Start Date: 3/2/01; HourAhead hour: 23; No ancillary schedules awarded. Variances detected. Variances detected in Generation schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001030223.txt ---- Generation Schedule ---- $$$ Variance found in table tblGEN_SCHEDULE. Details: (Hour: 23 / Preferred: 20.00 / Final: 19.91) TRANS_TYPE: FINAL SC_ID: TOSCO MKT_TYPE: 2 TRANS_DATE: 3/2/01 UNIT_ID: UNCHEM_1_UNIT $$$ Variance found in table tblGEN_SCHEDULE. Details: (Hour: 23 / Preferred: 0.00 / Final: 1.18) TRANS_TYPE: FINAL SC_ID: EES MKT_TYPE: 2 TRANS_DATE: 3/2/01 UNIT_ID: BADLND_7_PL1X2 $$$ Variance found in table tblGEN_SCHEDULE. Details: (Hour: 23 / Preferred: 29.00 / Final: 27.88) TRANS_TYPE: FINAL SC_ID: ARCO MKT_TYPE: 2 TRANS_DATE: 3/2/01 UNIT_ID: CARBGN_6_UNIT 1

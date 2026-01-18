@@ -1,0 +1,5 @@
+From: diana.scholtes@enron.com
+To: michael.tully@enron.com
+Date: Tue, 30 Oct 2001 13:18:20 -0800 (PST)
+Subject: RE:
+thanks -----Original Message----- From: Tully, Michael Sent: Tuesday, October 30, 2001 8:50 AM To: Scholtes, Diana Subject: RE: Spoke to Houston, and they know that it is not working. It is a problem with the database. The Database Administrators are working on it as we speak. As soon as it is done, they will call me. Michael S. Tully Trade Floor Support, Portland (503)464-7790 Desk (503)807-7862 Cell michael.tully@enron.com He who runs behind car, often get exhausted. -----Original Message----- From: Scholtes, Diana Sent: Tuesday, October 30, 2001 8:28 AM To: Tully, Michael Subject: Hey just wanted you to know that the Real-Time position Mgr. is still not working; or updating. ds

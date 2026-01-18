@@ -1,0 +1,24 @@
+From: mary.hain@enron.com
+To: phillip.allen@enron.com, robert.badeer@enron.com, tim.belden@enron.com, 
+	shelia.benke@enron.com, donald.black@enron.com, 
+	william.bradford@enron.com, rick.buy@enron.com, 
+	andre.cangucu@enron.com, alan.comnes@enron.com, 
+	wanda.curry@enron.com, jeff.dasovich@enron.com, 
+	karen.denne@enron.com, mike.grigsby@enron.com, 
+	mark.haedicke@enron.com, mary.hain@enron.com, joe.hartsoe@enron.com, 
+	keith.holst@enron.com, robert.johnston@enron.com, 
+	paul.kaufman@enron.com, steven.kean@enron.com, 
+	harry.kingerski@enron.com, susan.mara@enron.com, 
+	sandra.mccubbin@enron.com, travis.mccullough@enron.com, 
+	mark.metts@enron.com, sarah.novosel@enron.com, mark.palmer@enron.com, 
+	linda.robertson@enron.com, richard.sanders@enron.com, 
+	gordon.savage@enron.com, richard.shapiro@enron.com, 
+	vicki.sharp@enron.com, mike.smith@enron.com, shari.stack@enron.com, 
+	james.steffes@enron.com, marty.sunde@enron.com, 
+	stephen.swain@enron.com, mitchell.taylor@enron.com, 
+	michael.tribolet@enron.com, robert.williams@enron.com, 
+	greg.wolfe@enron.com, roger.yang@enron.com, 
+	christian.yoder@enron.com
+Date: Thu, 15 Feb 2001 05:39:00 -0800 (PST)
+Subject: About Duke's Complaint
+Here's the answer to your question about paragraphs 42 and 44 of Duke's complaint. Although CDWR is technically the SC for the UDCs in the short term bilateral market and the ISO, as a practical matter, if CDWR does not like the prices offered in the bilateral market, it waits to buy the power from the ISO. Then CDWR reviews the price of the ISO's purchases and (according to an article in Megawatt daily) it "does not authorize the payment at prices it deems unreasonable."

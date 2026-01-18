@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Fri, 13 Apr 2001 13:41:00 -0700 (PDT)
+Subject: Start Date: 4/13/01; HourAhead hour: 21;  <CODESITE>
+Start Date: 4/13/01; HourAhead hour: 21; No ancillary schedules awarded. Variances detected. Variances detected in SC Trades schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001041321.txt ---- SC Trades Schedule ---- $$$ Variance found in table tblInt_Interchange. Details: (Hour: 21 / Preferred: -175.00 / Final: -174.97) TRANS_TYPE: FINAL SC_ID: EPMI MKT_TYPE: 2 TRANS_DATE: 4/13/01 TRADING_SC: ECH1 PNT_OF_INTRC: SP15 SCHED_TYPE: ENGY PURCH_SALE: 1 DEAL_NO: 1

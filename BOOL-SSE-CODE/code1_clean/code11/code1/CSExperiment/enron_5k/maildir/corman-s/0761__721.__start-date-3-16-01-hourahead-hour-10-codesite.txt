@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Fri, 16 Mar 2001 01:38:00 -0800 (PST)
+Subject: Start Date: 3/16/01; HourAhead hour: 10;  <CODESITE>
+Start Date: 3/16/01; HourAhead hour: 10; No ancillary schedules awarded. No variances detected. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001031610.txt ---- Energy Import/Export Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 3/16/01 TIE_POINT: MALIN_5_RNDMTN INTERCHG_ID: CISO_EPMI_DUCKS ENGY_TYPE: NFRM *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 3/16/01 TIE_POINT: SLVRPK_7_SPP INTERCHG_ID: CISO_EPMI_BUNNY ENGY_TYPE: NFRM

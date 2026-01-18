@@ -1,0 +1,10 @@
+From: john.buchanan@enron.com
+To: randy.janzen@enron.com, jerry.wilkens@enron.com, 
+	robert.benningfield@enron.com, shirley.walden@enron.com, 
+	lynn.blair@enron.com, shelley.corman@enron.com, 
+	steve.january@enron.com, terry.kowalke@enron.com, 
+	gerry.medeles@enron.com, sheila.nacey@enron.com, 
+	oncall.tms@enron.com
+Date: Mon, 11 Mar 2002 03:47:46 -0800 (PST)
+Subject: RE: NNG Weekend Notes - March 10-11
+Hasan has come up with an alternate way to get Email cut notices out to customers so customers are currently receiving cut notices but will get with Jean McFarland this week to analyze what went wrong with the standard method of sending Email cut notices. John Buchanan -----Original Message----- From: Janzen, Randy Sent: Sunday, March 10, 2002 9:17 PM To: Wilkens, Jerry; Benningfield, Robert; Janzen, Randy; Walden, Shirley; Blair, Lynn; Buchanan, John; Corman, Shelley; January, Steve; Kowalke, Terry; Medeles, Gerry; Nacey, Sheila; TMS OnCall Subject: NNG Weekend Notes - March 10-11 << File: NNGWKednotes_2002.xls >>

@@ -1,0 +1,5 @@
+From: chairman@enron.com
+To: mark.guzman@enron.com
+Date: Thu, 4 Jan 2001 12:29:00 -0800 (PST)
+Subject: Code of Ethics
+Our records indicate that you have not certified compliance with the Enron Code of Ethics. The Code of Ethics is located within the eHRonline application. You can access this application by copying the following URL into your Internet Explorer: http://ehronline.enron.com. Use your SAP id or GIS id (global employees only), and certify compliance by Friday, January 12, 2001. If you need assistance, please contact the Integrated Solution Center Help Desk at 713-345-4727. It is absolutely essential that you fully comply with the policies and certify compliance with Enron's Code of Ethics. Thank you for your cooperation.

@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Mon, 12 Mar 2001 02:38:00 -0800 (PST)
+Subject: Start Date: 3/12/01; HourAhead hour: 11;  <CODESITE>
+Start Date: 3/12/01; HourAhead hour: 11; No ancillary schedules awarded. Variances detected. Variances detected in Load schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001031211.txt !!!General SQL error. Couldn't read; currently locked by user 'Admin' on machine 'NAHOU-TRDTS3'. Table !!!General SQL error. Couldn't read; currently locked by user 'Admin' on machine 'NAHOU-TRDTS3'. Table ---- Load Schedule ---- $$$ Variance found in table tblLoads. Details: (Hour: 11 / Preferred: 51.13 / Final: 51.10) TRANS_TYPE: FINAL LOAD_ID: PGE3 MKT_TYPE: 2 TRANS_DATE: 3/12/01 SC_ID: EPMI

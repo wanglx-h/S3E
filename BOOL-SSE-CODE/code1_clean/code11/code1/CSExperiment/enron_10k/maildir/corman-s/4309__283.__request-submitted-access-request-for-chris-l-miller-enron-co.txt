@@ -1,0 +1,5 @@
+From: arsystem@mailman.enron.com
+To: shelley.corman@enron.com
+Date: Wed, 16 Jan 2002 20:57:53 -0800 (PST)
+Subject: Request Submitted: Access Request for chris.l.miller@enron.com
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000081115&Page=Approval to review and act upon this request. Request ID : 000000000081115 Request Create Date : 1/16/02 2:57:52 PM Requested For : chris.l.miller@enron.com Resource Name : Unlisted Desktop Application Resource Type : Applications

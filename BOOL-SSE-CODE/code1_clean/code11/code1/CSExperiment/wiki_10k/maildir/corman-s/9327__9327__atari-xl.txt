@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Atari XL
+image:Atari 1200XL.jpg The '''Atari XL''' was a series of 8-bit home computers introduced in 1983. They were an improved version of the Atari 400 and Atari 800 computers from 1979. Their main Central processing unit was a MOS Technology 6502. There were 3 versions- the 1200XL, the 600XL and the 800XL. All three used a normal television as a display. Category:Historical computers Category:Atari hardware

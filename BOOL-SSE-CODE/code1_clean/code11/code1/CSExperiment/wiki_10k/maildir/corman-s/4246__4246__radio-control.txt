@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Radio control
+'''Radio control''' is controlling vehicles by radio wave signals. It is often used for making models of car, boat, helicopter and airplane move on their own like real ones. For controlling models, an operator uses a transmitter that has the model's controls on it. When a control is moved, the radio signal changes. The part on the model that takes the changing signals and helps turn them into movement is called the receiver. The receiver then tells a special kind of motor called a servo to move part of the model. On a car or boat, a servo is usually used for steering. Model sailboat use a servo to adjust the sail as well as the rudder, or steering device. On airplanes and helicopters, servos are used not only for steering but for up and down pitch. If the model uses an engine to make it run, a servo is used to control the speed of the engine. A model which operates with an electric motor usually has something called an '''electronic speed control''' or "ESC" to control its speed. Unmanned aerial vehicles controlled by radio are used for many purposes, including war. Category:Electronics category:toys category:weapons

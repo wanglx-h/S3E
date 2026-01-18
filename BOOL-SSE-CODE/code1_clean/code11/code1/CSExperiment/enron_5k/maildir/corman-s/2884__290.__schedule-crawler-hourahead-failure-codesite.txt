@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Thu, 19 Apr 2001 15:42:00 -0700 (PDT)
+Subject: Schedule Crawler: HourAhead Failure <CODESITE>
+Start Date: 4/19/01; HourAhead hour: 23; HourAhead schedule download failed. Manual intervention required. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001041923.txt Error: dbCapsPMIData: Cannot perform this operation on a closed database Error retrieving price data (General SQL error. Unrecognized database format 'R:\EnpowerCAPS\CAPS97DATA.mdb'. Table) - process continuing...

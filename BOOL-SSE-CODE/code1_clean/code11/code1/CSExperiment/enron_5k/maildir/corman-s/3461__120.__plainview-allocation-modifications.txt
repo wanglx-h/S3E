@@ -1,0 +1,5 @@
+From: michael.bodnar@enron.com
+To: gerry.medeles@enron.com, hasan.kedwaii@enron.com
+Date: Wed, 5 Dec 2001 11:18:29 -0800 (PST)
+Subject: Plainview Allocation Modifications
+Attached is an Enhancement Request to modify the Palinview Allocation. The modifications should be considered a high priority.

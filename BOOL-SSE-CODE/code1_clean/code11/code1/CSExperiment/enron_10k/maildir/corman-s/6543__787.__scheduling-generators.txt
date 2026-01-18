@@ -1,0 +1,7 @@
+From: kourtney.nelson@enron.com
+To: carla.hoffman@enron.com, chris.mallory@enron.com, jeremy.morris@enron.com, 
+	kate.symes@enron.com, phillip.platter@enron.com, 
+	jeff.richter@enron.com, portland.shift@enron.com
+Date: Mon, 12 Mar 2001 01:11:00 -0800 (PST)
+Subject: Scheduling Generators
+Just a few notes on scheduling: The new VESTAL_6_WDFIRE unit's counterparty name is SierraPower. This was being scheduled as Vestal but the counterparty name has been changed. Also, there have been a few errors in scheduling the Wheelabrator units. They should be scheduled as follows: Wheelabrat: MARTEL_2_AMFOR WheelSHAST: WSENGY_1_UNIT 4 Thanks and let me know if you have any questions, Kourtney

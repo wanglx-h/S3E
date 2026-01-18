@@ -1,0 +1,5 @@
+From: jnickel@caiso.com
+To: 20participants@caiso.com, oasismktparticipants@caiso.com
+Date: Thu, 8 Mar 2001 12:02:00 -0800 (PST)
+Subject: Oasis Re-Design Prototype Release
+Oasis Re-Design Prototype Release Announcement This announcement is being issued to the Market Participants to provide an update to the OASIS Re-Design project. Prototype v0.51 was released on Thursday, March 08, 2001. The following changes were made to the site in this release: * XML Download query service has been modified to increase reliability. * Empty tags in XML files have been removed. * Meeting Minutes from XML Working Group Forum of 03/02/2001 have been added to OASIS Help. OASIS Re-Design Project Schedule: * March 08, 2001 - Release of prototype v0.51 * March 08, 2001 - May 03rd, 2001 - Development Period (eight weeks) * May 03rd, 2001 - May 17th, 2001 - Market Simulation - (two weeks) * May 17th, 2001 - May 31st, 2001 - Market Hold - (two weeks) * May 31st, 2001 - Release to production. We welcome comments and questions from all interested parties. Please send all correspondence to: xmlwg@caiso.com

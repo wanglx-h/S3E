@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Searchresulttext
+For more information about searching Wikipedia, see :en:Wikipedia:Searching (on the English Wikipedia).

@@ -1,0 +1,9 @@
+From: lisa.sawyer@enron.com
+To: scott.abshire@enron.com, mark.gigliotti@enron.com, mark.ferguson@enron.com, 
+	andriy.mysyk@enron.com, lisa.gilchrist@enron.com, 
+	susan.brower@enron.com, joanne.bisbee@enron.com, 
+	andy.brady@enron.com, hasan.kedwaii@enron.com, wendy.koh@enron.com, 
+	jeanne.licciardo@enron.com
+Date: Fri, 25 Jan 2002 10:32:22 -0800 (PST)
+Subject: Roles & Responsibilities
+I wanted to make sure that everyone was aware that Andy Brady is taking on the role as Project Manager for the Rates & Revenue project. Wendy is taking on the role as Requirements and Design Manager for Rates & Revenue. All project related questions regarding the Rates & Revenue project should be directed to Andy. Jeanne is taking responsibility for all remaining CMS/CRS/CAS project efforts including the TW CMS/CRS implementation as well as all CMS/CRS/CAS production support related items. Please direct all inquiries regarding these applications to Jeanne. These individuals will be working together to complete this transition by February 1st. Thanks for your support as we make these changes.

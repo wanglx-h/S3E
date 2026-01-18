@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Fri, 23 Feb 2001 07:38:00 -0800 (PST)
+Subject: Start Date: 2/23/01; HourAhead hour: 16;  <CODESITE>
+Start Date: 2/23/01; HourAhead hour: 16; No ancillary schedules awarded. No variances detected. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001022316.txt

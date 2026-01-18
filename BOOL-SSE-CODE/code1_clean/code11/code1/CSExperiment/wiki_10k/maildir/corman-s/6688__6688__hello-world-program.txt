@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Hello world program
+A '''Hello world program''' is usually a program made by computer programmers that are new to a programming languages, or to test if the compiler for this language is working correctly. It will simply put the text '''''Hello, World!''''' on the screen. == Wikipedia articles that have Hello world programs == == Sources == == Other websites == * [http://helloworld.org/ helloworld.org] * [http://www.roesler-ac.de/wolfram/hello.htm The Hello World Collection] * [http://codepad.org codepad.org] - Can compile some of the programs Category:Programming languages Category:Software

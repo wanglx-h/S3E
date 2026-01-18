@@ -1,0 +1,9 @@
+From: michele.winckowski@enron.com
+To: lynn.blair@enron.com, dan.fancler@enron.com, sue.neville@enron.com, 
+	theresa.hess@enron.com, darrell.schoolcraft@enron.com, 
+	kent.miller@enron.com, jo.williams@enron.com, john.cobb@enron.com, 
+	michael.bodnar@enron.com, patrick.brennan@enron.com, 
+	tim.kissner@enron.com
+Date: Mon, 22 Oct 2001 11:08:53 -0700 (PDT)
+Subject: Draft - Procedures for Offsytem Transactions
+Attached is the first draft of procedures for offsystem transactions. Please review and provide comments by Friday, Oct 26th . Thanks MW

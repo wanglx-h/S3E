@@ -1,0 +1,7 @@
+From: helpdesk.hottap@enron.com
+To: jerry.wilkens@enron.com, helpdesk.hottap@enron.com, john.buchanan@enron.com, 
+	lynn.blair@enron.com, sheila.nacey@enron.com, 
+	terry.kowalke@enron.com
+Date: Mon, 22 Oct 2001 05:37:16 -0700 (PDT)
+Subject: RE: OPERATOR SCHEDULED QUANTITIES REPORT
+Remedy ticket ETS200000031640. has been assigned to this issue Deborah HotTap Helpdesk -----Original Message----- From: Wilkens, Jerry Sent: Saturday, October 20, 2001 10:05 AM To: Hottap HelpDesk (E-mail); John Buchanan (E-mail); Lynn Blair (E-mail); Sheila Nacey (E-mail); Terry Kowalke (E-mail) Subject: OPERATOR SCHEDULED QUANTITIES REPORT FYI, The following report is not updating for the non-grid (gas day 10-20-01) & the final (gas day 10-19-01). This was pulled @ 9:58am 10-20-01. Please call with any questions @ ext. 3-6167. Thanks, Jerry << OLE Object: Picture (Device Independent Bitmap) >>

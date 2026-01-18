@@ -1,0 +1,5 @@
+From: bwoertz@caiso.com
+To: 20participants@caiso.com
+Date: Tue, 1 Aug 2000 08:58:00 -0700 (PDT)
+Subject: CAISO Notice - Release of Public Bid Data
+Market Participants: Pursuant to the ISO's Governing Board decision in October 1999 and FERC's ruling in March 2000, the ISO has begun releasing market bid information, lagged by a six month period and without revealing the names of bidders, beginning on August 1, 2000 for operating date February 1, 2000. Bid data will be provided for the ISO's ancillary service markets, real-time energy market, and congestion management market. These data can be found on the ISO's web site at (http://www.caiso.com/marketops/OASIS/ <http://www.caiso.com/marketops/OASIS/> ) and will be updated daily. Byron Woertz Director, Client Relations

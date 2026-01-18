@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Wikipedia:Statistics
+This page is designed to show various tools which show statistics related to Wikipedia:Simple English Wikipedia's growth and use. * Special:Statistics - shows basic total pages, users, and administrators. * http://en.wikipedia.org/wikistats/EN/TablesWikipediaSIMPLE.htm - More detailed table of information * http://en.wikipedia.org/wikistats/EN/ChartsWikipediaSIMPLE.htm - Statistics using charts and graphs * THEwikiStics: [http://wikistics.falsikon.de/latest/wikipedia/simple/ Page Hits toplist] (compare [http://wikistics.falsikon.de/latest/ traffic] | [http://wikistics.falsikon.de/latest/searches.htm searches]) (not updated since 2009) * [http://www.wikistatistics.net/wikimedia Wikipedia Interactive Statistics] ([http://www.wikistatistics.net/data/full/sites/wiki/simple.csv tables] | [http://www.wikistatistics.net/wiki/simple charts]) * [http://toolserver.org/~emijrp/wikimediacounter/ Wikimedia projects edits counter] * User:Huji/Stats Category:Wikipedia administration

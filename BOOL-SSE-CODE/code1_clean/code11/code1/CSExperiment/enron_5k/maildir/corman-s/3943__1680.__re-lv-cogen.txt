@@ -1,0 +1,5 @@
+From: john.forney@enron.com
+To: mark.guzman@enron.com
+Date: Tue, 21 Nov 2000 01:18:00 -0800 (PST)
+Subject: Re: LV Cogen
+Mark, What was the issue here? Were we short 2 mw's to the PX? If so, we wouldve been short at expost inc. What was that price? Did Real Time/Les properly handle billing LV for this expense? Thanks, JMF

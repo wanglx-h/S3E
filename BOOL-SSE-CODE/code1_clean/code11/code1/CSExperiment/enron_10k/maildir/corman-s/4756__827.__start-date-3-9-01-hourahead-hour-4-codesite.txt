@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Thu, 8 Mar 2001 19:38:00 -0800 (PST)
+Subject: Start Date: 3/9/01; HourAhead hour: 4;  <CODESITE>
+Start Date: 3/9/01; HourAhead hour: 4; No ancillary schedules awarded. Variances detected. Variances detected in Generation schedule. Variances detected in Energy Import/Export schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001030904.txt ---- Generation Schedule ---- +++ Hour 4 - bad data from ISO. TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 3/9/01 UNIT_ID: VESTAL_6_WDFIRE ---- Energy Import/Export Schedule ---- +++ Hour 4 - bad data from ISO. TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 3/9/01 TIE_POINT: SYLMAR_2_NOB INTERCHG_ID: EPMI_CISO_LUCKY ENGY_TYPE: NFRM

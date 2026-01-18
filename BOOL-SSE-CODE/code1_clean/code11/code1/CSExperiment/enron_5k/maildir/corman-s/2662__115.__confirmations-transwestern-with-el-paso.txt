@@ -1,0 +1,7 @@
+From: mary.draemer@enron.com
+To: lynn.blair@enron.com, john.buchanan@enron.com, terry.kowalke@enron.com, 
+	bert.hernandez@enron.com, beverly.miller@enron.com, 
+	james.studebaker@enron.com
+Date: Tue, 27 Nov 2001 14:05:59 -0800 (PST)
+Subject: Confirmations - Transwestern with El Paso
+Everyone, With lots of great help from Bert and Beverly, a timeline of the Transwestern confirmation process with El Paso has been documented and is attached. Also, at the bottom of this attachment are several issues that have been identified in looking at the EDI process. I will be getting a meeting together either Friday or early next week to discuss. Thanks, Mary

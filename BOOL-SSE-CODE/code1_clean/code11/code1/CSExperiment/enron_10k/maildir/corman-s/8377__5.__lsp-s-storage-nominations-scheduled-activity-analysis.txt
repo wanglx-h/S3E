@@ -1,0 +1,5 @@
+From: michael.bodnar@enron.com
+To: tim.johanson@enron.com
+Date: Wed, 31 Oct 2001 07:32:01 -0800 (PST)
+Subject: LSP's Storage - Nominations & Scheduled Activity Analysis
+Tim, The attached spreadsheet lists the nomination/scheduled storage injectionsfor each nomination cycle on the days NNG allocated storage. If a cycle was allocated the cycle number is BOLD and the cycle name is displayed in the next column. It appears that in almost all the days in question LSP entered a nomination during the Timely cycle. If you would like to discuss further or have any questions, please call me (713 / 853-6486). Mike

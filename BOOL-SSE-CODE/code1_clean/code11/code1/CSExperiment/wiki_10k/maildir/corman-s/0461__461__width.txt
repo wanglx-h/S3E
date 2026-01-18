@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Width
+'''Width''' or '''breadth''' is the side-to-side length, Measurement across the object at right angles to the height. For example, the distance between the left side and right side of a chair is its width. Objects have a length and a width in 2D or more. In shapes such as rectangles, Multiplication the length and the width equals the area of the shape. ==Related pages== *Height *Depth Category:Physical quantity

@@ -1,0 +1,5 @@
+From: diana.scholtes@enron.com
+To: samantha.law@enron.com, fran.chang@enron.com, heather.dunton@enron.com
+Date: Wed, 26 Sep 2001 10:05:59 -0700 (PDT)
+Subject: Time zone error
+Deal # 281938.1 BPA ds

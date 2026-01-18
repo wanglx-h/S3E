@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: whalley@enron.com
+Date: Sat, 29 Oct 0001 15:31:04 -0800 (PST)
+Subject: <<Concur Expense Document>> - 09 - 10 / 01 hs business
+The following expense report is ready for approval: Employee Name: Heath . Schiesser Status last changed by: Automated Administrator Expense Report Name: 09 - 10 / 01 hs business Report Total: $8,253.56 Amount Due Employee: $8,253.56 To approve this expense report, click on the following link for Concur Expense. http://expensexms.enron.com

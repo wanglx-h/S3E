@@ -1,0 +1,424 @@
+2025-11-22 14:21:54,729 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 14:32:26,313 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 14:32:26,317 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 14:32:26,317 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 14:32:26,317 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 14:32:26,317 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 14:36:20,269 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 14:36:20,273 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 14:36:20,273 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 14:36:20,274 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 14:36:20,274 - tools.py[line:128] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 14:36:20,274 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 14:40:39,486 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 14:40:39,490 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 14:40:39,490 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 14:40:39,490 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 14:40:39,491 - tools.py[line:128] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 14:40:39,491 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 14:40:46,831 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 14:40:46,835 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 14:40:46,836 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 14:40:46,836 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 14:40:46,836 - tools.py[line:128] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 14:40:46,836 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 14:46:26,990 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 14:46:26,994 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 14:46:26,994 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 14:46:26,994 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 14:46:26,995 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 14:51:13,927 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 14:51:13,931 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 14:51:13,932 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 14:51:13,932 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 14:51:13,932 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 14:57:35,788 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 14:57:35,792 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 14:57:35,792 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 14:57:35,793 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 14:57:35,793 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:01:35,003 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 15:01:35,008 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 15:01:35,008 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 15:01:35,008 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 15:01:35,008 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:01:35,016 - tools.py[line:51] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 15:01:35,016 - KeyGenServer.py[line:60] - INFO: ==================KeyGenServer End==================
+2025-11-22 15:01:35,016 - KeyGenReceiverU.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:01:35,016 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:05:24,869 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 15:05:24,874 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 15:05:24,874 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 15:05:24,874 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 15:05:24,874 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:05:24,882 - tools.py[line:51] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 15:05:24,883 - KeyGenServer.py[line:60] - INFO: ==================KeyGenServer End==================
+2025-11-22 15:05:24,883 - KeyGenReceiverU.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:05:24,883 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:05:24,889 - tools.py[line:51] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 15:05:24,890 - KeyGenReceiverU.py[line:38] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:05:24,890 - KeyGenReceiverV.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:05:24,890 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:05:24,897 - tools.py[line:51] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 15:05:24,897 - KeyGenReceiverV.py[line:41] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:05:24,897 - ReKeyGen.py[line:18] - INFO: ==================ReKeyGen Start==================
+2025-11-22 15:05:24,897 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:05:24,902 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:05:24,908 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 15:12:40,500 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 15:12:40,504 - tools.py[line:50] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 15:12:40,505 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 15:12:40,505 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 15:12:40,505 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:12:40,513 - tools.py[line:50] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 15:12:40,513 - KeyGenServer.py[line:60] - INFO: ==================KeyGenServer End==================
+2025-11-22 15:12:40,513 - KeyGenReceiverU.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:12:40,513 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:12:40,520 - tools.py[line:50] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 15:12:40,520 - KeyGenReceiverU.py[line:38] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:12:40,520 - KeyGenReceiverV.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:12:40,520 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:12:40,527 - tools.py[line:50] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 15:12:40,527 - KeyGenReceiverV.py[line:41] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:12:40,528 - ReKeyGen.py[line:18] - INFO: ==================ReKeyGen Start==================
+2025-11-22 15:12:40,528 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:12:40,533 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:12:40,539 - tools.py[line:84] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 15:12:40,539 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:12:40,545 - tools.py[line:84] - INFO: Reading Server/Parameter/vKey.dat file
+2025-11-22 15:17:32,103 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 15:17:32,107 - tools.py[line:50] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 15:17:32,107 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 15:17:32,107 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 15:17:32,107 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:17:32,116 - tools.py[line:50] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 15:17:32,116 - KeyGenServer.py[line:60] - INFO: ==================KeyGenServer End==================
+2025-11-22 15:17:32,116 - KeyGenReceiverU.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:17:32,116 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:17:32,123 - tools.py[line:50] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 15:17:32,123 - KeyGenReceiverU.py[line:38] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:17:32,123 - KeyGenReceiverV.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:17:32,123 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:17:32,130 - tools.py[line:50] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 15:17:32,130 - KeyGenReceiverV.py[line:41] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:17:32,130 - ReKeyGen.py[line:19] - INFO: ==================ReKeyGen Start==================
+2025-11-22 15:17:32,130 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:17:32,136 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:17:32,142 - tools.py[line:84] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 15:17:32,142 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:17:32,147 - tools.py[line:84] - INFO: Reading Server/Parameter/vKey.dat file
+2025-11-22 15:26:11,792 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 15:26:11,797 - tools.py[line:50] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 15:26:11,797 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 15:26:11,797 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 15:26:11,797 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:26:11,805 - tools.py[line:50] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 15:26:11,806 - KeyGenServer.py[line:60] - INFO: ==================KeyGenServer End==================
+2025-11-22 15:26:11,806 - KeyGenReceiverU.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:26:11,806 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:26:11,812 - tools.py[line:50] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 15:26:11,813 - KeyGenReceiverU.py[line:38] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:26:11,813 - KeyGenReceiverV.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:26:11,813 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:26:11,820 - tools.py[line:50] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 15:26:11,820 - KeyGenReceiverV.py[line:41] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:26:11,821 - ReKeyGen.py[line:19] - INFO: ==================ReKeyGen Start==================
+2025-11-22 15:26:11,821 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:26:11,826 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:26:11,832 - tools.py[line:84] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 15:26:11,832 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:26:11,838 - tools.py[line:84] - INFO: Reading Server/Parameter/vKey.dat file
+2025-11-22 15:29:31,502 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 15:29:31,506 - tools.py[line:50] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 15:29:31,507 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 15:29:31,507 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 15:29:31,507 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:29:31,515 - tools.py[line:50] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 15:29:31,515 - KeyGenServer.py[line:60] - INFO: ==================KeyGenServer End==================
+2025-11-22 15:29:31,515 - KeyGenReceiverU.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:29:31,515 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:29:31,522 - tools.py[line:50] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 15:29:31,522 - KeyGenReceiverU.py[line:38] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:29:31,522 - KeyGenReceiverV.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:29:31,522 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:29:31,529 - tools.py[line:50] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 15:29:31,529 - KeyGenReceiverV.py[line:41] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:29:31,530 - ReKeyGen.py[line:10] - INFO: ==================ReKeyGen Start==================
+2025-11-22 15:29:31,530 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:29:31,535 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:29:31,541 - tools.py[line:84] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 15:29:31,541 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:29:31,547 - tools.py[line:84] - INFO: Reading Server/Parameter/vKey.dat file
+2025-11-22 15:31:50,711 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 15:31:50,715 - tools.py[line:50] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 15:31:50,716 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 15:31:50,716 - KeyGenServer.py[line:19] - INFO: ==================KeyGenServer Start==================
+2025-11-22 15:31:50,716 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:31:50,724 - tools.py[line:50] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 15:31:50,724 - KeyGenServer.py[line:60] - INFO: ==================KeyGenServer End==================
+2025-11-22 15:31:50,724 - KeyGenReceiverU.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:31:50,724 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:31:50,731 - tools.py[line:50] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 15:31:50,731 - KeyGenReceiverU.py[line:38] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:31:50,732 - KeyGenReceiverV.py[line:19] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 15:31:50,732 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:31:50,738 - tools.py[line:50] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 15:31:50,739 - KeyGenReceiverV.py[line:41] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 15:31:50,739 - ReKeyGen.py[line:10] - INFO: ==================ReKeyGen Start==================
+2025-11-22 15:31:50,739 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:31:50,744 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:31:50,750 - tools.py[line:84] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 15:31:50,750 - tools.py[line:84] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 15:31:50,756 - tools.py[line:84] - INFO: Reading Server/Parameter/vKey.dat file
+2025-11-22 15:55:52,104 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 15:55:52,108 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 15:55:52,108 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 15:55:52,108 - KeyGenServer.py[line:7] - INFO: ==================KeyGenServer Start==================
+2025-11-22 15:55:52,109 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:01:21,607 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 16:01:21,611 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 16:01:21,611 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 16:01:21,611 - KeyGenServer.py[line:7] - INFO: ==================KeyGenServer Start==================
+2025-11-22 16:01:21,611 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:01:21,620 - tools.py[line:51] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 16:01:21,620 - KeyGenServer.py[line:39] - INFO: ==================KeyGenServer End==================
+2025-11-22 16:01:21,620 - KeyGenReceiverU.py[line:7] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 16:01:21,620 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:07:19,704 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 16:07:19,708 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 16:07:19,709 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 16:07:19,709 - KeyGenServer.py[line:7] - INFO: ==================KeyGenServer Start==================
+2025-11-22 16:07:19,709 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:07:19,718 - tools.py[line:51] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 16:07:19,718 - KeyGenServer.py[line:39] - INFO: ==================KeyGenServer End==================
+2025-11-22 16:07:19,718 - KeyGenReceiverU.py[line:7] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 16:07:19,718 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:07:19,725 - tools.py[line:51] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:07:19,725 - KeyGenReceiverU.py[line:48] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:07:19,725 - KeyGenReceiverU.py[line:49] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 16:07:19,725 - KeyGenReceiverV.py[line:7] - INFO: ==================KeyGenReceiverV Start==================
+2025-11-22 16:07:19,725 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:07:19,732 - tools.py[line:51] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:07:19,732 - KeyGenReceiverV.py[line:34] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:07:19,732 - KeyGenReceiverV.py[line:35] - INFO: ==================KeyGenReceiverV End==================
+2025-11-22 16:07:19,732 - ReKeyGen.py[line:18] - INFO: ==================ReKeyGen Start==================
+2025-11-22 16:07:19,732 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:07:19,738 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:07:19,744 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:12:53,888 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 16:12:53,892 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 16:12:53,892 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 16:12:53,892 - KeyGenServer.py[line:7] - INFO: ==================KeyGenServer Start==================
+2025-11-22 16:12:53,893 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:12:53,901 - tools.py[line:51] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 16:12:53,901 - KeyGenServer.py[line:39] - INFO: ==================KeyGenServer End==================
+2025-11-22 16:12:53,901 - KeyGenReceiverU.py[line:7] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 16:12:53,901 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:12:53,909 - tools.py[line:51] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:12:53,909 - KeyGenReceiverU.py[line:48] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:12:53,909 - KeyGenReceiverU.py[line:49] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 16:12:53,909 - KeyGenReceiverV.py[line:7] - INFO: ==================KeyGenReceiverV Start==================
+2025-11-22 16:12:53,909 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:12:53,916 - tools.py[line:51] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:12:53,916 - KeyGenReceiverV.py[line:34] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:12:53,916 - KeyGenReceiverV.py[line:35] - INFO: ==================KeyGenReceiverV End==================
+2025-11-22 16:12:53,917 - ReKeyGen.py[line:18] - INFO: ==================ReKeyGen Start==================
+2025-11-22 16:12:53,917 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:12:53,922 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:12:53,928 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:12:53,928 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:12:53,934 - tools.py[line:89] - INFO: Reading Server/Parameter/vKey.dat file
+2025-11-22 16:20:24,304 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 16:20:24,308 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 16:20:24,309 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 16:20:24,309 - KeyGenServer.py[line:7] - INFO: ==================KeyGenServer Start==================
+2025-11-22 16:20:24,309 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:20:24,317 - tools.py[line:51] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 16:20:24,318 - KeyGenServer.py[line:39] - INFO: ==================KeyGenServer End==================
+2025-11-22 16:20:24,318 - KeyGenReceiverU.py[line:7] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 16:20:24,318 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:20:24,325 - tools.py[line:51] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:20:24,325 - KeyGenReceiverU.py[line:48] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:20:24,325 - KeyGenReceiverU.py[line:49] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 16:20:24,325 - KeyGenReceiverV.py[line:7] - INFO: ==================KeyGenReceiverV Start==================
+2025-11-22 16:20:24,325 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:20:24,332 - tools.py[line:51] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:20:24,332 - KeyGenReceiverV.py[line:34] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:20:24,332 - KeyGenReceiverV.py[line:35] - INFO: ==================KeyGenReceiverV End==================
+2025-11-22 16:20:24,333 - ReKeyGen.py[line:9] - INFO: ==================ReKeyGen Start==================
+2025-11-22 16:20:24,333 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:20:24,338 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:20:24,344 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:20:24,344 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:20:24,350 - tools.py[line:89] - INFO: Reading Server/Parameter/vKey.dat file
+2025-11-22 16:24:15,296 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 16:24:15,300 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 16:24:15,301 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 16:24:15,301 - KeyGenServer.py[line:7] - INFO: ==================KeyGenServer Start==================
+2025-11-22 16:24:15,301 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:24:15,309 - tools.py[line:51] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 16:24:15,309 - KeyGenServer.py[line:39] - INFO: ==================KeyGenServer End==================
+2025-11-22 16:24:15,309 - KeyGenReceiverU.py[line:7] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 16:24:15,309 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:24:15,317 - tools.py[line:51] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:24:15,317 - KeyGenReceiverU.py[line:48] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:24:15,317 - KeyGenReceiverU.py[line:49] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 16:24:15,317 - KeyGenReceiverV.py[line:7] - INFO: ==================KeyGenReceiverV Start==================
+2025-11-22 16:24:15,317 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:24:15,324 - tools.py[line:51] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:24:15,324 - KeyGenReceiverV.py[line:34] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:24:15,324 - KeyGenReceiverV.py[line:35] - INFO: ==================KeyGenReceiverV End==================
+2025-11-22 16:24:15,324 - ReKeyGen.py[line:9] - INFO: ==================ReKeyGen Start==================
+2025-11-22 16:24:15,324 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:24:15,330 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:24:15,330 - tools.py[line:89] - INFO: Reading Server/Parameter/vKey.dat file
+2025-11-22 16:24:15,342 - tools.py[line:51] - INFO: Creating Server/Parameter/rkuv.dat file
+2025-11-22 16:24:15,342 - ReKeyGen.py[line:94] - INFO: ==================ReKeyGen End==================
+2025-11-22 16:28:59,094 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 16:28:59,098 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 16:28:59,099 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 16:28:59,099 - KeyGenServer.py[line:7] - INFO: ==================KeyGenServer Start==================
+2025-11-22 16:28:59,099 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:28:59,108 - tools.py[line:51] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 16:28:59,108 - KeyGenServer.py[line:39] - INFO: ==================KeyGenServer End==================
+2025-11-22 16:28:59,108 - KeyGenReceiverU.py[line:7] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 16:28:59,108 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:28:59,115 - tools.py[line:51] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:28:59,115 - KeyGenReceiverU.py[line:48] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:28:59,115 - KeyGenReceiverU.py[line:49] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 16:28:59,116 - KeyGenReceiverV.py[line:7] - INFO: ==================KeyGenReceiverV Start==================
+2025-11-22 16:28:59,116 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:28:59,123 - tools.py[line:51] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:28:59,123 - KeyGenReceiverV.py[line:34] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:28:59,123 - KeyGenReceiverV.py[line:35] - INFO: ==================KeyGenReceiverV End==================
+2025-11-22 16:28:59,123 - ReKeyGen.py[line:9] - INFO: ==================ReKeyGen Start==================
+2025-11-22 16:28:59,123 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:28:59,129 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:28:59,129 - tools.py[line:89] - INFO: Reading Server/Parameter/vKey.dat file
+2025-11-22 16:28:59,140 - tools.py[line:51] - INFO: Creating Server/Parameter/rkuv.dat file
+2025-11-22 16:28:59,140 - ReKeyGen.py[line:94] - INFO: ==================ReKeyGen End==================
+2025-11-22 16:33:28,122 - GlobalSetup.py[line:16] - INFO: ==================GlobalSetup Start==================
+2025-11-22 16:33:28,126 - tools.py[line:51] - INFO: Creating Server/Parameter/pp.dat file
+2025-11-22 16:33:28,126 - GlobalSetup.py[line:47] - INFO: ==================GlobalSetup End==================
+2025-11-22 16:33:28,127 - KeyGenServer.py[line:7] - INFO: ==================KeyGenServer Start==================
+2025-11-22 16:33:28,127 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,135 - tools.py[line:51] - INFO: Creating Server/Parameter/serverKey.dat file
+2025-11-22 16:33:28,135 - KeyGenServer.py[line:39] - INFO: ==================KeyGenServer End==================
+2025-11-22 16:33:28,135 - KeyGenReceiverU.py[line:7] - INFO: ==================KeyGenReceiver Start==================
+2025-11-22 16:33:28,135 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,143 - tools.py[line:51] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:33:28,143 - KeyGenReceiverU.py[line:48] - INFO: Creating Server/Parameter/uKey.dat file
+2025-11-22 16:33:28,143 - KeyGenReceiverU.py[line:49] - INFO: ==================KeyGenReceiver End==================
+2025-11-22 16:33:28,143 - KeyGenReceiverV.py[line:7] - INFO: ==================KeyGenReceiverV Start==================
+2025-11-22 16:33:28,143 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,150 - tools.py[line:51] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:33:28,150 - KeyGenReceiverV.py[line:34] - INFO: Creating Server/Parameter/vKey.dat file
+2025-11-22 16:33:28,150 - KeyGenReceiverV.py[line:35] - INFO: ==================KeyGenReceiverV End==================
+2025-11-22 16:33:28,150 - ReKeyGen.py[line:9] - INFO: ==================ReKeyGen Start==================
+2025-11-22 16:33:28,150 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,156 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:33:28,156 - tools.py[line:89] - INFO: Reading Server/Parameter/vKey.dat file
+2025-11-22 16:33:28,168 - tools.py[line:51] - INFO: Creating Server/Parameter/rkuv.dat file
+2025-11-22 16:33:28,168 - ReKeyGen.py[line:94] - INFO: ==================ReKeyGen End==================
+2025-11-22 16:33:28,168 - EDBSetup.py[line:136] - INFO: ==================GetDList Start==================
+2025-11-22 16:33:28,170 - EDBSetup.py[line:185] - INFO: ==================GetDList End==================
+2025-11-22 16:33:28,170 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,173 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,178 - tools.py[line:89] - INFO: Reading Server/Parameter/serverKey.dat file
+2025-11-22 16:33:28,178 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,184 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:33:28,184 - EDBSetup.py[line:211] - INFO: ==================EDBSetup Start==================
+2025-11-22 16:33:28,184 - EDBSetup.py[line:214] - INFO: ==================EDBSetup End==================
+2025-11-22 16:33:28,184 - tools.py[line:51] - INFO: Creating Server/EDB.dat file
+2025-11-22 16:33:28,184 - tools.py[line:51] - INFO: Creating Server/XSet.dat file
+2025-11-22 16:33:28,185 - tools.py[line:51] - INFO: Creating Server/Parameter/Inds.dat file
+2025-11-22 16:33:28,185 - tools.py[line:51] - INFO: Creating Server/Parameter/WSet.dat file
+2025-11-22 16:33:28,185 - run_all_datasets.py[line:28] - INFO: Copied Server/EDB.dat -> Server/EDB_enron_1k.dat
+2025-11-22 16:33:28,185 - run_all_datasets.py[line:28] - INFO: Copied Server/XSet.dat -> Server/XSet_enron_1k.dat
+2025-11-22 16:33:28,185 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/Inds.dat -> Server/Parameter/Inds_enron_1k.dat
+2025-11-22 16:33:28,185 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/WSet.dat -> Server/Parameter/WSet_enron_1k.dat
+2025-11-22 16:33:28,185 - EDBSetup.py[line:136] - INFO: ==================GetDList Start==================
+2025-11-22 16:33:28,192 - EDBSetup.py[line:185] - INFO: ==================GetDList End==================
+2025-11-22 16:33:28,192 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,195 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,201 - tools.py[line:89] - INFO: Reading Server/Parameter/serverKey.dat file
+2025-11-22 16:33:28,201 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,207 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:33:28,207 - EDBSetup.py[line:211] - INFO: ==================EDBSetup Start==================
+2025-11-22 16:33:28,207 - EDBSetup.py[line:214] - INFO: ==================EDBSetup End==================
+2025-11-22 16:33:28,207 - tools.py[line:51] - INFO: Creating Server/EDB.dat file
+2025-11-22 16:33:28,207 - tools.py[line:51] - INFO: Creating Server/XSet.dat file
+2025-11-22 16:33:28,208 - tools.py[line:51] - INFO: Creating Server/Parameter/Inds.dat file
+2025-11-22 16:33:28,208 - tools.py[line:51] - INFO: Creating Server/Parameter/WSet.dat file
+2025-11-22 16:33:28,208 - run_all_datasets.py[line:28] - INFO: Copied Server/EDB.dat -> Server/EDB_enron_5k.dat
+2025-11-22 16:33:28,208 - run_all_datasets.py[line:28] - INFO: Copied Server/XSet.dat -> Server/XSet_enron_5k.dat
+2025-11-22 16:33:28,208 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/Inds.dat -> Server/Parameter/Inds_enron_5k.dat
+2025-11-22 16:33:28,208 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/WSet.dat -> Server/Parameter/WSet_enron_5k.dat
+2025-11-22 16:33:28,208 - EDBSetup.py[line:136] - INFO: ==================GetDList Start==================
+2025-11-22 16:33:28,223 - EDBSetup.py[line:185] - INFO: ==================GetDList End==================
+2025-11-22 16:33:28,223 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,226 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,231 - tools.py[line:89] - INFO: Reading Server/Parameter/serverKey.dat file
+2025-11-22 16:33:28,231 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,237 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:33:28,237 - EDBSetup.py[line:211] - INFO: ==================EDBSetup Start==================
+2025-11-22 16:33:28,237 - EDBSetup.py[line:214] - INFO: ==================EDBSetup End==================
+2025-11-22 16:33:28,237 - tools.py[line:51] - INFO: Creating Server/EDB.dat file
+2025-11-22 16:33:28,237 - tools.py[line:51] - INFO: Creating Server/XSet.dat file
+2025-11-22 16:33:28,238 - tools.py[line:51] - INFO: Creating Server/Parameter/Inds.dat file
+2025-11-22 16:33:28,238 - tools.py[line:51] - INFO: Creating Server/Parameter/WSet.dat file
+2025-11-22 16:33:28,238 - run_all_datasets.py[line:28] - INFO: Copied Server/EDB.dat -> Server/EDB_enron_10k.dat
+2025-11-22 16:33:28,238 - run_all_datasets.py[line:28] - INFO: Copied Server/XSet.dat -> Server/XSet_enron_10k.dat
+2025-11-22 16:33:28,238 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/Inds.dat -> Server/Parameter/Inds_enron_10k.dat
+2025-11-22 16:33:28,238 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/WSet.dat -> Server/Parameter/WSet_enron_10k.dat
+2025-11-22 16:33:28,238 - EDBSetup.py[line:136] - INFO: ==================GetDList Start==================
+2025-11-22 16:33:28,239 - EDBSetup.py[line:185] - INFO: ==================GetDList End==================
+2025-11-22 16:33:28,239 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,242 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,248 - tools.py[line:89] - INFO: Reading Server/Parameter/serverKey.dat file
+2025-11-22 16:33:28,248 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,254 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:33:28,254 - EDBSetup.py[line:211] - INFO: ==================EDBSetup Start==================
+2025-11-22 16:33:28,254 - EDBSetup.py[line:214] - INFO: ==================EDBSetup End==================
+2025-11-22 16:33:28,254 - tools.py[line:51] - INFO: Creating Server/EDB.dat file
+2025-11-22 16:33:28,254 - tools.py[line:51] - INFO: Creating Server/XSet.dat file
+2025-11-22 16:33:28,254 - tools.py[line:51] - INFO: Creating Server/Parameter/Inds.dat file
+2025-11-22 16:33:28,254 - tools.py[line:51] - INFO: Creating Server/Parameter/WSet.dat file
+2025-11-22 16:33:28,255 - run_all_datasets.py[line:28] - INFO: Copied Server/EDB.dat -> Server/EDB_wiki_1k.dat
+2025-11-22 16:33:28,255 - run_all_datasets.py[line:28] - INFO: Copied Server/XSet.dat -> Server/XSet_wiki_1k.dat
+2025-11-22 16:33:28,255 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/Inds.dat -> Server/Parameter/Inds_wiki_1k.dat
+2025-11-22 16:33:28,255 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/WSet.dat -> Server/Parameter/WSet_wiki_1k.dat
+2025-11-22 16:33:28,255 - EDBSetup.py[line:136] - INFO: ==================GetDList Start==================
+2025-11-22 16:33:28,261 - EDBSetup.py[line:185] - INFO: ==================GetDList End==================
+2025-11-22 16:33:28,261 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,264 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,269 - tools.py[line:89] - INFO: Reading Server/Parameter/serverKey.dat file
+2025-11-22 16:33:28,269 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,275 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:33:28,275 - EDBSetup.py[line:211] - INFO: ==================EDBSetup Start==================
+2025-11-22 16:33:28,275 - EDBSetup.py[line:214] - INFO: ==================EDBSetup End==================
+2025-11-22 16:33:28,275 - tools.py[line:51] - INFO: Creating Server/EDB.dat file
+2025-11-22 16:33:28,276 - tools.py[line:51] - INFO: Creating Server/XSet.dat file
+2025-11-22 16:33:28,276 - tools.py[line:51] - INFO: Creating Server/Parameter/Inds.dat file
+2025-11-22 16:33:28,276 - tools.py[line:51] - INFO: Creating Server/Parameter/WSet.dat file
+2025-11-22 16:33:28,276 - run_all_datasets.py[line:28] - INFO: Copied Server/EDB.dat -> Server/EDB_wiki_5k.dat
+2025-11-22 16:33:28,276 - run_all_datasets.py[line:28] - INFO: Copied Server/XSet.dat -> Server/XSet_wiki_5k.dat
+2025-11-22 16:33:28,276 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/Inds.dat -> Server/Parameter/Inds_wiki_5k.dat
+2025-11-22 16:33:28,276 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/WSet.dat -> Server/Parameter/WSet_wiki_5k.dat
+2025-11-22 16:33:28,276 - EDBSetup.py[line:136] - INFO: ==================GetDList Start==================
+2025-11-22 16:33:28,288 - EDBSetup.py[line:185] - INFO: ==================GetDList End==================
+2025-11-22 16:33:28,288 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,291 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,297 - tools.py[line:89] - INFO: Reading Server/Parameter/serverKey.dat file
+2025-11-22 16:33:28,297 - tools.py[line:89] - INFO: Reading Server/Parameter/pp.dat file
+2025-11-22 16:33:28,303 - tools.py[line:89] - INFO: Reading Server/Parameter/uKey.dat file
+2025-11-22 16:33:28,303 - EDBSetup.py[line:211] - INFO: ==================EDBSetup Start==================
+2025-11-22 16:33:28,303 - EDBSetup.py[line:214] - INFO: ==================EDBSetup End==================
+2025-11-22 16:33:28,303 - tools.py[line:51] - INFO: Creating Server/EDB.dat file
+2025-11-22 16:33:28,303 - tools.py[line:51] - INFO: Creating Server/XSet.dat file
+2025-11-22 16:33:28,303 - tools.py[line:51] - INFO: Creating Server/Parameter/Inds.dat file
+2025-11-22 16:33:28,303 - tools.py[line:51] - INFO: Creating Server/Parameter/WSet.dat file
+2025-11-22 16:33:28,304 - run_all_datasets.py[line:28] - INFO: Copied Server/EDB.dat -> Server/EDB_wiki_10k.dat
+2025-11-22 16:33:28,304 - run_all_datasets.py[line:28] - INFO: Copied Server/XSet.dat -> Server/XSet_wiki_10k.dat
+2025-11-22 16:33:28,304 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/Inds.dat -> Server/Parameter/Inds_wiki_10k.dat
+2025-11-22 16:33:28,304 - run_all_datasets.py[line:28] - INFO: Copied Server/Parameter/WSet.dat -> Server/Parameter/WSet_wiki_10k.dat

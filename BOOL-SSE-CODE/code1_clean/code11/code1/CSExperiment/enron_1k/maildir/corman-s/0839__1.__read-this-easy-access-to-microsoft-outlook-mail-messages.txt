@@ -1,0 +1,7 @@
+From: rick.dietz@enron.com
+To: shelley.corman@enron.com, lynn.blair@enron.com, steven.january@enron.com, 
+	sheila.nacey@enron.com, donna.scott@enron.com, 
+	bradley.holmes@enron.com, mike.bryant@enron.com
+Date: Tue, 3 Jul 2001 12:17:41 -0700 (PDT)
+Subject: Read This:  Easy Access to Microsoft Outlook Mail Messages
+I learned a valuable bit of information during last Friday's "bring your kid to work day". My son, Daniel, and I attended an Email class and were informed of a major benefit to being on Microsoft Outlook. To access your mail messages via your home computer or any computer that has an internet connection, you need only to type in the web address http://mail.enron.com/. You will be prompted to enter your Enron Network Password (the one you use to initially log in with) and your inbox and mail will pull up instantly. You may have already known this (especially if you took the Microsoft Outlook training), but, it was new to me. It makes it extremely easy to access our Email without having to dial or raz in through the network. Give it a try - click on the address above! Rick

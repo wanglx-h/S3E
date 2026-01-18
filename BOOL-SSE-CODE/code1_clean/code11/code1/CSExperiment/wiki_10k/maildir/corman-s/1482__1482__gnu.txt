@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: GNU
+'''GNU''' is the name of a computer operating system. The name is short for '''''G'''NU's '''N'''ot '''U'''nix''. Richard Stallman leads the GNU Project. The popular Linux operating systems made using the Linux kernel have many GNU tools too. So, many projects and Software developer call the Linux-based operating systems ''GNU/Linux.'' The GNU project was started by Richard Stallman in 1983. He wanted to create a computer system that was all free and open-source software. Users could change, share and publish new work based on GNU. He and a group of developers started by creating copies of each piece of UNIX software. The rest of GNU was the Kernel (computer science), called the GNU Hurd, which is not yet finished. The more popular Linux kernel is often used instead. == Related pages == *GNU Compiler Collection == Other websites == * * [http://www.gnu.org/gnu/gnu-user-groups.html GNU User Groups] Category:Operating systems Category:GNU project

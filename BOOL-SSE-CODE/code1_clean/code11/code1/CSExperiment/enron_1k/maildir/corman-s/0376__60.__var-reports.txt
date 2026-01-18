@@ -1,0 +1,5 @@
+From: rebecca.phillips@enron.com
+To: tim.belden@enron.com
+Date: Fri, 25 Aug 2000 01:48:00 -0700 (PDT)
+Subject: VAR Reports
+Due to the NW-LT exotic book not being officialized, the positions and VAR are not correct in our system. Therefore, VAR reports will not be produced today. Thanks, Rebecca

@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Delta
+'''Delta''' (uppercase/lowercase '''Δ δ'''), is a letter of the Greek alphabet, used to represent the "d" sound in Ancient Greek and Modern Greek language Greek. In the system of Greek numerals, it has a value of 4. Letters that came from it include the Roman D and Cyrillic Д. ==Scientific use== In mathematics, physics and chemistry, the upper-case letter Δ is used to denote ":wikt:change" in a Variable (e.g., \Delta x). It can also be used to represent discriminant—a key algebraic expression used to determine the number of roots a polynomial has. The lower-case letter \delta, on the other hand, is often used to denote small quantities in Mathematical proof involving Limit of a function, a key concept on calculus is based on. In molecular chemistry, the lower case Greek letter δ is used to represent a partial charge. This is always less than the unit charge associated with an ion, but has no real fixed value. A river delta is so named because its shape approximates the upper-case letter delta. == Related pages == * Epsilon == References == Category:Greek alphabet

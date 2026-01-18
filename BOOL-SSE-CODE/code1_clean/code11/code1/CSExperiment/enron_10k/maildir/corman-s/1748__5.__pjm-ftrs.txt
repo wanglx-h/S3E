@@ -1,0 +1,5 @@
+From: michele.raque@enron.com
+To: narsimha.misra@enron.com, richard.ring@enron.com
+Date: Wed, 17 Oct 2001 12:25:58 -0700 (PDT)
+Subject: PJM FTRs
+I spoke with Aaron Baseman at PJM today. The Network External Non-Designated transmission service does not give us access to FTRs. The only ways to secure eligibility for FTRs are to (1) secure unit-specific ICAP resources, or (2) purchase Firm Point-to-Point transmission on a long-term basis. We therefore will want to cancel our previous Network transmission request and pursue the previously discussed alternatives.

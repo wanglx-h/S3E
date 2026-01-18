@@ -1,0 +1,5 @@
+From: cam@pjm.com
+To: rring@enron.com, cam@pjm.com
+Date: Tue, 4 Sep 2001 12:01:53 -0700 (PDT)
+Subject: New MUI User request
+Narsimha Misra<nmisra@enron.com> at Enron Energy Services, Inc. is requesting a user account with the following qualifications: eData General OASIS Message OASIS Read Only OASIS Transaction

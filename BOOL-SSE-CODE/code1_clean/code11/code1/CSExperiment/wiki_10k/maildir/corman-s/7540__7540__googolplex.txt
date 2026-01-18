@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Googolplex
+A '''googolplex''' is the number 10googol, equivalent to 1010100 or 10googol or 1010,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000. Like the number ''googol'', ''googolplex'' was thought of by Milton Sirotta, the nephew of mathematician Edward Kasner. The company Google named their wikt:headquarters, the Googleplex, after the number. A '''googolplexplex''' is a 1 followed by a Googolplex amount of zeros which is 10googolplex (101010100 ). ==Related pages== * Exponent * Graham's number * Googol Category:Integers

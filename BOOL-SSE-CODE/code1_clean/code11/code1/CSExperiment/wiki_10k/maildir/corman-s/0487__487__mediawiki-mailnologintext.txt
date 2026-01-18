@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Mailnologintext
+You must be Special:Userlogin and have a working e-mail address in your Special:Preferences to send e-mail to other users.

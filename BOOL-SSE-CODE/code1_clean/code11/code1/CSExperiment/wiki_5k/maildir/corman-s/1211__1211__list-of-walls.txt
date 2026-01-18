@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: List of walls
+This is a '''list of famous walls'''. {| class="wikitable" border="1" |- ! Name ! Location ! Image |- | Antonine Wall || Scotland || File:Antonine Wall - geograph.org.uk - 49196.jpg |- | Atlantic Wall || France || File:Lissewege Spoorwegbatterij R01.jpg |- | Berlin Wall || Germany || File:Peter Fechter Berlin Wall Memorial.jpg |- | Communards' Wall || Père Lachaise cemetery, Paris, France || File:Mur des fédérés 03.jpg |- | Democracy Wall Movement || Beijing (1978-1979) || |- | Great Wall of China || China || File:Greatwall-SA1.jpg |- | Hadrian's Wall || England || File:Hadrian's wall at Greenhead Lough.jpg |- | Jericho walls || || |- | Kremlin Wall || Moscow, Russia || File:Kremlvariousflickr01.jpg |- | Lennon Wall || Prague || File:PrahaJohnLennon1993.jpg |- | London Wall || England || File:London Wall fragment.jpg |- | Roman Walls || Lugo, Galicia || File:Muralla romana de Lugo.JPG |- | Vietnam Veterans Memorial || Washington, D.C. || File:Vietnam memorial 03.JPG |- | Western Wallalso called ''Wailing Wall'' or ''Al-Buraq Wall'' || Jerusalem || File:-Western Wall.jpg |} Category:Walls Category:Lists

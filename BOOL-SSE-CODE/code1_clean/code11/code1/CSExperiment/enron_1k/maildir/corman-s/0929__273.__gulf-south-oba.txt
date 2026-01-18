@@ -1,0 +1,5 @@
+From: frazier.king@enron.com
+To: sharon.farrell@enron.com, mike.bryant@enron.com, shelley.corman@enron.com
+Date: Tue, 19 Feb 2002 12:19:34 -0800 (PST)
+Subject: Gulf South OBA
+Attached is the Gulf South OBA with the following changes (in blue): 1. Daily tolerance changed from 50,000 to 100,000 Dth. 2. Suspension language stricken. 3. Language added to allow daily balancing at other points. 4. "No change to system" language made mutual. Since we want to allow the use of other points to balance on a daily basis, do we want one OBA for all "Locations"? If not, is the interconnect with the Gulf South Mobile Bay Faciliites the lonly "Location" to be covered by this agreement? Finally, do we want to allow end of the month balancing at other points too?

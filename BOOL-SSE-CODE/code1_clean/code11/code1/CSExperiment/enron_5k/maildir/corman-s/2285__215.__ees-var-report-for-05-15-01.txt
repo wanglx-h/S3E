@@ -1,0 +1,15 @@
+From: darin.schmidt@enron.com
+To: chris.abel@enron.com, naveen.andrews@enron.com, dennis.benevides@enron.com, 
+	don.black@enron.com, neil.bresnan@enron.com, wanda.curry@enron.com, 
+	minal.dalia@enron.com, charles.decker@enron.com, 
+	janet.dietrich@enron.com, meredith.eggleston@enron.com, 
+	vladimir.gorny@enron.com, jess.hewitt@enron.com, 
+	jeffrey.jackson@enron.com, chris.leonard@enron.com, 
+	james.lewis@enron.com, david.port@enron.com, 
+	warren.prihoda@enron.com, marco.smith@enron.com, 
+	kenneth.thibodeaux@enron.com, jubran.whalan@enron.com, 
+	greg.whalley@enron.com, rick.wurlitzer@enron.com, 
+	john.zurita@enron.com
+Date: Wed, 16 May 2001 01:51:00 -0700 (PDT)
+Subject: EES VaR Report for 05-15-01
+The EES VaR for today is $11.1 million, up from yesterday's VaR of $8.2 million, due to the additional short positions added at NP and SP. The VaR will decrease once the short positions associated with the University of California facilities are removed.

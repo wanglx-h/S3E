@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Sat, 21 Apr 2001 16:43:00 -0700 (PDT)
+Subject: Start Date: 4/21/01; HourAhead hour: 24;  <CODESITE>
+Start Date: 4/21/01; HourAhead hour: 24; No ancillary schedules awarded. Variances detected. Variances detected in Generation schedule. Variances detected in Load schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001042124.txt ---- Generation Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: HARBOR MKT_TYPE: 2 TRANS_DATE: 4/21/01 UNIT_ID: HARBGN_7_UNITS $$$ Variance found in table tblGEN_SCHEDULE. Details: (Hour: 24 / Preferred: 29.00 / Final: 28.97) TRANS_TYPE: FINAL SC_ID: ARCO MKT_TYPE: 2 TRANS_DATE: 4/21/01 UNIT_ID: CARBGN_6_UNIT 1 ---- Load Schedule ---- $$$ Variance found in table tblLoads. Details: (Hour: 24 / Preferred: 4.83 / Final: 4.80) TRANS_TYPE: FINAL LOAD_ID: PGE2 MKT_TYPE: 2 TRANS_DATE: 4/21/01 SC_ID: EPMI

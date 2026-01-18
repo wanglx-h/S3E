@@ -1,0 +1,7 @@
+From: d.hunsucker@enron.com
+To: portland.shift@enron.com, lester.rawson@enron.com, phillip.platter@enron.com, 
+	chris.mallory@enron.com, carla.hoffman@enron.com, 
+	jeff.richter@enron.com
+Date: Tue, 7 Nov 2000 12:53:00 -0800 (PST)
+Subject: PX Resources
+All Attached is a complete list of resources and scheduling IDs registered with the PX. This shows the customer to whom charges/payments are assessed when you use a particular scheduling ID. Use this list to help you determine which ID to use when scheduling for a new customer for the first time. If I'm in the office, please discuss with me prior to actually sending in the schedule to the PX. Your assistance in this is greatly appreciated as it will save time and prevent headaches for me each month. Brett

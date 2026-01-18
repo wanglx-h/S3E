@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Tue, 1 May 2001 06:44:00 -0700 (PDT)
+Subject: Start Date: 5/1/01; HourAhead hour: 14;  <CODESITE>
+Start Date: 5/1/01; HourAhead hour: 14; No ancillary schedules awarded. No variances detected. LOG MESSAGES: ERROR: File O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001050114.txt is empty. PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001050114.txt ---- Energy Import/Export Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 5/1/01 TIE_POINT: FCORNR_5_PSUEDO INTERCHG_ID: EPMI_CISO_PV ENGY_TYPE: NFRM

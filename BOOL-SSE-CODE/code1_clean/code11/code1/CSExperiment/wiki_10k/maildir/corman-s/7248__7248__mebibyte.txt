@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Mebibyte
+A '''mebibyte''' (a contraction of '''me'''ga '''bi'''nary '''byte''') is a unit of information or computer data storage, symbol '''MiB'''. :1 MiB = 220 bytes = 1,048,576 bytes = 1,024 kibibytes The mebibyte is closely related to the megabyte (MB). Megabyte can either be a synonym for mebibyte, or refer to 106 bytes = 1,000,000 bytes, depending on context (see binary prefix for background). The two numbers are relatively close together, but mistaking the two has nevertheless led to problems. The unit MiB was defined by the International Electrotechnical Commission (IEC) in December 1998. Use of mebibyte and related units is strongly endorsed by Institute of Electrical and Electronics Engineers and International Committee for Weights and Measures and is becoming more common. One mebibyte equals 1024 (= 210) kibibytes, and 1024 mebibytes equal one gibibyte. ==Related pages== *Megabyte *Kibibyte *Gibibyte *Tebibyte == Other websites == *[http://physics.nist.gov/cuu/Units/binary.html NIST Prefixes for binary multiples] Category:Units of information

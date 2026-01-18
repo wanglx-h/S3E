@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Autoblocker
+You have been autoblocked because your IP address was recently used by User:$1. The reason for $1's block is: $2

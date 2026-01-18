@@ -1,0 +1,17 @@
+From: kimberly.hillis@enron.com
+To: tim.belden@enron.com, f..calger@enron.com, elizabeth.sager@enron.com, 
+	dana.davis@enron.com, j..sturm@enron.com, 
+	doug.gilbert-smith@enron.com, marcus.nettelton@enron.com, 
+	d..steffes@enron.com, l..nicolay@enron.com, s..bradford@enron.com, 
+	w..white@enron.com, leslie.reeves@enron.com, mike.curry@enron.com, 
+	david.duran@enron.com, corry.bentley@enron.com, lloyd.will@enron.com, 
+	david.portz@enron.com, edward.sacks@enron.com, john.llodra@enron.com, 
+	george.wood@enron.com, larry.valderrama@enron.com, 
+	stewart.rosman@enron.com, h..foster@enron.com, 
+	don.baughman@enron.com, m..forney@enron.com, jake.thomas@enron.com, 
+	rogers.herndon@enron.com, john.suarez@enron.com, 
+	robert.benson@enron.com, harry.arora@enron.com, 
+	louise.kitchen@enron.com, david.forster@enron.com
+Date: Wed, 2 Jan 2002 14:59:01 -0800 (PST)
+Subject: NETCO Implemention Template
+From Kevin Presto: Attached is the spreadsheet version of the template we discussed this morning. I have added the additional columns everyone requested. I would now like the business unit leads to fill in the blanks such that we have an initial Power Implementation Plan that can be delivered to Louise on Friday. With respect to East Power (I am out Thursday and Friday), I am delegating to all of my desk heads the responsibility the following: 1) Have all of the forms attached spreadsheet forms complete 2) A product offering sheet is added to the template. Fletch & Dana - Please take the lead on creating the product offering list (physical and financial). My recommendation is we put products out through 03 for all regions (financial and physical). Obviously, the physical products will be contingent on receiving a power marketing license. Cory and Don Baughman - Please take a crack at identifying all of the transmission service agreements we need for the East (Christi has started a list already). The transmission agreement list attached can be used to prioritize or assign commercial people to transmission/pool agreements. It is not correct on the timing under the pools, so don't rely on that column. Please call me on my cell (713-856-3923) with any questions. Kevin Presto Vice President, East Power Trading Phone: 713-853-5035 Cell: 713-854-3923 Fax: 713-646-8272

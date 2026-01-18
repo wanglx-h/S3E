@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: whalley@enron.com
+Date: Sat, 29 Oct 0001 15:31:04 -0800 (PST)
+Subject: <<Concur Expense Document>> - ENE Recruiting (2)
+The following expense report is ready for approval: Employee Name: Heath . Schiesser Status last changed by: Automated Administrator Expense Report Name: ENE Recruiting (2) Report Total: $237.51 Amount Due Employee: $237.51 To approve this expense report, click on the following link for Concur Expense. http://expensexms.enron.com

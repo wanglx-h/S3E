@@ -1,0 +1,5 @@
+From: enron@easymatch.com
+To:
+Date: Fri, 20 Jul 2001 08:20:54 -0700 (PDT)
+Subject: :EMCMD: MGN# 100127
+Command: MATCH Date: 7/20/2001 Time: 11:20:54 AM TransactionID: 100127 AgencyID: 10116 Recipient: Tulane University Gift Accounting Office 3439 Prytania St., Suite 300 New Orleans, LA 70115 DonorID: 5374 GiftDate: 7/16/2001 GiftAmount: 100 Purpose: Tulane International Initiatives Fund contribution Result: Success If you have not already done so, please send your donation to Tulane University Gift Accounting Office 3439 Prytania St., Suite 300 New Orleans, LA 70115. If they do not receive your donation within five days we will have to deny this request. We have received the above Request. If everything appears correct there is no need to contact us. However, if you did not make this request or there is an error in the above information, then email us at: enron@easymatch.com or call us at: 1-866-545-9204.

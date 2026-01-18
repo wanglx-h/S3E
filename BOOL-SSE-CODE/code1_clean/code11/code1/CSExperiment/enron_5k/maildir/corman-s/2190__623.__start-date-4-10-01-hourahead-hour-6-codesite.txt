@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Mon, 9 Apr 2001 22:41:00 -0700 (PDT)
+Subject: Start Date: 4/10/01; HourAhead hour: 6;  <CODESITE>
+Start Date: 4/10/01; HourAhead hour: 6; No ancillary schedules awarded. Variances detected. Variances detected in Generation schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001041006.txt ---- Generation Schedule ---- $$$ Variance found in table tblGEN_SCHEDULE. Details: (Hour: 6 / Preferred: 2.00 / Final: 1.97) TRANS_TYPE: FINAL SC_ID: WheelSHAST MKT_TYPE: 2 TRANS_DATE: 4/10/01 UNIT_ID: WSENGY_1_UNIT 4

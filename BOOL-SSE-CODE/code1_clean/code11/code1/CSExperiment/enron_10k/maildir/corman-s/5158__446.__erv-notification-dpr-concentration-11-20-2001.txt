@@ -1,0 +1,11 @@
+From: john.allison@enron.com
+To: chris.abel@enron.com, john.allison@enron.com, beth.apollo@enron.com, 
+	sally.beck@enron.com, mark.frevert@enron.com, 
+	bjorn.hagelmann@enron.com, frank.hayden@enron.com, 
+	kenneth.lay@enron.com, david.patton@enron.com, david.port@enron.com, 
+	cassandra.schultz@enron.com, kenneth.thibodeaux@enron.com, 
+	cassi.wallace@enron.com, greg.whalley@enron.com, 
+	shona.wilson@enron.com
+Date: Wed, 21 Nov 2001 05:36:49 -0800 (PST)
+Subject: ERV Notification:  (DPR - Concentration - 11/20/2001)
+The report named: DPR - Concentration <http://erv.corp.enron.com/linkFromExcel.asp?report_cd=48&report_name=DPR+-+Concentration&category_cd=2&category_name=ENRON%20CONSOLIDATED&toc_hide=1&sTV1=2&TV1Exp=Y&current_efct_date=11/20/2001>, published as of 11/20/2001 is now available for viewing on the website. Publisher's Notes: PRELIM

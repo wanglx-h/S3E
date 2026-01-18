@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Sharedupload
+{| border="0" cellspacing="2" style="border:1px solid #aaa; background:#f9f9f9; font-size:90%; margin:.2em auto .2em auto;" |- | style="padding:10px;" | File:Commons-logo.svg | style="padding:10px;" | This is a file from the Commons:Main Page. The description on its '''Commons:File:''' is shown below. Commons is a freely licensed media file repository. Commons:Commons:Welcome. |} File:Commons-logo.svg

@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: My Computer
+'''My Computer''' is seen on the Microsoft Microsoft Windows computers. My Computer allows the user to access the local Computer drive, such as the local disk, also known as the C: Drive. The user can also access external drives. Examples of an external drive are a floppy disk drive (A: Drive) and the Compact disc Drive (D:). My computer also lets the user access My Documents and other files. Whenever any external drive is attached to the computer, the user can directly access that drive from My Computer menu. "My Computer" gives us an overview about different types of drives present in the computer. The My Computer folder is a gateway to all the data stored on the computer, attached devices, and the network -- as well as a shortcut to most of your system information. Category:Software

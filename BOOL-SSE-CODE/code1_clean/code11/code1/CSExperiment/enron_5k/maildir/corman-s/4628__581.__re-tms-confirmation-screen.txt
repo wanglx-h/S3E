@@ -1,0 +1,7 @@
+From: helpdesk.hottap@enron.com
+To: jerry.wilkens@enron.com, helpdesk.hottap@enron.com, john.buchanan@enron.com, 
+	lynn.blair@enron.com, sheila.nacey@enron.com, 
+	terry.kowalke@enron.com, oncall.tms@enron.com
+Date: Mon, 26 Nov 2001 07:12:33 -0800 (PST)
+Subject: RE: TMS CONFIRMATION SCREEN
+Remedy Ticket ETS200000034963 has been entered for this issue -----Original Message----- From: Wilkens, Jerry Sent: Friday, November 23, 2001 12:12 PM To: Hottap HelpDesk (E-mail); John Buchanan (E-mail); Lynn Blair (E-mail); Sheila Nacey (E-mail); Terry Kowalke (E-mail) Subject: TMS CONFIRMATION SCREEN FYI, Can a fix be made to get the whole scheduled number to appear on the confirmation maintenance screen? These seems to happen on any point that is retrieved. Thanks Jerry @ ext. 3-6167 << OLE Object: Picture (Device Independent Bitmap) >>

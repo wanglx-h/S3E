@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Wikipedia:Userboxes
+'''Userboxes''' (commonly abbreviation to '''UBX''') are a simple way to display your interests on your WP:USER, and are based on the Template:Babel. Current consensus is that userboxes (excluding the standard Babel templates and the actual Template:Userbox) belong only in the user namespace. == Basic Templates == == Gallery of Userboxes == === Wikipedia-related === === Nationality === === Religion === === Health and Life === === UK Politics === === Personal and opinions === === Music === ====Songs==== ==== Instruments ==== ==== Nirvana ==== === Video games === === Sports === ==== Professional wrestling ==== ==== Basketball ==== ==== American Football ==== ==== Ice Hockey ==== ==== Baseball ==== === Humor === Category:Userbox templates

@@ -1,0 +1,5 @@
+From: john.forney@enron.com
+To: portland.shift@enron.com
+Date: Thu, 30 Nov 2000 01:16:00 -0800 (PST)
+Subject: Unused Nevada Power Transmission Deal Entry
+We have instances where NEVP transmission is purchased daily, but not used, ie LV's unit goes down etc. From now on, leave the mw's in Enpower on the transmission deal, even though nothing flowed. Please leave the mw's populated in the transmission deal, as this transmission is take or pay. Make a note in the comments that we didnt flow for this hour.

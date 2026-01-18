@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Windows Media Player
+| latest preview version = Windows 11: 11.2212.31.0 | latest preview date = | operating system = Windows 10, Windows 11 | replaces = Groove MusicMicrosoft Movies & TVWindows Media Player Legacy }} '''Windows Media Player''' is a digital media media player made by Microsoft. It is already installed on Microsoft Windows operating systems, and an older version is available for some Apple Macintosh operating systems. The program allows people to watch certain video files and play music files that are in a compatible file format. How the program looks can also be changed with skins, and it can be made small enough to fit on the taskbar. ==References== == Other websites == * [http://www.microsoft.com/windows/windowsmedia/default.mspx Windows Media Player] * [http://www.updatexp.com/windowsxpmediaplayer.html A little Windows Media Player History] Category:Microsoft software Category:Multimedia software

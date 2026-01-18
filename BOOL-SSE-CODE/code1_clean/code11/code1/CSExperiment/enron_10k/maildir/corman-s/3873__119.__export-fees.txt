@@ -1,0 +1,13 @@
+From: heather.dunton@enron.com
+To: portland.shift@enron.com, tim.belden@enron.com, matt.motley@enron.com, 
+	robert.badeer@enron.com, sean.crandall@enron.com, 
+	diana.scholtes@enron.com, mark.fischer@enron.com, 
+	tom.alonso@enron.com, jeff.richter@enron.com, 
+	chris.mallory@enron.com, phillip.platter@enron.com, 
+	smith.day@enron.com, john.forney@enron.com, stewart.rosman@enron.com, 
+	chris.foster@enron.com, holli.krebs@enron.com, paul.choi@enron.com, 
+	john.malowney@enron.com, kim.ward@enron.com, chris.stokley@enron.com, 
+	murray.o'neil@enron.com
+Date: Thu, 3 Aug 2000 02:56:00 -0700 (PDT)
+Subject: EXPORT FEES
+Attached is a spreadsheet to estimate export fees.

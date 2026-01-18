@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Watchdetails
+You have on your watchlist (not counting talk pages). Click Special:Watchlist/edit to see or change the complete list.

@@ -1,0 +1,6 @@
+From: lynn.blair@enron.com
+To: john.buchanan@enron.com, terry.kowalke@enron.com, larry.berger@enron.com, 
+	raetta.zadow@enron.com
+Date: Mon, 30 Jul 2001 14:45:59 -0700 (PDT)
+Subject: FW: Right Fax Application Investigation
+Do any of you know if we use this Right Fax? Thanks. Lynn -----Original Message----- From: McFarland, Jean Sent: Monday, July 30, 2001 3:48 PM To: Blair, Lynn Subject: Right Fax Application Investigation Lynn-do you know if anyone in Gas Logistics uses Right Fax? The server team would like to move the location of the Right Fax server in the future. Thanks. Jean

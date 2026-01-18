@@ -1,0 +1,5 @@
+From: lynn.blair@enron.com
+To: jennifer.lowry@enron.com, group.dl-ets@enron.com
+Date: Tue, 9 Oct 2001 10:11:18 -0700 (PDT)
+Subject: RE: Reporting replication issue is now fixed
+Jennifer, how long has this been a problem? Is there a concern we have caused customers problems in nominating due to bad information? Thanks. Lynn -----Original Message----- From: Lowry, Jennifer Sent: Tuesday, October 09, 2001 10:11 AM To: DL-ETS TMS Modification Group Subject: Reporting replication issue is now fixed Yesterday we noticed a problem where reports were not reporting on the correct cycle, or were not picking up information between cycles. As it turns out, an important table was not being replicated from the application database to the reporting database. I was told that this problem has been fixed, and on first inspection of the tables, everything looks correct.

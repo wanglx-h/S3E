@@ -1,0 +1,13 @@
+#python版本3.10
+torch
+transformers
+sentence-transformers
+numpy
+matplotlib
+seaborn
+pandas
+scikit-learn
+tqdm
+xmltodict
+lxml
+#运行multi_scale_performance_test_optimized.py

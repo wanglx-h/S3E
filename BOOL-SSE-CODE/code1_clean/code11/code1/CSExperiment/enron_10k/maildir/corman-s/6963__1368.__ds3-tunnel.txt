@@ -1,0 +1,5 @@
+From: chip.cox@enron.com
+To: portland.desk@enron.com
+Date: Wed, 13 Dec 2000 09:02:00 -0800 (PST)
+Subject: DS3 tunnel
+I have been informed by Scott Shishido that around 8:30 our time we will be moving over to the DS3 tunnel. He doesn't expect anyone to be booted from Terminal Server but just in case everyone needs to have everything saved. Scott will call real time just before the transfer takes place. If anyone has any questions they can call me at 503-969-7635. Thanks, Chip Cox

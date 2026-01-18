@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Fri, 20 Apr 2001 16:43:00 -0700 (PDT)
+Subject: Schedule Crawler: HourAhead Failure <CODESITE>
+Start Date: 4/20/01; HourAhead hour: 24; HourAhead schedule download failed. Manual intervention required. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001042024.txt !!!Could not find object. Disk or network error. General SQL error. Table Error retrieving price data (General SQL error. Disk or network error. Table) - process continuing...

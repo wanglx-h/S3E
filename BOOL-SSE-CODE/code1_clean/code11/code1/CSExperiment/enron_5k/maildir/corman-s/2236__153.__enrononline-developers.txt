@@ -1,0 +1,5 @@
+From: jay.webb@enron.com
+To: michelle.cash@enron.com
+Date: Sat, 8 Dec 2001 18:08:02 -0800 (PST)
+Subject: EnronOnline developers
+Hi Michelle, The attached spreadsheet should represent a complete set of developers of EnronOnline since inception. I haven't named the individual Valtech and Agency.com developers since the agreements we have with those companies presumably cover all of their developers. The rest of the systems will probably not be done until tomorrow. --jay

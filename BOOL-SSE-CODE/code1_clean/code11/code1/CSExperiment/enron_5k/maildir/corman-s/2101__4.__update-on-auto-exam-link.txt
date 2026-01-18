@@ -1,0 +1,21 @@
+From: stephanie.olszewski@enron.com
+To: shelley.corman@enron.com, bill.donovan@enron.com, dan.fancler@enron.com, 
+	e-mail <.havemann@enron.com>, gary.hugo@enron.com, 
+	e-mail <.james@enron.com>, k..jones@enron.com, r..kennedy@enron.com, 
+	dianne.langeland@enron.com, v.mcadoo@enron.com, 
+	stephanie.olszewski@enron.com, bruce.stram@enron.com, 
+	michael.sullivan@enron.com, kimberly.watson@enron.com, 
+	debra.weir@enron.com, teri.alexander@enron.com, dyan.cruz@enron.com, 
+	cheryl.davis@enron.com, maria.gallo@enron.com, 
+	jeanevans.glenn@enron.com, lashawn.holt@enron.com, 
+	jennifer.jordan@enron.com, karen.francis@enron.com, 
+	martinez.maribel@enron.com, sammy.marroquin@enron.com, 
+	s.matsumoto@enron.com, michelle.messer@enron.com, 
+	heather.poperszky@enron.com, rachel.betancourt@enron.com, 
+	brenda.sells@enron.com, katie.spencer@enron.com, 
+	j..trujillo@enron.com, connie.valdez@enron.com, 
+	laura.villarreal@enron.com, joy.wagman@enron.com, 
+	cynthia.yzquierdo@enron.com
+Date: Mon, 29 Oct 2001 14:30:16 -0800 (PST)
+Subject: Update on Auto Exam Link
+Update on Auto Exam Link on EFCU Web Portal The Auto Exam web site, linked to our web portal, is currently under construction and under normal circumstances should display an error page when selected. Instead, several external DNS servers were pointing to http://www.zfreehost.com which Enron's internal DNS servers cached. Someone had hacked the zfreehost site and altered their error page to display adult content, so that anyone inside Enron's firewall who tried to go to Auto Exam was redirected to this page. Enron IT and Digital Insight are looking into the problem and will bring the link back up when the issue has been resolved. Thanks, Stephanie

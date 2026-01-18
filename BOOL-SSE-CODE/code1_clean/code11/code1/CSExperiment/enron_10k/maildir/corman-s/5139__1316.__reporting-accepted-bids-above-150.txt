@@ -1,0 +1,9 @@
+From: greg.wolfe@enron.com
+To: portland.shift@enron.com, bill.iii@enron.com, chris.foster@enron.com, 
+	paul.choi@enron.com, stewart.rosman@enron.com, 
+	lester.rawson@enron.com, stanley.cocke@enron.com, 
+	phillip.platter@enron.com, jeff.richter@enron.com, 
+	chris.mallory@enron.com, carla.hoffman@enron.com
+Date: Wed, 17 Jan 2001 03:18:00 -0800 (PST)
+Subject: Reporting accepted bids above $150
+While we are currently not experiencing many transactions with the Px or ISO it is imperative that any accepted bids above $150 be reported conssitent with FERC reporting requirements beginning January 1, 2001. Please notify Alan Comnes via e-mail immediately if any such bids are accepted such that they can be entered into our weekly report to FERC. Greg

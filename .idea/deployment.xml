@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@202.206.96.251:20402 password" remoteFilesAllowedToDisappearOnAutoupload="false" showDifferentInSync="false">
+    <serverData>
+      <paths name="root@202.206.96.251:20251 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/siton-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:20358 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/siton-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:20402 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/siton-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:20494 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/siton-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:20683 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:20691 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:20691 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:20691 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:20742 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/siton-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:21009 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:21096 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:21096 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:21322 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/siton-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:21492 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/siton-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:21740 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_418" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:21942 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_312" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:21942 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/siton-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:21942 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/siton-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.206.96.251:21942 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/siton-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@root@202.206.96.251:20023 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@root@202.206.96.251:21116 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

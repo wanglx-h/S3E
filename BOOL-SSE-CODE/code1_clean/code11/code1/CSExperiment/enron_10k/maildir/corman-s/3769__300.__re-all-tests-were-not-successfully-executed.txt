@@ -1,0 +1,8 @@
+From: helpdesk.hottap@enron.com
+To: helpdesk.hottap@enron.com, toby.kuehl@enron.com, bradley.holmes@enron.com, 
+	john.buchanan@enron.com, terry.kowalke@enron.com, 
+	darrell.schoolcraft@enron.com, lynn.blair@enron.com, 
+	sheila.nacey@enron.com
+Date: Wed, 26 Dec 2001 05:13:20 -0800 (PST)
+Subject: RE: All tests were NOT successfully executed
+It has been confirmed that the NNG Allocations data is correct - there is no allocation data to display. Deborah HotTap Helpdesk for Chris Smith -----Original Message----- From: Hottap HelpDesk Sent: Wednesday, December 26, 2001 6:58 AM To: Hottap HelpDesk; Kuehl, Toby; Holmes, Bradley; Buchanan, John; Kowalke, Terry; Schoolcraft, Darrell; Blair, Lynn; Nacey, Sheila Cc: Abshire, Scott; Hotte, Steve; Sawyer, Lisa; McFarland, Jean; Kedwaii, Hasan; Wagner, Glenda; Daze, Don; Karas, Phylis Subject: FW: All tests were NOT successfully executed All testing was completed. We have confirmed with the ENW Resolution Center that the Exchange servers are up. NNG Allocations shows no information to display. We are checking into the validity of that posting and will advise. Deborah HotTap Helpdesk for Chris Smith

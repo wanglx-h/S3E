@@ -1,0 +1,5 @@
+From: bill.hatch@enron.com
+To: richard.ring@enron.com
+Date: Thu, 11 Oct 2001 10:11:21 -0700 (PDT)
+Subject: VAMC Cogen and GSA Commodity Deal
+Richard, In response to your question re: how the VA cogen deal affects the supply contract with the GSA, I have prepared the attached analysis. Part I focuses on the cogen deal; part II shows the affect of a new DSM project I'm trying to close by end of December. Please note that this analysis is a back of the envelop analysis that gives you a logic and scope which can now be fine tuned by the appropriate analyst group. The net result is that the existing cogen deal and the proposed new energy deal provides the EES commodity desk 67mm kWh it can market as Negawatts. Based upon assumptions from Enron On Line, the market value of these negawatts is $1.5mm. EFS will be happy to discuss with the desk how we can share this benefit. Bill

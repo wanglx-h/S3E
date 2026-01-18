@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: AbiWord
+| programming language = C++ | operating_system = Cross-platform | language = wikt:Multilingual[https://www.abisource.com/contribute/translate/ List of AbiWord translations (both complete and incomplete)] | genre = Word processor | license = GNU General Public License | website = }} '''AbiWord''' is a free word processor that can be downloaded for free, it is open source and is much smaller in size than a proprietary alternative, Microsoft Word. It is available for FreeBSD, Linux, Microsoft Windows, Mac OS X, and QNX. Its mascot is Abi the ant. It is much smaller than many other Commerce word-processors of its time, only using about 15megabyte on a computer's hard disk under Microsoft Windows. ==Related pages== *OpenOffice.org Writer == Sources == == Other websites == *[http://www.abisource.com/ Abiword] ** [https://abiword.net/abiword-portable/ AbiWord Portable], AbiWord portable ** [https://abiword.net/ AbiWord] Category:Free software Category:Word processors Category:GNOME Category:Cross-platform software

@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Cape Agulhas
+'''Cape Agulhas''' is the point in Africa which is farthest south. It is in the country of South Africa. It is near the town of Agulhas. | zoom = 7 | float = center | width = 340 | height = 370 | caption = Cape Agulhas is the southernmost part of South Africa. | minimap = file bottom left | mini-file = Map of South Africa.svg | mini-width = 175 |mini-height = 175 | minipog-gx = 20 | minipog-gy = 90 | minimap-boxwidth = 16 | label1 = Cape of Good Hope | mark-coord1 = | label-pos1 = bottom | label-size1 = 11 | label-color1 = hard grey | mark-title1 = Cape of Good Hope | mark-size1 = 8 | label2 = Cape Agulhas | mark-coord2 = | mark-title2 = Cape Agulhas | mark-size2 = 8 }} Category:Capes Category:Western Cape

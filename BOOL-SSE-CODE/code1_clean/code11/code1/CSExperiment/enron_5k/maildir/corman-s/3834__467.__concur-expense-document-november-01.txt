@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: whalley@enron.com
+Date: Tue, 22 Nov 0001 03:01:23 -0800 (PST)
+Subject: <<Concur Expense Document>> - November 01
+The Payment status has changed on the following report: Status last changed by: System Expense Report Name: November 01 Report Total: $7,131.10 Amount Due Employee: $7,131.10 Amount Approved: $7,131.10 Amount Paid: $0.00 Approval Status: Approved Payment Status: Processed To review this expense report, click on the following link for Concur Expense. http://expensexms.enron.com

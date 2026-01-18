@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Dependency
+'''Dependency''' has a number of meanings: * Dependency theory *In project management, a dependency (project management) is a link amongst a project's terminal elements. *In computer science, Coupling (computer science) is a state in which one object uses the functions of another object. * Dependency theory is an economic worldview. * A dependent area is a classification of territory. * A dependent territory. * Co-dependency is a state of behaviour. * A chemical dependency is such a strong need for a substance in order for an animal (usually a person) to function properly. * A former or current colony, such as those governed by the United Kingdom.

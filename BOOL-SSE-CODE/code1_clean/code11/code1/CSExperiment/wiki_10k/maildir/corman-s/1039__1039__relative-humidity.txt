@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Relative humidity
+'''Relative humidity''' is a way of describing how much humidity is present in the air, compared to how much there could be. Meteorologists often use the relative humidity as a measurement to describe the weather at various places. When the temperature is warm, more water vapor can be in the air than when it is cold. If the actual amount of vapor is compared to the total amount there could be as a fraction, then the number tells if the air feels dry or moist. The value is usually written in percent, where 0% means that the air is totally dry, and 100% means that it is so moist that mist or dew is about to form. When the temperature is lowered to the dew point, relative humidity becomes 100% and the water vapor condensation, making precipitation as dew, rain or snow (etc.). Category:Weather measurements Category:Meteorology

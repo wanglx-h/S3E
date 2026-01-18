@@ -1,0 +1,28 @@
+From: kathryn.sheppard@enron.com
+To: debra.davidson@enron.com, kathy.axford@enron.com, robert.anderson@enron.com, 
+	tim.heizenrader@enron.com, julie.sarnowski@enron.com, 
+	maria.houten@enron.com, jesse.bryson@enron.com, 
+	monika.causholli@enron.com, michael.driscoll@enron.com, 
+	john.forney@enron.com, leaf.harasin@enron.com, 
+	jeremy.morris@enron.com, holden.salisbury@enron.com, 
+	geir.solberg@enron.com, bill.iii@enron.com, carla.hoffman@enron.com, 
+	monica.lande@enron.com, valarie.sabo@enron.com, 
+	heather.dunton@enron.com, caroline.emmert@enron.com, 
+	d.hunsucker@enron.com, donna.johnson@enron.com, 
+	murray.o'neil@enron.com, david.poston@enron.com, 
+	john.shackelford@enron.com, chris.stokley@enron.com, 
+	tom.alonso@enron.com, robert.badeer@enron.com, 
+	sean.crandall@enron.com, smith.day@enron.com, mark.fischer@enron.com, 
+	lisa.gang@enron.com, mark.guzman@enron.com, chris.mallory@enron.com, 
+	matt.motley@enron.com, phillip.platter@enron.com, 
+	mike.purcell@enron.com, jeff.richter@enron.com, 
+	donald.robinson@enron.com, diana.scholtes@enron.com, 
+	cara.semperger@enron.com, mike.swerzbin@enron.com, 
+	stephen.swain@enron.com, stacy.runswick@enron.com, 
+	lani.pennington@enron.com, fran.chang@enron.com, 
+	teri.whitcomb@enron.com, amy.fitzpatrick@enron.com, 
+	mark.rathbun@enron.com, scotty.gilbert@enron.com, 
+	paul.kane@enron.com, david.porter@enron.com, kate.symes@enron.com
+Date: Fri, 12 Jan 2001 00:40:00 -0800 (PST)
+Subject: REMINDER - TIME ENTRY DUE TODAY
+Just a reminder: YOUR TIME ENTRY IS DUE TODAY BY 1:00 P.M.. Please use your new group Cost Center, as follows: Administration: 107304 Fundamental Analysis: 107308 IT: 105649 Power Trading 107300 Pre-Scheduling: 107301 Real Time: 107302 Risk Mgmt.: 105624 Volume Mgmt. 107303 If you have log-in problems call the Integrated Solutions Center at 713-345-4727. Kathy

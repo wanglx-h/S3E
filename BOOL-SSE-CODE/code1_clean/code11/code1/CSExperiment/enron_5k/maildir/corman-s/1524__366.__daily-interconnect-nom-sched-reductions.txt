@@ -1,0 +1,5 @@
+From: jean.adams@enron.com
+To: john.buchanan@enron.com, lynn.blair@enron.com
+Date: Mon, 3 Dec 2001 15:06:23 -0800 (PST)
+Subject: DAILY INTERCONNECT NOM/SCHED REDUCTIONS
+Attached is a report for significant changes in nom'd and sched'd volumes by cycle. Please review and let me know how we want to "tweek" the report to give us all the information we need. Jean 3-7757

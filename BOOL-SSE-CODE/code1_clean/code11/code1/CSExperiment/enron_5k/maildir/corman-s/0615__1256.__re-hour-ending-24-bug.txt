@@ -1,0 +1,5 @@
+From: bill.iii@enron.com
+To: pete.davis@enron.com
+Date: Tue, 9 Jan 2001 23:01:00 -0800 (PST)
+Subject: Re: Hour Ending 24 Bug
+Pete, This "bug" initiates as we roll into the new day, as for the exact time...we will have to watch closely and get back to you on that. The bug or false finals are an exact duplicate of the previous days finals for that schedule. If the current day has a null value for HE 24, no new final will overwrite the bug or false final. Consequently we are left with false finals that have absolutely no relation to anything that occurred on the current day. Going forward, we will do our best to document the occurence of these false finals. This bug is annoying and time consuming, but if recognized it seems that our best course of action is to run the report, identify the false finals as the variance, and then give you a call to manually change the values in CAPS so that it will archive properly. Any more feedback you have concerning this bug would be appreciated. Thank you for your help. Bill

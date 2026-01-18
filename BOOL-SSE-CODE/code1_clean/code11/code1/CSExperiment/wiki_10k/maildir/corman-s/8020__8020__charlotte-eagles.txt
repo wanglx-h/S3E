@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Charlotte Eagles
+| stadium = Sportsplex at MatthewsMatthews, North Carolina | capacity = 2,300 | chrtitle = President | chairman = David Urban | mgrtitle = Head Coach | manager = Michael Kovach | league = USL League Two | season = 2021 USL League Two season | position = 6th, Deep South DivisionPlayoffs: DNQ | website = http://www.charlotteeagles.com/ | American = true | current = | pattern_la1 =_whitediagonals | pattern_b1 =_nikechallenge3o | pattern_ra1 = | leftarm1 = FF5900 | body1 = FF5900 | rightarm1 = FF5900 | shorts1 = 000080 | socks1 = FF5900 | pattern_la2 = | pattern_b2 =_blackdiagonals | pattern_ra2 = | leftarm2 = 000080 | body2 = 000080 | rightarm2 = 000080 | shorts2 = 000080 | socks2 = 000080 | }} The '''Charlotte Eagles''' are a soccer club that plays in Charlotte, North Carolina. The team's first season was 1993. They play in the 2nd Division of the United Soccer Leagues. Category:American soccer teams Category:Sports in Charlotte, North Carolina Category:1993 establishments in the United States

@@ -1,0 +1,5 @@
+From: jesse.bryson@enron.com
+To: portland.shift@enron.com
+Date: Fri, 19 Jan 2001 08:43:00 -0800 (PST)
+Subject: EPE Spin purchases
+Another reminder to everyone. If you purchase reserves for EPE, you cannot extend the deals in deal scheduling like we do for normal deals. You MUST do it in deal entry by adding a new strip. This is true for both the purchase and the sale to EPE. If you do not do this, then Houston does not see any price for the deals. If you have any questions, ask. Thanks Jesse

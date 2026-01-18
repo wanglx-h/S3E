@@ -1,0 +1,5 @@
+From: holden.salisbury@enron.com
+To: portland.shift@enron.com
+Date: Fri, 2 Mar 2001 10:47:00 -0800 (PST)
+Subject: Badlands unit over weekend.
+This unit is down all weekend and Monday. Take this out of CAPS for these hours. Thanks, Holden Also, Chris Foster would like us to monitor the schedule crawler for all the generators on an hourly basis. If the ISO cuts the generation please call the generators so they can ramp down and avoid the Dec. Your help with this is appreciated.

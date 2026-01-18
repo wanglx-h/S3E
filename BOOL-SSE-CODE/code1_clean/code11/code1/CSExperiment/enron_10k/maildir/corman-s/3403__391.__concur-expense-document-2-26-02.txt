@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: shelley.corman@enron.com
+Date: Sun, 26 Feb 0002 12:03:21 -0800 (PST)
+Subject: <<Concur Expense Document>> - 2/26/02
+The following expense report is ready for approval: Employee Name: Bradley M. Holmes Status last changed by: Alma L. Carrillo Expense Report Name: 2/26/02 Report Total: $226.17 Amount Due Employee: $226.17 To approve this expense report, click on the following link for Concur Expense. http://expensexms.enron.com

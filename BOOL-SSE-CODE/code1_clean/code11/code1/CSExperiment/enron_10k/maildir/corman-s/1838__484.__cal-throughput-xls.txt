@@ -1,0 +1,5 @@
+From: michelle.lokay@enron.com
+To: steven.harris@enron.com
+Date: Mon, 26 Nov 2001 13:01:39 -0800 (PST)
+Subject: Cal Throughput.xls
+Per your request, historical California throughput data for TW and competitive pipelines.

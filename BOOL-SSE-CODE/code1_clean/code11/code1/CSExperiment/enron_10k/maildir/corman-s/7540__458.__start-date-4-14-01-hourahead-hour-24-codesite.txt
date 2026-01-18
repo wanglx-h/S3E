@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Sat, 14 Apr 2001 16:42:00 -0700 (PDT)
+Subject: Start Date: 4/14/01; HourAhead hour: 24;  <CODESITE>
+Start Date: 4/14/01; HourAhead hour: 24; No ancillary schedules awarded. Variances detected. Variances detected in SC Trades schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001041424.txt ---- SC Trades Schedule ---- +++ Hour 24 - bad data from ISO. TRANS_TYPE: FINAL SC_ID: EPMI MKT_TYPE: 2 TRANS_DATE: 4/14/01 TRADING_SC: NCPA PNT_OF_INTRC: ZP26 SCHED_TYPE: ENGY PURCH_SALE: 2 DEAL_NO: 1

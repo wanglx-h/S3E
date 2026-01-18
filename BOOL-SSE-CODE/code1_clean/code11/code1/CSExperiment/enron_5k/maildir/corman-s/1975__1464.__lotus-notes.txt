@@ -1,0 +1,5 @@
+From: diana.willigerod@enron.com
+To: portland.desk@enron.com
+Date: Mon, 18 Dec 2000 01:38:00 -0800 (PST)
+Subject: Lotus Notes
+I need everyone to close out of Lotus Notes and log back in. Some security settings have been changed on the server to prevent accidental delection of e-mail. Thank you for your attention to this matter. If you have any questions or concerns please let me know. Thanks, Diana

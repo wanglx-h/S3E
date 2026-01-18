@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Googlesearch
+WWW http://simple.wikipedia.org WWW http://simple.wikipedia.org Or if you want to create an article of this title, click this link: $1

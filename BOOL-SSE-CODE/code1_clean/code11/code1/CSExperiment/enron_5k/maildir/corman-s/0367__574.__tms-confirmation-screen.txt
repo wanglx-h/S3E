@@ -1,0 +1,7 @@
+From: jerry.wilkens@enron.com
+To: e-mail <.hottap@enron.com>, e-mail <.john@enron.com>, 
+	e-mail <.lynn@enron.com>, e-mail <.sheila@enron.com>, 
+	e-mail <.terry@enron.com>
+Date: Fri, 23 Nov 2001 10:12:25 -0800 (PST)
+Subject: TMS CONFIRMATION SCREEN
+FYI, Can a fix be made to get the whole scheduled number to appear on the confirmation maintenance screen? These seems to happen on any point that is retrieved. Thanks Jerry @ ext. 3-6167 <Embedded Picture (Device Independent Bitmap)>

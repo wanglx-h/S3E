@@ -1,0 +1,14 @@
+From: amanda.huble@enron.com
+To: chuck.ames@enron.com, nate.blackburn@enron.com, sachin.gandhi@enron.com, 
+	chris.gaskill@enron.com, amanda.huble@enron.com, 
+	tara.piazze@enron.com, vladi.pimenov@enron.com, 
+	elizabeth.shim@enron.com, sabina.rank@enron.com, mog.heu@enron.com, 
+	sylvia.pollan@enron.com, deirdre.mccaffrey@enron.com, 
+	kevin.brady@enron.com, andrew.lewis@enron.com, robyn.zivic@enron.com, 
+	hunter.shively@enron.com, geoff.storey@enron.com, 
+	martin.cuilla@enron.com, kevin.ruscitti@enron.com, 
+	patrice.mims@enron.com, jason.williams@enron.com, 
+	kelli.stevens@enron.com, tom.donohoe@enron.com, joe.parks@enron.com
+Date: Fri, 8 Dec 2000 03:16:00 -0800 (PST)
+Subject: EnTelligence Training Available Tuesday
+---------------------- Forwarded by Amanda Huble/NA/Enron on 12/08/2000 11:13 AM --------------------------- Vanessa Schulte 12/08/2000 11:14 AM To: Ina Rangel/HOU/ECT@ECT, Christy Chapman/HOU/ECT@ECT, Becky Young/NA/Enron@Enron, Laura Harder/Corp/Enron@Enron, Kimberly Brown/HOU/ECT@ECT, Amanda Huble/NA/Enron@Enron, Claudette Harvey/HOU/ECT@ect, Judy Martinez/Corp/Enron@Enron, Stephanie Gardner/HOU/ECT@ECT, Tamara Jae Black/HOU/ECT@ECT, Jewell Wade/NA/Enron@Enron, Airam Arteaga/HOU/ECT@ECT cc: Douglas Allen/NA/Enron@ENRON Subject: EnTelligence Training Available Tuesday Please forward to your groups... EnTelligence training now available! Date: Tuesday, Dec 12 Time: 3:00 and 4:00 Location: EB 572 Please stop by to learn more about the system or just get a demo of what it can do for you!!! Overview EnTelligence is a web-based prospecting tool designed to deliver market information on existing and potential customers to commercial trading, mid-marketing, and origination teams. It also delivers management reports to analyze Enron,s position within the key industries that we serve. Presently, commercial groups have multiple methods for acquiring potential customer information. This system will standardize their resource tools and add consistency to their prospecting processes. EnTelligence combines information from internal databases such as Global Counterparty, Credit Aggregation System (CAS), Sitara, and ERMS with information from external data sources such as Dun & Bradstreet and I.H.S Energy Reporter to identify customer prospects. By providing the capability to filter and search by region, industry, company size, or energy consumption levels, the prospecting process is shortened and the identification of strong prospects improved. Available reports include Market Penetration, Industry Prospecting, Comparison Prospecting, Company Profiles, Family Tree, Top Customers, and Inactive Accounts. Soon to come is the Activity Details report in mid January. Currently only Natural Gas and Power physical deals are loaded, but financial deals will be included in mid January, and new products are soon to follow. Please submit a request for access through eRequest and then log on at http://entelligence.enron.com.

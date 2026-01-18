@@ -1,0 +1,5 @@
+From: michelle.cash@enron.com
+To: kathryn.schultea@enron.com
+Date: Sun, 9 Dec 2001 12:25:17 -0800 (PST)
+Subject: FW: EnronOnline developers
+Here is the second list. Michelle -----Original Message----- From: Webb, Jay Sent: Saturday, December 08, 2001 8:08 PM To: Cash, Michelle Subject: EnronOnline developers Hi Michelle, The attached spreadsheet should represent a complete set of developers of EnronOnline since inception. I haven't named the individual Valtech and Agency.com developers since the agreements we have with those companies presumably cover all of their developers. The rest of the systems will probably not be done until tomorrow. --jay

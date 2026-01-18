@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Google Talk
+'''Google Talk''' (also called '''Google Chat''') was an instant messaging service that was offered by Google. It let users communicate by using texting and VoIP. The service was sometimes called '''Gchat''', '''Gtalk''', or '''Gmessage''' by its users. It is built on the XMPP platform. A web-based version was also available online. ==References== Category:Google

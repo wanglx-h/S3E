@@ -1,0 +1,5 @@
+From: adeller@ercot.com
+To: mockmarket@ercot.com, retailpilot@ercot.com
+Date: Wed, 24 Oct 2001 07:09:34 -0700 (PDT)
+Subject: Data Extracts
+The Load Extract, Initial for 10/23 did not generate. We are working on pushing this extract out as soon as possible. Every effort is being made to complete this by the end of today. ERCOT Client Relations 512-248-3900

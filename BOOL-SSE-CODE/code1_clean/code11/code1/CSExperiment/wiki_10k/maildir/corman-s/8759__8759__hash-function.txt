@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Hash function
+File:Hash table 4 1 1 0 0 1 0 LL.svg, 0..15. John Smith and Sandra Dee get the same value, which is called hash collision. ]] A '''Hash function''' is a set of things to do to make an output that is always the same length from some other input Information. Hash functions can be used to tell a computer that two things are the same without sending the things twice. Hash functions use all the data they can to change the output. The input can be only a little bit different, and have a totally different output. When a hash function is made, care is taken to make sure two different inputs do not get the same hash value (this is called a ''hash collision''). A cryptographic hash function is a kind of hash function that is used in cryptography. It is made to make it hard to make two files with the same hash even if you try. It may also be called a 'message digest', 'digital fingerprint', 'digest' or 'checksum'. ==Related pages== *Hash table Category:Computer science

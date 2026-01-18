@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Fri, 9 Mar 2001 21:39:00 -0800 (PST)
+Subject: Schedule Crawler: HourAhead Failure <CODESITE>
+Start Date: 3/10/01; HourAhead hour: 6; HourAhead schedule download failed. Manual intervention required. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001031006.txt !!!General SQL error. Couldn't update; currently locked by user 'admin' on machine 'ECTHOU-BPS4'. Table !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress. !!!A user transaction is already in progress.

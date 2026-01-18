@@ -1,0 +1,5 @@
+From: bruce.mills@enron.com
+To: martin.cuilla@enron.com, souad.mahmassani@enron.com
+Date: Thu, 18 Oct 2001 11:42:45 -0700 (PDT)
+Subject: FW: Central Desk Curve Mappings.xls
+here is a preliminary list, Bharat is tryiong to get the mapping pice now, he has to do them individually. bruce -----Original Message----- From: Khanna, Bharat Sent: Thursday, October 18, 2001 1:17 PM To: Mills, Bruce; Hayden, Frank; Basu, Nilay; McIntyre, Burton Subject: Central Desk Curve Mappings.xls These are curves that the Cent desk have position on but no associated OMICRONS......... Bharat

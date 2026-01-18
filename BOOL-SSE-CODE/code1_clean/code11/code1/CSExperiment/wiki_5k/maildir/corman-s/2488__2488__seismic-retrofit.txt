@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Seismic retrofit
+'''Seismic retrofitting''' is the modification of buildings that already exist to make them resistant to earthquakes. Seismic retrofitting techniques can be applied to other kinds of natural disasters such as tornadoes and strong winds from thunderstorms.File:Municipal Services Building.jpg retrofitted with base isolation.]] == Seismic retrofit performance objectives == Main levels of retrofitted building performance [https://central.nees.org/data/get/NEES-2009-0733/Public/EPETO%20%40%20NEES.pdf Earthquake Performance Evaluation Tool Online (EPETO)] objectives may vary, namely: * To protect human lives. * To protect a structure from total failure. * To preserve a structure's functionality after a strong earthquake. * To make a structure, practically, unaffected by any earthquake. == References == Category:Earthquake engineering

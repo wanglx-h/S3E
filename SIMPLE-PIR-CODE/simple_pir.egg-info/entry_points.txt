@@ -1,0 +1,2 @@
+[console_scripts]
+simple-pir = simple_pir.cli:main

@@ -1,0 +1,5 @@
+From: cam@pjm.com
+To: rring@enron.com, ssharma@enron.com
+Date: Mon, 3 Sep 2001 07:45:09 -0700 (PDT)
+Subject: MUI access terminated
+Suneet Sharma<ssharma@enron.com>, The following qualifications on your user account have been terminated: eData General OASIS Message OASIS Read Only OASIS Transaction If you have any questions please contact your account manager(s): Richard Ring (eesi)

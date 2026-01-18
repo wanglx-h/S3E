@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Confirmemail success
+Your e-mail address has been confirmed. In order to fully enable email, visit Special:Preferences and mark the box next to "''''''".

@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Void (astronomy)
+File:Nearsc.gif In astronomy, '''voids''' are the empty spaces between filament (astronomy). Filaments and voids are the largest-scale structures in the Universe. There are no or few galaxy in voids. Most voids have a diameter of 11 to 150 parsec. Especially large voids are the empty spaces without many superclusters. These voids are sometimes called '''supervoids'''. A 1994 official counting lists a total of 27 supervoids with a distance of up to 740 Mpc.Lindner U, J. Einasto, M. Einasto, W. Freudling, K. Fricke, E. Tago. 1995. ''The structure of supervoids. I. Void hierarchy in the Northern Local Supervoid.'', Astron. Astrophys., v.301, p.329 {| border="1" |----- ! # ! Name ! Distance (Mpc) ! Diameter (Mpc) |----- | 1 || || 188 || 124 |----- | 5 || || 182 || 130 |----- | 9 || Southern Local Supervoid || 135 | 158 |----- | 18 || || 168 || 144 |----- | 19 || || 168 || 152 |----- | 20 || Bootes Void || 304 || 110 |----- | 21 || || 201 || 163 |----- | 24 || Northern Local Supervoid || 86 | 146 |} == References == # Category:Astronomical objects Category:Cosmology

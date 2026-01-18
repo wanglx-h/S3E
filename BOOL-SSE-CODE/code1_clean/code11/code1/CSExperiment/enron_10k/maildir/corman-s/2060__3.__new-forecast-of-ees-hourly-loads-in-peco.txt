@@ -1,0 +1,5 @@
+From: michael.frazier@enron.com
+To: jgolden@peco-energy.com, cricci@peco-energy.com
+Date: Fri, 25 Jan 2002 08:42:12 -0800 (PST)
+Subject: New forecast of EES hourly loads in PECO
+Connie The text file attached contains new hourly forecasts for EES' three interval metered customers in PECO. Please submit the changes necessary to the forecast dates on our behalf. By early next week, hopefully Monday, we will straighten out the process of submitting and confirming loads from this end as we were doing before 1-14. Thanks so much for your help. Michael Michael R. Frazier Manager Load Forecasting Desk Enron Energy Services Office: 713-345-3200 P-mail: 8779260615@skytel.com

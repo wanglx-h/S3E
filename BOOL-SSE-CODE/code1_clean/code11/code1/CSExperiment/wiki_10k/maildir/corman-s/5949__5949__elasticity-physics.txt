@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Elasticity (physics)
+:File:Elastico-animacao.gif''Economic elasticity is at elasticity (economics)'' Something that is '''elastic''' can be stretched or deformed (changed) and returned to its original form, like a rubber band. It tries to come back to its first shape. The ''stress'' is the force applied; the ''strain'' is how much the shape is changed, and the elastic modulus is the ratio between those numbers. This idea was first suggested by Robert Hooke in 1675. The simplest model for elasticity is Hooke's law. It says that the force to stretch something (F) is proportional to the distance it is stretched (x). This is usually written as F=k x, where k is a constant called the spring constant. If it is easy to stretch a material, that material has a lower k value. Elastic materials are different than plastic materials. A Plasticity (physics) can be stretched or deformed, but it will not return to its original form. == References == Category:Basic English 850 words Category:Elasticity (physics)

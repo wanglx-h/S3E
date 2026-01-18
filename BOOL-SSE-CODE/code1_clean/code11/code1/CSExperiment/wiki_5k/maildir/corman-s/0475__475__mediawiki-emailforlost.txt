@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Emailforlost
+* You do not have to give us your e-mail address. If we have your e-mail, we will not give it to anybody else. The address will only be used by another Wikipedia user, and even that person can not see your address, but only a "E-mail this user" link. Also, if you ever forget your password, we can e-mail it to you.

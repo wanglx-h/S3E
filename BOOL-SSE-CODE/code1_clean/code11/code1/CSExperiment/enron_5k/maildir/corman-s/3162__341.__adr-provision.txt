@@ -1,0 +1,7 @@
+From: mary.hain@enron.com
+To: sdleonard@earthlink.net, gdahlke@painehamblen.com, mary.hain@enron.com, 
+	deb@aelaw.com, shellyr@teleport.com, cfi1@tca-us.com, 
+	pmohler@hewm.com, cwestadt@sppc.com, sberman@hewm.com
+Date: Fri, 2 Mar 2001 04:10:00 -0800 (PST)
+Subject: ADR Provision
+See attached.

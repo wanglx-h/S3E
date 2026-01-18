@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Constant
+A '''constant''' is something that does not change. Constants (numbers) are used in maths and programming language. An important fact to remember in calculus is that the Derivative (mathematics) of a constant is always zero. ==Related pages== *Variable Category:Mathematics Category:Computer science Category:Constants

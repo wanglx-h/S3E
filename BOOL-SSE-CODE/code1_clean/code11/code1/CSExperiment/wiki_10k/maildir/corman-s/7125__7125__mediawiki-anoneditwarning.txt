@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Anoneditwarning
+You are not currently Special:UserLogin. Changing this way will make your IP address show up in [|action=history}} this page's change history]. If you [//simple.wikipedia.org/w/index.php?title=Special:UserLogin&type=signup create an account], you can hide your IP address and you will have many other benefits. Messages sent to your IP can be seen on '''Special:Mytalk'''. |Wikipedia:Sandbox||'''Please do not save test changes. If you want to test things out, please use the Wikipedia:Sandbox.'''}}

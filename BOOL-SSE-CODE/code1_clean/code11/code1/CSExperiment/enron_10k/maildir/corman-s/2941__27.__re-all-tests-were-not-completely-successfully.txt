@@ -1,0 +1,8 @@
+From: bradley.holmes@enron.com
+To: a..smith@enron.com, helpdesk.hottap@enron.com, toby.kuehl@enron.com, 
+	john.buchanan@enron.com, terry.kowalke@enron.com, 
+	darrell.schoolcraft@enron.com, lynn.blair@enron.com, 
+	sheila.nacey@enron.com
+Date: Wed, 24 Oct 2001 13:49:03 -0700 (PDT)
+Subject: RE: All tests were not completely successfully
+The Help Desk did not receive calls on either of these items this morning. That is positive and demonstrates that we have a process in place to resolve issues before a customer places a call. I do think it is important to know; 1.) how were these resolved? 2.) what caused them and how can they be avoided in the future? Brad -----Original Message----- From: Smith, Chris A. Sent: Wednesday, October 24, 2001 6:35 AM To: Hottap HelpDesk; Kuehl, Toby; Holmes, Bradley; Buchanan, John; Kowalke, Terry; Schoolcraft, Darrell; Blair, Lynn; Nacey, Sheila Cc: Abshire, Scott; Hotte, Steve; Sawyer, Lisa; McFarland, Jean; Kedwaii, Hasan; Wagner, Glenda Subject: All tests were not completely successfully All testing was performed, and was successful except for the following: although ENW Resolution Center confirmed that Exchange servers are up, they have received reports that some people get a login screen when trying to access their Outlook. They are instructing their users to cancel by the message. We have not observed this problem in ETS. while attempting to access the Flow Gas application, we were unable to hit www.infosource.com. We paged the Business Objects on-call pager and will continue to follow up.

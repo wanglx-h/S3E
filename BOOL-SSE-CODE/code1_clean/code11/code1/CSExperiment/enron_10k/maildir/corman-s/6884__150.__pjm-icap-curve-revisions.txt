@@ -1,0 +1,5 @@
+From: richard.ring@enron.com
+To: narsimha.misra@enron.com
+Date: Mon, 15 Oct 2001 13:22:14 -0700 (PDT)
+Subject: PJM ICAP Curve Revisions
+Attached is a spreadsheet which indicates my proposed changes to the ICAP curves. Let me know what you think prior to implementation.

@@ -1,0 +1,8 @@
+From: john.buchanan@enron.com
+To: lynn.blair@enron.com, jean.blair@enron.com, shelley.corman@enron.com, 
+	steve.january@enron.com, terry.kowalke@enron.com, 
+	gerry.medeles@enron.com, sheila.nacey@enron.com, 
+	oncall.tms@enron.com
+Date: Mon, 14 Jan 2002 04:39:18 -0800 (PST)
+Subject: RE: NNG WKEND NOTES - JANUARY 12&13, 2002
+I have started the process to find out why TW and NNG's EPSQ rounds differently. JWB -----Original Message----- From: Blair, Lynn Sent: Monday, January 14, 2002 6:34 AM To: Blair, Jean; Buchanan, John; Corman, Shelley; January, Steve; Kowalke, Terry; Medeles, Gerry; Nacey, Sheila; TMS OnCall Cc: Callans, Nancy; Hibbard, Scott; Benningfield, Robert Subject: RE: NNG WKEND NOTES - JANUARY 12&13, 2002 John and Terry, could we look into TW and NNG rounding in the same direction for EPSQ? It seems like that would be more effective. Thanks. Lynn -----Original Message----- From: Blair, Jean Sent: Sunday, January 13, 2002 9:48 PM To: Blair, Lynn; Buchanan, John; Corman, Shelley; January, Steve; Kowalke, Terry; Medeles, Gerry; Nacey, Sheila; TMS OnCall Cc: Callans, Nancy; Hibbard, Scott; Blair, Jean; Benningfield, Robert Subject: NNG WKEND NOTES - JANUARY 12&13, 2002 Ladies & Gentlemen: Attached is NNG's Weekend Notes for January 12th & 13th. << File: NNGWKednotes_2002.xls >> Best regards, Jean L. Blair Evening Wkend Team (North Team)

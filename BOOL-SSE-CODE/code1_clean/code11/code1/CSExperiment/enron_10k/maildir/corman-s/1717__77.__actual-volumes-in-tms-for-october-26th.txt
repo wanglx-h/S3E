@@ -1,0 +1,21 @@
+From: randy.janzen@enron.com
+To: terry.kowalke@enron.com, sheila.nacey@enron.com, raetta.zadow@enron.com, 
+	lynn.blair@enron.com, larry.berger@enron.com, 
+	john.buchanan@enron.com, helpdesk.hottap@enron.com, 
+	darrell.schoolcraft@enron.com, gary.spraggins@enron.com, 
+	oncall.tms@enron.com, carol.sommer@enron.com, 
+	bradley.holmes@enron.com, nancy.callans@enron.com, 
+	karen.clapper@enron.com, e-mail <.james@enron.com>, 
+	e-mail <.jean@enron.com>, e-mail <.jerry@enron.com>, 
+	e-mail <.kathy@enron.com>, berry.pat@enron.com, 
+	renee.perry@enron.com, diana.porter@enron.com, 
+	e-mail <.randy@enron.com>, e-mail <.shirley@enron.com>, 
+	cara.vaughan@enron.com, chris.greaney@enron.com, 
+	debra.scurlock@enron.com, harry.woodson@enron.com, 
+	janet.mcdaniel@enron.com, jean.adams@enron.com, 
+	joe.linhart@enron.com, kathy.sturr@enron.com, randy.janzen@enron.com, 
+	robert.benningfield@enron.com, e-mail <.scott@enron.com>, 
+	sherry.forbish@enron.com
+Date: Sun, 28 Oct 2001 06:25:02 -0800 (PST)
+Subject: Actual Volumes in TMS for October 26th
+There is a problem between PGAS and TMS. The actual volumes for the 26th are not correct in TMS. In doing the Bushton PVR report I found that the actual volume in TMS did not match the actual volume in PGAS for the PVR measured. I then began to look at other points, Spearman, Beaver Co's, etc; and found the same problem existed. Randy Janzen 3-5962

@@ -1,0 +1,7 @@
+From: terry.kowalke@enron.com
+To: laura.giambrone@enron.com, bert.hernandez@enron.com, 
+	christine.mcevoy@enron.com, beverly.miller@enron.com, 
+	tracy.minter@enron.com, amy.mulligan@enron.com, linda.ward@enron.com
+Date: Fri, 27 Jul 2001 13:18:05 -0700 (PDT)
+Subject: Socal Allocation Code
+Starting on the timely process for gas day of July 28th forward. We will now start using the cut code of PRD when we allocate Socal based on there window, whether above or below the 750,000 firm capacity. The only time that you will use the cut code CCD, is when the outage is truly related to TW. There will be more procedure to follow, regarding the data request from FERC. If you have questions or concerns, please ask Terry Kowalke, Darrell Schoolcraft, or Lynn Blair. Your assistance is greatly appreciated.

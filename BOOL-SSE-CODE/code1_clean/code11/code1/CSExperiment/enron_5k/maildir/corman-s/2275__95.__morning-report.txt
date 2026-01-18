@@ -1,0 +1,10 @@
+From: tim.cooper@enron.com
+To: john.long@enron.com, dan.swanson@enron.com, thomas.nestor@enron.com, 
+	jimmy.dowden@enron.com, beverley.nelson@enron.com, 
+	robert.hayes@enron.com, jack.boatman@enron.com, 
+	sharon.farrell@enron.com, rachel.cady@enron.com, 
+	shelley.corman@enron.com, sheila.nacey@enron.com, 
+	rick.craig@enron.com
+Date: Mon, 7 Jan 2002 06:17:50 -0800 (PST)
+Subject: Morning report
+Please find the attached file. Thanks, Tim

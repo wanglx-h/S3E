@@ -1,0 +1,5 @@
+From: kirti.patel@enron.com
+To: karima.husain@enron.com, hal.mckinney@enron.com
+Date: Fri, 31 Aug 2001 11:22:28 -0700 (PDT)
+Subject: FW:
+Hi! Hal, Please help Martin to resolve his prob. Thank You -Kirti Patel x33587 -----Original Message----- From: Cuilla, Martin Sent: Friday, August 24, 2001 6:17 AM To: Patel, Kirti Subject: this is the message i get when i try to access TRV from my home. let me know what you think the problem is. thanks. martin x35933 To use this Web page interactively, you must have Microsoft? Internet Explorer 4.01 or later and the Microsoft Office Web Components. See the Microsoft Office Web site <http://officeupdate.microsoft.com/office/redirect/fromOffice9/MSOWCPub.htm?&HelpLCID=1033> for more information.

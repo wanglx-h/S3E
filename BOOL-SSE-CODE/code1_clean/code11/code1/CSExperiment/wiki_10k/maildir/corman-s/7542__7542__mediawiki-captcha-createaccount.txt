@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Captcha-createaccount
+To protect against spam robots, you need to type the exact words seen below, or answer the math problem correctly, to get your username account. :''If you can't see it, please make sure 'cookies' are turned on in your computer browser.'' :(''Special:Captcha/help'')

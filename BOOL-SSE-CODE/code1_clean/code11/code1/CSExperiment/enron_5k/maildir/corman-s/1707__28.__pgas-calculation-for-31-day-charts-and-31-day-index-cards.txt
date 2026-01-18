@@ -1,0 +1,5 @@
+From: lynn.blair@enron.com
+To: caroline.barnes@enron.com, don.hawkins@enron.com, steve.klimesh@enron.com
+Date: Wed, 6 Mar 2002 15:53:06 -0800 (PST)
+Subject: PGAS Calculation for 31 Day Charts and 31 Day Index Cards
+The following is a recap of the status of the implementation of the PGAS calculation for 31 day charts and 31 day index cards. Beginning with March production (April Billing), GMS will have the new calculation in PGAS for 31 day charts and 31 day index cards. This calculation is to give NNG more representation of daily estimated volume for billing purposes. As a reminder the 31 day charts and 31 day index cards will NOT be processed using the delineator. The calculation is considered to be representative of the daily volume and no PPA's will be processed on the calculated estimates. At this time there will NOT be a daily PGAS calculation on 7 day and 16 day charts. These charts will by (1) tracked for timely receipt; and (2) integrated for daily volumes when received. Any charts received after the required deadline will be processed as a PPA. If anyone has any questions, please let Gary Anderson or I know. Thanks. Lynn

@@ -1,0 +1,6 @@
+From: john.buchanan@enron.com
+To: kent.miller@enron.com, dave.neubauer@enron.com, tim.johanson@enron.com, 
+	lynn.blair@enron.com
+Date: Thu, 27 Sep 2001 08:45:28 -0700 (PDT)
+Subject: USES Storage Allocation
+Kent, There have been no DDVC charges against Cottage Grove since June 1, 2001. DDVC charges at Whitewater on days that Storage was allocated on ID/2 where true up's are not allowed during the Final 8am cycle are as follows: June 20 DDVC charge 4,514.40 June 28 DDVC charge 1,645.20 June 17 DDVC charge 244.40 Total 6,404.00 DDVC charges at Whitewater on days that Storage was not allocated or not allocated on ID/2 and Final 8am cycle true up's were allowed are as follows: June 13 DDVC charge 3,240.00 June 21 DDVC charge 443.20 Total 3,683.20 Grand Total 10,087.20 John Buchanan

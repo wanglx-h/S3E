@@ -1,0 +1,5 @@
+From: arsystem@mailman.enron.com
+To: lynn.blair@enron.com
+Date: Tue, 20 Nov 2001 17:35:10 -0800 (PST)
+Subject: Your Approval is Overdue: Access Request for randy.bryan@enron.com
+This request has been pending your approval for 2 days. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000076593&Page=Approval to review and act upon this request. Request ID : 000000000076593 Request Create Date : 11/19/01 11:06:10 AM Requested For : randy.bryan@enron.com Resource Name : Unlisted Desktop Application Resource Type : Applications

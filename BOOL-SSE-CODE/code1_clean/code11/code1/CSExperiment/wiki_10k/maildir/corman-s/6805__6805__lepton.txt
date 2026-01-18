@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Lepton
+File:Lepton isodoublets.pngs, muons, tauons, electron neutrinos, mu neutrinos, and tau neutrinos, respectively]]'''Leptons''' are elementary particles with spin (physics) 1/2 (a fermion) that are not affected by strong nuclear force. They are a family of particles that are different from the other known family of fermions, the quarks. Electrons are a well-known example that are found in ordinary matter. There are six leptons: the electron, muon, and tau particles and their associated neutrinos. The different varieties of the elementary particles are commonly called "flavors", and the neutrinos here are considered to have distinctly different flavor. Of the six leptons, three have electric charge and three do not. The best known charged lepton is the electron (e). The other two charged leptons are the muon (µ) and the tau lepton (τ), which are like electrons but much bigger. The charged leptons are all negative particles, their ''antiparticles'' are positively charged (for example, the antiparticle of the electron, e-, is a positron, e+). The Supersymmetry of a lepton is called a "slepton." Category:Elementary particles

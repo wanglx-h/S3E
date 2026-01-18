@@ -1,0 +1,5 @@
+From: bill.iii@enron.com
+To: portland.shift@enron.com
+Date: Tue, 6 Mar 2001 09:19:00 -0800 (PST)
+Subject: Hourly Sheet Goes LIVE!
+The hourly sheet will be going live tomorrow on the flat screens. It will display bid/offer at the selected points. The sheet will update on the flat screens when you save it and press the blue arrow (upload arrow in the upper left corner of the sheet). Please update this sheet at least hourly and when you hear new bids or offers in the hour that might be of interest to others on the floor. See me with questions. Bill

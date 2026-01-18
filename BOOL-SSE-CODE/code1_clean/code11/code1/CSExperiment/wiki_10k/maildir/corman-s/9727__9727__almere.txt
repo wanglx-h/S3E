@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Almere
+| subdivision_type = List of sovereign states | subdivision_name = | subdivision_type1 = Provinces of the Netherlands | subdivision_name1 = | leader_title = Mayor | leader_name = Anna Theodora Bernardina Schouten | area_total_km2 = 129.2 | population_total = 150,359 | population_as_of = January 1, 2001 | population_density_km2 = 1,164 | timezone1 = Central European Time | utc_offset1 = +01:00 | postal_code_type = Postalcode | postal_code = 1300–1379 | area_code_type = Area code | area_code = 036 | blank_name_sec2 = ISO 3166-2:NL | blank_info_sec2 = | blank1_name_sec2 = Address | blank1_info_sec2 = | website = }} '''Almere''' is a List of municipalities of the Netherlands in the Netherlands (no city rights). It is in the province of Flevoland and nearby Amsterdam and has about 215,000 people (2021). == Other websites == * [http://www.almere.nl Almere website] Category:Almere Category:Settlements in Flevoland

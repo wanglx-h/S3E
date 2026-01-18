@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Wikipedia:Student tutorial/page7
+Image:Nuvola_apps_kopete.png '''You're done!''' Congratulations, you can now start making changes to Wikipedia! Come back and read this tutorial any time if you forget anything. If you'd like to start looking for articles on any subject right now, a great place to start is our '''Special:CategoryTree/Articles'''. Or, you can click Special:Random to get a surprise! If you want to start a new article now, visit the Wikipedia:Article wizard. ---- {| style="width:100%; background:transparent;" | '''Wikipedia:Student tutorial/page6''' | '''Wikipedia:Schools''' |} Category:Wikipedia Schools

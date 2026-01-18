@@ -1,0 +1,15 @@
+From: darin.schmidt@enron.com
+To: chris.abel@enron.com, naveen.andrews@enron.com, dennis.benevides@enron.com, 
+	don.black@enron.com, neil.bresnan@enron.com, wanda.curry@enron.com, 
+	minal.dalia@enron.com, charles.decker@enron.com, 
+	janet.dietrich@enron.com, meredith.eggleston@enron.com, 
+	vladimir.gorny@enron.com, jess.hewitt@enron.com, 
+	jeffrey.jackson@enron.com, chris.leonard@enron.com, 
+	james.lewis@enron.com, david.port@enron.com, 
+	warren.prihoda@enron.com, marco.smith@enron.com, 
+	kenneth.thibodeaux@enron.com, jubran.whalan@enron.com, 
+	greg.whalley@enron.com, rick.wurlitzer@enron.com, 
+	john.zurita@enron.com
+Date: Tue, 15 May 2001 02:11:00 -0700 (PDT)
+Subject: EES VaR Report for 05-14-01
+The EES VaR for today is $8.2 million, up from yesterday's Var of $5.0 million, due to the short positions added to the Power West portfolio at NP and SP. The VaR will decrease once the short positions that were recently added to cover the University of California system deal are removed due to EES' successful appeal.

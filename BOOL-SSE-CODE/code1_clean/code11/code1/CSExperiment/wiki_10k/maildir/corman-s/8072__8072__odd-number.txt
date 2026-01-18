@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Odd number
+An '''odd number''' is an integer when divided by two, either leaves a remainder or the result is a Fraction (mathematics). One is the first odd positive number. Some examples of odd numbers are 1, 3, 5, 7, 9, and 11. An integer that is not an odd number is an even number. If an even number is divided by two, the result is another integer. On the other hand, an odd number, when divided by two, will result in a fraction. Since odd numbers are integers, negative numbers can be odd. == Related pages == * Even number Category:Numbers Category:Number theory Category:Arithmetics

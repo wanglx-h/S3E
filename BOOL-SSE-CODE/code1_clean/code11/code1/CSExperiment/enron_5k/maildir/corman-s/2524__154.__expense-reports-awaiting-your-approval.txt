@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: gblair@enron.com
+Date: Tue, 23 Oct 2001 23:23:53 -0700 (PDT)
+Subject: Expense Reports Awaiting Your Approval
+The following reports have been waiting for your approval for more than 4 days. Please review. Owner: Jean Adams Report Name: Great River Energy Days In Mgr. Queue: 6 Owner: Harry P Woodson Report Name: BP Energy Days In Mgr. Queue: 6

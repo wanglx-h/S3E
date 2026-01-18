@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Tue, 10 Apr 2001 05:41:00 -0700 (PDT)
+Subject: Start Date: 4/10/01; HourAhead hour: 13;  <CODESITE>
+Start Date: 4/10/01; HourAhead hour: 13; No ancillary schedules awarded. No variances detected. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001041013.txt ---- SC Trades Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: EPMI MKT_TYPE: 2 TRANS_DATE: 4/10/01 TRADING_SC: PGAE PNT_OF_INTRC: NP15 SCHED_TYPE: ENGY PURCH_SALE: 2 DEAL_NO: 1

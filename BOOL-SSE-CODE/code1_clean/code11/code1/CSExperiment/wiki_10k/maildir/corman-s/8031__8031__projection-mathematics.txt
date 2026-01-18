@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Projection (mathematics)
+File:Example projection.png screen, and end at a 3D object. In 3D it is possible for three Right angle to meet, but in 2D this can't happen. But still, a 2D screen can show the 3D object.]] A '''projection''' in geometry is something like finding a shadow that an object casts onto another object. When a three-dimensional sphere is projected onto a plane (geometry), its projection will either be a circle or an ellipse. In higher mathematics, projections are more broad. A projection is an Idempotence function from a set onto a subset. When a function is idempotent, it means that no matter how many (Positive number) times one uses the map, it is the same as using the map one time. Often, projections pick coordinate from elements in a Cartesian product. For example, \pi_1:X\times Y\to X can denote the map defined by (x,y)\mapsto x. Category:Mathematics

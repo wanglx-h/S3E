@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: robert.benson@enron.com
+Date: Wed, 24 Oct 2001 23:11:45 -0700 (PDT)
+Subject: <<Concur Expense Document>> - Customer Dinner Meetings
+The Payment status has changed on the following report: Status last changed by: System Expense Report Name: Customer Dinner Meetings Report Total: $194.78 Amount Due Employee: $194.78 Amount Approved: $194.78 Amount Paid: $194.78 Approval Status: Approved Payment Status: Paid To review this expense report, click on the following link for Concur Expense. http://expensexms.enron.com

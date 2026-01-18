@@ -1,0 +1,8 @@
+From: michael.bodnar@enron.com
+To: kent.miller@enron.com, shelley.corman@enron.com, lynn.blair@enron.com, 
+	theresa.branney@enron.com, preston.roobaert@enron.com, 
+	kay.threet@enron.com, reyna.cabrera@enron.com, 
+	john.buchanan@enron.com, gerry.medeles@enron.com
+Date: Fri, 29 Jun 2001 13:10:50 -0700 (PDT)
+Subject: Changes to Storage allocation and SBS
+To summarize the outcome of the meeting this morning.... In the short term: Storage allocations will continue to be the final process performed during the Timely and Evening cycles Storage allocations will be before the Confirmation process for the Non-Grid, IntraDay1 and IntraDay 2 cycles / SBS will not be available during the Confirmation process for these cycles The changes will be made effective for the gad day of July 6th For the longer term Continue the above Make modifications to the storage allocatons program to allow SBS availability for storage activity which is the opposite to the activity being allocated (i.e., SBS storage withdrawals when storage injections are being allocated)

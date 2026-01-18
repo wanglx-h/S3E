@@ -1,0 +1,18 @@
+From: john.buchanan@enron.com
+To: larry.berger@enron.com, michael.bodnar@enron.com, terry.kowalke@enron.com, 
+	darrell.schoolcraft@enron.com, gary.spraggins@enron.com, 
+	raetta.zadow@enron.com, jean.adams@enron.com, 
+	patrick.barry@enron.com, robert.benningfield@enron.com, 
+	jean.blair@enron.com, randy.bryan@enron.com, nancy.callans@enron.com, 
+	james.carr@enron.com, karen.clapper@enron.com, 
+	sherry.forbish@enron.com, chris.greaney@enron.com, 
+	scott.hibbard@enron.com, randy.janzen@enron.com, 
+	joe.linhart@enron.com, janet.mcdaniel@enron.com, 
+	renee.perry@enron.com, diana.porter@enron.com, 
+	debra.scurlock@enron.com, kathy.sturr@enron.com, 
+	cara.vaughan@enron.com, shirley.walden@enron.com, 
+	kathy.washington@enron.com, jerry.wilkens@enron.com, 
+	harry.woodson@enron.com
+Date: Tue, 15 Jan 2002 07:25:18 -0800 (PST)
+Subject: Demarc allocations
+Well it is that time of year again to start looking at Demarc Allocations. Please look at your Demarc Allocation procedures and review them, get with your teams and discuss them and ask questions to make sure everyone understands them. Each person running a cycle is to look at Demarc to see if the numbers call for an allocation. This should be looked at during the Timely, Evening, ID/1 and ID/2 cycles. If the numbers look like an allocation is needed contact Gary Spraggins, Steve January, Darrell Schoolcraft, Lynn Blair, Terry Kowalke or John Buchanan. Thanks: John Buchanan

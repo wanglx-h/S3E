@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Kibibyte
+A '''kibibyte''' (KiB) is a unit of information or computer storage. A kibibyte is 1024 bytes, 1024 kibibytes are a mebibyte. :1 KiB = 210 bytes = 1,024 bytes ==Related pages== * Kilobyte * Mebibyte * Gibibyte * Tebibyte Category:Units of information

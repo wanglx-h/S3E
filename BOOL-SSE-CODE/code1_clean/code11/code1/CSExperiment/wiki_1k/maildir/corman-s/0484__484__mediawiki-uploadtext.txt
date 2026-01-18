@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Uploadtext
+{| class="messagebox standard-talk" style="border: 1px solid #CC9999; background-color: #FFCCCC;" |Image:Stop hand.png '''NO IMAGE UPLOADS!''' Image:Stop hand.png |} '''NOTICE:''' '''Simple English Wikipedia does not let users upload images (pictures or photos) anymore.''' Please read our Wikipedia:Image use policy. This means, if you want to use a picture file in an article on Simple English Wikipedia, you must upload it at ''':Commons:,''' instead of using this page. However, if you are uploading a '''SPOKEN ARTICLE''', feel free to do so, but remember to add to the description page so other users would not be confused. "Commons" is the place that shares images with all the Wikimedia projects (Wikipedia, Wikibooks, Wiktionary, Wikisource, Wikiquote), in every language. Whenever a picture is placed on the Commons, it can be used here (and everywhere else, too) right away. Please read commons:Commons:First steps for more. ''':commons:Special:Search''' Because of our '''NO UPLOAD''' policy, any image you upload to Simple English Wikipedia with this page, '''may be deleted with no warning''' by an administrator.

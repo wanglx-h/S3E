@@ -1,0 +1,5 @@
+From: jesse.bryson@enron.com
+To: portland.shift@enron.com
+Date: Mon, 12 Mar 2001 09:35:00 -0800 (PST)
+Subject: New OATI Feature
+There is a new feature in OATI that you all may find helpful. The feature enables the user to view only real-time tags (that would be tags without the prescheduled flag checked). This can be accomplished by clicking on the MORE FILTERS button next to the REFRESH button. This will open an Optional Filters screen. In order to view only the RT tags, choose WSCC pre-sched option as not pre-sched and choose OK. Remember that you have this option on when you are searching for pre-scheduled tags!! Cheers Jesse

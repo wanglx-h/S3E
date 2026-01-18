@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Composite number
+A '''composite number''' (or simply a ''composite'') is a natural number, that can be found by multiplying prime numbers. For example, the number ''nine'' can be found by multiplying ''three'' by ''three''. Another example is the number ''12'', which is obtained by multiplying ''3'', ''2'' and ''2''. All natural numbers (greater than one) can be put in one of the two classes below: * The number is prime. * The number is not prime. It can be found by multiplying together other primes. The same prime number can be used several times, as in the example with 12 above. This is known as the fundamental theorem of arithmetic. ==Related pages== *Perfect number Category:Number theory

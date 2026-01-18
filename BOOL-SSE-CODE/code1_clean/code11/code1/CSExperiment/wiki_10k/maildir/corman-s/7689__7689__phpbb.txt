@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: PhpBB
+'''phpBB''' is a wikt:common used, Free software computer software for forums. As the name suggests, phpBB is written in PHP, with the use of one of SQL compatible databases. == References == == Other websites == * [https://www.phpbb.com Official website] Category:Software Category:Free software

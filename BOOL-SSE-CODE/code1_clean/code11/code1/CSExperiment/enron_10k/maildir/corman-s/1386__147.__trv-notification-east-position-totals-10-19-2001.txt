@@ -1,0 +1,11 @@
+From: luchas.johnson@enron.com
+To: chuck.ames@enron.com, alejandra.chavez@enron.com, darren.espey@enron.com, 
+	kulvinder.fowler@enron.com, james.hungerford@enron.com, 
+	luchas.johnson@enron.com, kam.keiser@enron.com, brad.mckay@enron.com, 
+	jonathan.mckay@enron.com, hal.mckinney@enron.com, 
+	scott.palmer@enron.com, jeff.royed@enron.com, kimat.singla@enron.com, 
+	victoria.versen@enron.com, melissa.videtto@enron.com, 
+	ashley.worthing@enron.com
+Date: Fri, 19 Oct 2001 15:56:28 -0700 (PDT)
+Subject: TRV Notification:  (East Position Totals - 10/19/2001)
+The report named: East Position Totals <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=2&report_name=East+Position+Totals&category_cd=1&category_name=EAST&toc_hide=1&sTV1=1&TV1Exp=Y&current_efct_date=10/19/2001>, published as of 10/19/2001 is now available for viewing on the website.

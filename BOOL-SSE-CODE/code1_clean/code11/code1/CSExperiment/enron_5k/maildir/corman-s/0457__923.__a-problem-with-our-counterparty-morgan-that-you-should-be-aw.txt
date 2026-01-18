@@ -1,0 +1,7 @@
+From: cara.semperger@enron.com
+To: tim.belden@enron.com, sean.crandall@enron.com, tom.alonso@enron.com, 
+	mark.fischer@enron.com, matt.motley@enron.com, 
+	mike.swerzbin@enron.com, michael.driscoll@enron.com
+Date: Mon, 5 Mar 2001 09:18:00 -0800 (PST)
+Subject: A problem with our counterparty Morgan that you should be aware of
+We have had recurring problems with Morgan's west power group(scheduling, real time, anyone) being absolutely unreachable after 2 pm our time, for any reason. Geir had a number of their schedules have difficulty this weekend, and called me in desperation for a way to reach them. I have spoken to Morgan's staff numerous times about their unavailability, and those conversations seem to have no impact. Today it presents a problem because one of their tags is denied, and there is nobody there to fix them. They did not correct their tag, and I had to intervene and create one on their behalf and deal with the control area at 5 pm. Please keep these diffuculties in mind, and if you have any influence with their trading staff, encourage them to beef up their staffing, especially on real time. C

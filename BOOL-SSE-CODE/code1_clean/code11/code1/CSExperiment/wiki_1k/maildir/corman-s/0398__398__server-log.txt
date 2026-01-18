@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Server log
+A '''server log''' records what is happening on a server at any time. For example, an HTTP server runs a web site. Category:Servers de:Logdatei

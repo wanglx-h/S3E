@@ -1,0 +1,7 @@
+From: michael.bodnar@enron.com
+To: legale.black@enron.com, randy.bryan@enron.com, richard.hanagriff@enron.com, 
+	alice.johnson@enron.com, dennis.lee@enron.com, 
+	james.studebaker@enron.com
+Date: Tue, 18 Sep 2001 09:04:45 -0700 (PDT)
+Subject: Updated: Business Objects Training
+When: Tuesday, September 11, 2001 1:00 PM-5:00 PM (GMT-06:00) Central Time (US & Canada). Where: EB 49c1 *~*~*~*~*~*~*~*~*~* NOTICE.... The training has been re-scheduled for Tuesday, October 2nd in EB 49c1 from 1- 5 p.m. In this 1st session Don and Ken Powers plan to cover the following: 1. Inventory of commonly used Universes and their data structure (4 hours) 2. Description of the canned reports that currently exist and how they are being used. (2 hours) 3. Q&A and assistance in developing reports (2 hours).

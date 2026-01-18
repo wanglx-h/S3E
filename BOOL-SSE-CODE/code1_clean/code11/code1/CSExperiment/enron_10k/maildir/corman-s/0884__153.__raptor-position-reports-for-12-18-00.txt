@@ -1,0 +1,6 @@
+From: gordon.mckillop@enron.com
+To: ben.glisan@enron.com, andrew.fastow@enron.com, richard.causey@enron.com, 
+	rick.buy@enron.com, greg.whalley@enron.com
+Date: Tue, 19 Dec 2000 13:35:00 -0800 (PST)
+Subject: Raptor Position Reports for 12-18-00
+Please note that the Raptor I credit capacity is at $(6.2) million due mainly to Catalytica which is now a publicly traded stock. Raptor 3 also has a negative credit capacity.

@@ -1,0 +1,5 @@
+From: crcommunications@caiso.com
+To: 20participants@caiso.com, scsettlecontacts@caiso.com
+Date: Mon, 28 Aug 2000 10:26:00 -0700 (PDT)
+Subject: CAISO NOTIFICATION - "ISO Polled" 10-Min Meter Data Implementatio n
+Greetings; The attached document outlines the changes in meter data polling being implemented effective 8/31/00 for ISO polled meters. The data will change to 10 minute intervals in support of the 10-minute settlement process. Please review the attached document with particular attention to the changes on August 31, 2000. At this time, there will be no change to SC submitted SQMD. The ISO has posted this document on the web page: http://www.caiso.com/clientserv/metering/ Metering - 10-Minute Settlements <<STAR 10 minute meter data with DST explanation.xls>> Client Relations Communication CRCommunications@caiso.com - STAR 10 minute meter data with DST explanation.xls

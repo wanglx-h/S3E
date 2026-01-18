@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: shelley.corman@enron.com
+Date: Sat, 11 Feb 0002 08:25:01 -0800 (PST)
+Subject: <<Concur Expense Document>> - Sodexho Marriott @ Enron
+The following expense report is ready for approval: Employee Name: Grace L. Blair Status last changed by: Ava L. Garcia Expense Report Name: Sodexho Marriott @ Enron Report Total: $518.52 Amount Due Employee: $518.52 To approve this expense report, click on the following link for Concur Expense. http://expensexms.enron.com

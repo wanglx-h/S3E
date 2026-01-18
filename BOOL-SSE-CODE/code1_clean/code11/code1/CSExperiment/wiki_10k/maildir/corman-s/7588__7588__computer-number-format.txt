@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Computer number format
+A '''computer number format''' refers to the way computers and calculators represent numbers. Most computers use the binary system, which consists of ones and zeros. Other systems in use include the Octal numeral system (0–7) and Hexadecimal numeral system (0–9, A–F) systems. These formats allow computers to interpret and process numbers in ways that are not always directly understandable by humans. Category:computer science

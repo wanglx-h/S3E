@@ -1,0 +1,5 @@
+From: mollie.gustafson@enron.com
+To: portland.desk@enron.com
+Date: Fri, 27 Apr 2001 09:46:00 -0700 (PDT)
+Subject: Email Migration
+On Tuesday, May 1 we will begin the migration from Lotus Notes to Microsoft Outlook. Your existing emails and folders within Lotus Notes will be transferred to Outlook without the loss of any data. The attached spreadsheet indicates migration date by employee. Training for Outlook will be available Wednesday through Friday. Currently, training information is not available, however, we will try to have this information to the floor on Monday. If you have any questions or concerns, please contact Dave Steiner at ext. 3701.

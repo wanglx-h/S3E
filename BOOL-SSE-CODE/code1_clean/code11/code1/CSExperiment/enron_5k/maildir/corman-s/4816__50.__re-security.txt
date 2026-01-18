@@ -1,0 +1,5 @@
+From: lynn.blair@enron.com
+To: maggie.matheson@enron.com
+Date: Fri, 14 Sep 2001 09:05:27 -0700 (PDT)
+Subject: RE: Security
+I am fine with Gary and Darrel having update access as long as they understand that it means they have access to change shippers info. Thanks. Lynn -----Original Message----- From: Matheson, Maggie Sent: Thursday, September 13, 2001 11:39 AM To: Blair, Lynn Cc: Schoolcraft, Darrell; Spraggins, Gary Subject: Security Lynn, I had a request from Darrell to set him up with update capabilities to nominations, confirmations and scheduled quantities. Currently I have both Gary and Darrell set up with update capabilities to the process control and inquiry to all of the TMS screens. Let me know if you are OK with them having any kind of update capabilites and I will get a form together for your approval. Thanks, Maggie

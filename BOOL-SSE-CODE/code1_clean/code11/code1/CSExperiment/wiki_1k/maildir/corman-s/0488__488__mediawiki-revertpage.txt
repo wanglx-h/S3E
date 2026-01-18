@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Revertpage
+Help:Revert a page by Special:Contributions/$2 (User talk:$2) to last version by $1

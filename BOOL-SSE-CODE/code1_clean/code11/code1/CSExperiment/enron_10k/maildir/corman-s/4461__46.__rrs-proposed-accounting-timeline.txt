@@ -1,0 +1,8 @@
+From: theresa.hess@enron.com
+To: gerry.medeles@enron.com, james.studebaker@enron.com, rick.dietz@enron.com, 
+	sheila.nacey@enron.com, bradley.holmes@enron.com, 
+	andy.brady@enron.com, lynn.blair@enron.com, 
+	richard.hanagriff@enron.com
+Date: Tue, 12 Mar 2002 15:15:27 -0800 (PST)
+Subject: RRS - Proposed Accounting Timeline
+During the March 7 meeting we reviewed the 'Proposed Accounting Timeline', which is part of the Project Update dated March 7, 2002. The proposed timeline at the bottom of the page shows that 'Imbalance Trading Ends' on the 16th calendar day of the month. GISB Standard 2.3.41 states that imbalance trading should be allowed through at least the 17th business day of the month. The language of the standard is as follows: "Standard 2.3.41 -- Transportation Service Providers should provide the ability to post and trade imbalances until at least the close of the seventeenth business day of the month." This timing will need to be incorporated into the timeline. Thanks, Theresa

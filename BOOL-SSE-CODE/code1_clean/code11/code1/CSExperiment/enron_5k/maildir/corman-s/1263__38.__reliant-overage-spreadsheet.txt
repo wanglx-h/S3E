@@ -1,0 +1,6 @@
+From: mike.bryant@enron.com
+To: rachel.cady@enron.com, jack.boatman@enron.com, shelley.corman@enron.com, 
+	robert.kilmer@enron.com
+Date: Fri, 12 Oct 2001 08:45:11 -0700 (PDT)
+Subject: reliant overage spreadsheet
+Please review my intended calculation method -- I figured for every 5 minute scan that was over 1000 that they were flowing at that steady rate for 5 minutes. I only applied the $10 penalty to the 5 minute volumes that were over the specified rate.

@@ -1,0 +1,21 @@
+From: janet.butler@enron.com
+To: daniel.allegretti@enron.com, eric.benson@enron.com, james.brown@enron.com, 
+	alan.comnes@enron.com, shelley.corman@enron.com, 
+	tom.delaney@enron.com, john.dushinske@enron.com, 
+	robert.frank@enron.com, howard.fromer@enron.com, 
+	donna.fulton@enron.com, mary.hain@enron.com, joe.hartsoe@enron.com, 
+	rod.hayslett@enron.com, tom.hoatson@enron.com, 
+	richard.ingersoll@enron.com, paul.kaufman@enron.com, 
+	steven.kean@enron.com, kerry.stroup@enron.com, 
+	robin.kittel@enron.com, elizabeth.linnell@enron.com, 
+	kathleen.magruder@enron.com, susan.mara@enron.com, 
+	posey.martinez@enron.com, ron.mcnamara@enron.com, 
+	janine.migden@enron.com, marcie.milner@enron.com, 
+	steve.montovano@enron.com, christi.nicolay@enron.com, 
+	sarah.novosel@enron.com, richard.shapiro@enron.com, 
+	dan.staines@enron.com, james.steffes@enron.com, 
+	kerry.stroup@enron.com, edith.terry@enron.com, denis.tu@enron.com, 
+	thane.twiggs@enron.com
+Date: Wed, 21 Mar 2001 01:32:00 -0800 (PST)
+Subject: Weekly Regulatory Report
+Attached is the Weekly FERC Electric Report for week ending March 16, 2001.

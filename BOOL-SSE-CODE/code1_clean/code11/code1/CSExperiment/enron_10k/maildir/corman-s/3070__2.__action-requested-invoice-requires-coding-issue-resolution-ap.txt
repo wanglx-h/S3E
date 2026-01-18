@@ -1,0 +1,6 @@
+From: ipayit@enron.com
+To: michelle.cash@enron.com
+Date: Tue, 30 Aug 0001 09:20:19 -0800 (PST)
+Subject: Action Requested:  Invoice Requires Coding/Issue
+ Resolution/Approval
+Please do not reply to this e-mail. You are receiving this message because an invoice requiring coding, issue resolution, or approval has been submitted to your iPayit inbox. This requires your action through iPayit. To launch iPayit, click on the link below: http://iPayit.enron.com Note: Log into iPayit using the same Employee PID (P-Number) and Password you use to enter the eHRonline system and/or SAP. First time iPayit user? For training materials, click on the link below: http://sap.enron.com/sap_doclib/user/file_list.asp?cabinet_id=265 Need help? Please contact the ISC Call Center at (713) 345-4727. If you are in Europe, please contact European Accounts Payable at +44 20 7783 7520.

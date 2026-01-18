@@ -1,0 +1,5 @@
+From: randy.bryan@enron.com
+To: lynn.blair@enron.com
+Date: Tue, 27 Nov 2001 17:25:15 -0800 (PST)
+Subject: RE: PEP suggested reviewers
+Lynn, I have no problem with Shirley, however, since she has began working from home, I have had limited interaction with her due to our work schedules. She mostly works with the late person (Jean) and the early person (Jerry). Therefore, if it is at all possible to choose someone else from the team that I work with more closely, I would appreciate it. Thanks. Randy -----Original Message----- From: Blair, Lynn Sent: Tue 11/27/2001 6:27 PM To: Bryan, Randy Cc: Subject: PEP suggested reviewers Randy, I had to change one of your reviewers from Diana Porter to Shirley Walden. Please let me know if you have any concerns. Thanks. Lynn

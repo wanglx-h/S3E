@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Blockipsuccesstext
+User:$1 has been blocked (User_talk:$1 • [ edit talk] • [ message] • Special:Contributions/$1 • [}} filter log] • [}} block log] • [ change block] • [ watch] • luxo:$1). * See also: ** Special:Blocklist ** Special:Block ** :Category:User block templates ** [ Requests for unblock] ** Special:Log/newusers ** Special:Log/block

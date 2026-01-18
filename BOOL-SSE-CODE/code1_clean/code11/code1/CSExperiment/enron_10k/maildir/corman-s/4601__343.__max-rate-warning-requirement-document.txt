@@ -1,0 +1,5 @@
+From: maggie.matheson@enron.com
+To: group.dl-ets@enron.com
+Date: Mon, 10 Dec 2001 12:27:23 -0800 (PST)
+Subject: Max Rate Warning Requirement Document
+Attached is the revised requirements document for the NNG Max Rate nomination warning enhancement. Please let me know if you have any questions or comments. Thanks, Maggie

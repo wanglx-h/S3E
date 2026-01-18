@@ -1,0 +1,5 @@
+From: lynn.blair@enron.com
+To: sherry.forbish@enron.com
+Date: Tue, 27 Nov 2001 16:21:32 -0800 (PST)
+Subject: PEP Suggested Reviewers
+Sherry, I had to change from Chris to Debra on your reviewers. I will still visit with Chris since you did put her name down. Thanks. Lynn

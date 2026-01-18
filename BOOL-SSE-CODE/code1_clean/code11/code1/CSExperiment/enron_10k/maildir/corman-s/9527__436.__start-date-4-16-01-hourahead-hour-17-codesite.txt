@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Mon, 16 Apr 2001 09:41:00 -0700 (PDT)
+Subject: Start Date: 4/16/01; HourAhead hour: 17;  <CODESITE>
+Start Date: 4/16/01; HourAhead hour: 17; No ancillary schedules awarded. Variances detected. Variances detected in Generation schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001041617.txt ---- Generation Schedule ---- $$$ Variance found in table tblGEN_SCHEDULE. Details: (Hour: 17 / Preferred: 45.00 / Final: 44.90) TRANS_TYPE: FINAL SC_ID: DELANO MKT_TYPE: 2 TRANS_DATE: 4/16/01 UNIT_ID: PANDOL_6_UNIT

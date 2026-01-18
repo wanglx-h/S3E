@@ -1,0 +1,6 @@
+From: ankush.sen@enron.com
+To: john.sherriff@enron.com, london.brown@enron.com, rick.buy@enron.com, 
+	greg.whalley@enron.com
+Date: Wed, 14 Nov 2001 09:58:37 -0800 (PST)
+Subject: Enron Metals Violation Memo 13th November 2001: VaR Limit
+Please find attached a copy of the violation memo regarding the breach in the VaR Limit occuring on 13th November 2001 Please note that the Word document is also attached for clarity Regards, Ankush

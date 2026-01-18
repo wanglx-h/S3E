@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/23093/Desktop/dan/paper/LLM-RAG-CODE/**)",
+      "Read(//c/Users/23093/Desktop/dan/paper/CASE-SSE-CODE/**)",
+      "Read(//c/Users/23093/Desktop/dan/paper/mycode/code/**)",
+      "Bash(python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Wikipedia:Change summary
+When you change a page, there is a small box with the words "'''Change summary'''" under the main change-box. It looks like this: Whatever you type into this box will show up on the ''Special:RecentChanges'' page, in the history of the page, and in the meta:MediaWiki User's Guide: Using the Watchlist of users who are watching the page. You can write up to 200 characters in the Change summary box. It is always good to write something in this box. This lets people know what you have changed. You can also say why you changed something. Some people use abbreviations (making long words or phrases shorter) in their change summary. There is a list of abbreviations used on the :en:Wikipedia:edit summary legend page. When this box is left blank, the change summary sometimes :en:Wikipedia:Automatic edit summary, for example, it may say "Replaced content with (something)". This makes it very easy for others to see if a change is wp:vandalism and wp:rollback at once. == More information == * mw:Help: Edit summary

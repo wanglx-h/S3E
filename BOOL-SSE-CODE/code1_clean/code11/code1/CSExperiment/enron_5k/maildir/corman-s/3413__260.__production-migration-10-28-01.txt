@@ -1,0 +1,5 @@
+From: jill.herrmann@enron.com
+To: group.dl-ets@enron.com, helpdesk.hottap@enron.com
+Date: Sun, 28 Oct 2001 22:11:21 -0800 (PST)
+Subject: Production Migration 10/28/01
+The migration for reinstalling the scheduled quantities reports went well.....I tested all three pipes with K#'s and ID#'s and they came up fine.....I did this for both internal and external. Jill

@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: michelle.cash@enron.com
+Date: Mon, 24 Dec 2001 22:26:20 -0800 (PST)
+Subject: <<Concur Expense Document>> - Houston Cellular 8-11-01
+The Payment status has changed on the following report: Status last changed by: System Expense Report Name: Houston Cellular 8-11-01 Report Total: $612.28 Amount Due Employee: $612.28 Amount Approved: $612.28 Amount Paid: $1,224.56 Approval Status: Approved Payment Status: Paid To review this expense report, click on the following link for Concur Expense. http://expensexms.enron.com

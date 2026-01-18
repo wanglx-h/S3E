@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Confirmemail sent
+Confirmation e-mail sent to you with the subject "''''''". Please follow the instructions in that message.

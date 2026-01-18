@@ -1,0 +1,8 @@
+From: a..smith@enron.com
+To: helpdesk.hottap@enron.com, toby.kuehl@enron.com, bradley.holmes@enron.com, 
+	john.buchanan@enron.com, terry.kowalke@enron.com, 
+	darrell.schoolcraft@enron.com, lynn.blair@enron.com, 
+	sheila.nacey@enron.com
+Date: Thu, 25 Oct 2001 04:32:10 -0700 (PDT)
+Subject: All tests were successfully executed
+All testing was completed successfully, and we have confirmed with ENW Resolution Center that Exchange servers are up. Regarding yesterday's issues: the ENW Resolution Center is researching further the cause of the Outlook problem that caused some people to get a login window when accessing their mail. Some people in ETS did observe the problem, but because of the information the Resolution Center shared with us in the morning, our users were not greatly affected. the IIS services were stopped and restarted on the server that supports access to the Flow Gas application. We currently have no information about the root cause of the problem.

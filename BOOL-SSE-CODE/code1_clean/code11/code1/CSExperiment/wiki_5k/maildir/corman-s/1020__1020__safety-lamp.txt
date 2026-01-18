@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Safety lamp
+image:Davy lamp.png A '''safety lamp''' is a mining's lamp with a covered flame that used to be used in Coal mining. ==Types of safety lamps== The first safety lamp was invented by William Reid Clanny. It used bellows and water to separate gasses. Later, two newer designs were invented. One newer design was the Geordie lamp, made by George Stephenson, and the other was the Davy lamp, made by Humphry Davy. In 1815, Davy discovered that if a flame was in a lamp, it would not ignite the flammable gases in mines. ==How it works== Coal mines are dangerous because of flammable gasses like methane that can accumulate (gather together). A lamp with a naked (exposed) flame might make these flammable gasses catch fire, causing an explosion, which could kill people. The safety lamp prevents the hot flame of the lamp touching the flammable gasses, reducing the chance of an explosion. == References == Category:Safety Category:Lamps

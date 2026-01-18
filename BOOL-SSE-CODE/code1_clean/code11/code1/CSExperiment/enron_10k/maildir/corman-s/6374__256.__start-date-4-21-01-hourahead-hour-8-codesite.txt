@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Sat, 21 Apr 2001 00:42:00 -0700 (PDT)
+Subject: Start Date: 4/21/01; HourAhead hour: 8;  <CODESITE>
+Start Date: 4/21/01; HourAhead hour: 8; No ancillary schedules awarded. Variances detected. Variances detected in SC Trades schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001042108.txt ---- Generation Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 4/21/01 UNIT_ID: HARBGN_7_UNITS ---- Energy Import/Export Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 4/21/01 TIE_POINT: SLVRPK_7_SPP INTERCHG_ID: EPMI_CISO_ERNIE ENGY_TYPE: NFRM ---- SC Trades Schedule ---- $$$ Variance found in table tblInt_Interchange. Details: (Hour: 8 / Preferred: -825.00 / Final: -824.97) TRANS_TYPE: FINAL SC_ID: EPMI MKT_TYPE: 2 TRANS_DATE: 4/21/01 TRADING_SC: WESC PNT_OF_INTRC: SP15 SCHED_TYPE: ENGY PURCH_SALE: 1 DEAL_NO: 1

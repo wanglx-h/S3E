@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Wikipedia:Bureaucrat log
+'''This page is a historical record of Wikipedia:Administrators and Bureaucrats performed before the Special:Log/rights feature was made available.'''Please do not make changes to the text below. ---- ---- 01:57, 23 Oct 2004 User:Angela Rights for user "SimonMayer" set "+bureaucrat " 04:46, 25 Apr 2004 User:Angela set Tango: +sysop 17:44, 25 Mar 2004 User:Angela set Mero: +sysop 17:44, 25 Mar 2004 User:Angela set SimonMayer: +sysop Category:Wikipedia archives

@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Sat, 3 Mar 2001 02:39:00 -0800 (PST)
+Subject: Start Date: 3/3/01; HourAhead hour: 11;  <CODESITE>
+Start Date: 3/3/01; HourAhead hour: 11; No ancillary schedules awarded. No variances detected. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001030311.txt ---- Generation Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: Wheelabrat MKT_TYPE: 2 TRANS_DATE: 3/3/01 UNIT_ID: MARTEL_2_AMFOR

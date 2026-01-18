@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Point (geometry)
+A '''point''' is a position in Euclidean space which has no size, but which does have position. In geometry, a point has no size, but has a position. This means it has no volume, area or length. We usually draw a point as a small cross 'X' or a small '''dot''' (a small, round shape). Different points can be labelled using capital letters (A, B, C...X, Y, Z). The point is one of the most fundamental ideas in geometry. Two points form a line segment. When part of a line segment, the points are called its vertices. All Polytope are made of vertices. In general, '''two points''' can be: * Coincident (they are one and the same, such as on coinciding lines) * Not coincident (they are not one and the same) and are always: * Coplanar (on the same plane) * Colinear (on the same line) * Concyclic (on the same circle) '''Three points''' can be: * Colinear * Coincident * Not coincident * Not colinear and are always: * Coplanar * Concyclic '''Four points''' can be: * Coplanar * Colinear * Coincident * Not coincident * Not colinear * Not coplanar == Related pages == * Line * Plane (mathematics) == References == Category:Geometry

@@ -1,0 +1,5 @@
+From: mparson1@oncorgroup.com
+To: retailmarket@ercot.com
+Date: Wed, 23 Jan 2002 16:26:09 -0800 (PST)
+Subject: Oncor (TXU) TDSP Status
+Oncor TDSP will be re-sending, this week, the 814_04 transactions (count of 4,471) identified as outstanding on the current ERCOT Siebel database. As these transactions date back to December 17th, we were of the understanding that ERCOT would be re-dropping the transactions in the date range of December 17th through January 17th, as we understood that these transactions were involved in the ERCOT "paperfree" issue. We apologize for our misunderstanding.

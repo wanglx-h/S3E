@@ -1,0 +1,5 @@
+From: stacy.runswick@enron.com
+To: portland.shift@enron.com
+Date: Tue, 6 Mar 2001 09:14:00 -0800 (PST)
+Subject: Cuts by the CISO
+Please refer to Transalta Tag numbers 210W040 & 210W052. This schedule was cut by the CISO coming in to Palo and is going real time per TEMU. Please confirm with TEMU our up stream and down stream. The cuts were as follows HE 1 = 14 HE2 = 10 HE3 = 25 HE4 = 10 HE5,6,23 = 25 HE24 = 14 Please make sure that a total of 25mw's flows each hour LLH. Thanks Stacy

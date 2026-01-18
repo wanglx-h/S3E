@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Wed, 25 Apr 2001 08:58:00 -0700 (PDT)
+Subject: Schedule Crawler: HourAhead Failure <CODESITE>
+Start Date: 4/25/01; HourAhead hour: 16; HourAhead schedule download failed. Manual intervention required.

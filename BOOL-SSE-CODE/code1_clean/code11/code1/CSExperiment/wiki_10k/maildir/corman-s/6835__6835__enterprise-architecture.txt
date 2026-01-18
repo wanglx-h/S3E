@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Enterprise architecture
+'''Enterprise architecture''' is comprehensive framework used to manage and align an organization's business processes, information technology, computer hardware and software, local area network and wide area networks, people, operations and projects with the organization's overall strategy. A strong enterprise architecture process helps to answer basic questions. == Frameworks == There are numerous enterprise architecture frameworks defined. Here is a list of a few prevalent frameworks: * Zachman Framework * TOGAF * Agile Architecture Category:Business

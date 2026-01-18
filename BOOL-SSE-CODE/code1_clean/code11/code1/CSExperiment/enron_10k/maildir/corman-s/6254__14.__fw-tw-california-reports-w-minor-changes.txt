@@ -1,0 +1,8 @@
+From: elizabeth.brown@enron.com
+To: shelley.corman@enron.com, lynn.blair@enron.com, rick.dietz@enron.com, 
+	terry.kowalke@enron.com, darrell.schoolcraft@enron.com, 
+	lindy.donoho@enron.com, tk.lohman@enron.com, 
+	steven.january@enron.com, bradley.holmes@enron.com
+Date: Fri, 28 Sep 2001 11:18:35 -0700 (PDT)
+Subject: FW: TW California reports w/minor changes
+FYI - Please see below for the final version being sent to the FERC. Shelley - Would you like me to forward to Rob Kilmer's group? Thanks, Elizabeth -----Original Message----- From: Bianchi, Rita Sent: Friday, September 28, 2001 10:09 AM To: Brown, Elizabeth Subject: TW California reports w/minor changes Here is the file you sent me with the following changes: 1. Question 1: added a comment line after the column headings explaining that Interruptible contracts may be extended from month to month unless terminated on 30 days' notice by either party. Mary Kay thought we needed some explanation why those contracts showed termination dates in the past. I eliminated this line, along with the headers, on the CD version of the file. 2. Question 3: I just changed the alignment on the text cells for the 3 comment records at the bottom from Centered to Left.

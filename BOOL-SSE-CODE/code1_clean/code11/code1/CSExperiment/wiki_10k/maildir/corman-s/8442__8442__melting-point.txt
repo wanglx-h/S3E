@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Melting point
+The '''melting point''' of a substance is the temperature at which this substance goes from the solid state to the liquid one, at a Standard temperature and pressure. For water, this is 0° Celsius (32° Fahrenheit, 273.15 Kelvin). The chemical element with the highest melting point is tungsten. Some chemical compounds have a higher melting point. When looking at when a liquid substance becomes solid, most people call this the '''freezing point'''. For most substances, like water, this is the same as the melting point. There are substances, where this is not the case (they melt at one temperature, and freeze at another). Agar seems to melt at 85° Celsius, but freeze at between 35°C and 40°C. This phenomenon is a kind of hysteresis. Adding certain substances or impurities will change the melting point of the resulting mixture. For example, sugar or salt will lower the melting point, and alcohol will raise it. Category:Thermodynamics Category:Chemistry

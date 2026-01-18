@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Yahtzee
+File:Yatzy Score card with dies.jpg '''Yahtzee''' is a popular dice game that is well-known all over the world. The object of the game is to roll 5 dice (up to 3 times) to create certain combinations such as: *Three-of-a-kind: 3 dice showing the same number *Four-of-a-kind: 4 dice showing the same number *Small straight: 4 numbers in sequence, such as 2-3-4-5 or 1-2-3-4 *Large straight 5 numbers in sequence, such as 1-2-3-4-5 *Full house (3 dice showing the same number and the remaining 2 dice showing a different number but both matching) *Yahtzee: All 5 dice showing the same number Category:Dice games

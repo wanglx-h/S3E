@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Tue, 6 Mar 2001 23:39:00 -0800 (PST)
+Subject: Start Date: 3/7/01; HourAhead hour: 8;  <CODESITE>
+Start Date: 3/7/01; HourAhead hour: 8; No ancillary schedules awarded. No variances detected. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001030708.txt ###Cannot locate a Preferred or Revised_Preferred Schedule that matches the FINAL Individual Interchange Schedule. Unable to assign deal number.

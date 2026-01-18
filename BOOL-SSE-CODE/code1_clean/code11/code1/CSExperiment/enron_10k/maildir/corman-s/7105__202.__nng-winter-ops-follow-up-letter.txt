@@ -1,0 +1,5 @@
+From: shelley.corman@enron.com
+To: bradley.holmes@enron.com
+Date: Tue, 25 Sep 2001 07:06:34 -0700 (PDT)
+Subject: NNG Winter Ops Follow-Up Letter
+Here is what I started working on yesterday -- it isn't very far along.

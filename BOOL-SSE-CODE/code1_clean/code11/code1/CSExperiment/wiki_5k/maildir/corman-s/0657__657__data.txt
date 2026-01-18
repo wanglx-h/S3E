@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Data
+The word '''data''' means "known facts". Data especially refers to numbers, but can mean words, sounds, and images. Metadata is data about data. It is used to find data. Australian Bureau of Statistics|url=https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts|access-date=2025-03-21|website=www.abs.gov.au|language=en}} Originally, data is the plural of the Latin word ''datum,'' from ''dare,'' meaning "give". ''Datum'' is rarely used in English. So '''data''' often gets used as if it were a singular word. Some people like to say "data are", not "data is". ==Related pages== * Data collection * Data management == References == Category:Knowledge Category:Computing Category:Statistics

@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Classic Mac OS
+'''Mac OS''' is an operating system for Apple Macintosh computer. Mac OS was first made by Apple Inc. in 1984. In those days Mac OS was called '''Macintosh System Software''' – which was shortened to '''System''' or '''SSW''' ('''S'''ystem '''S'''oft'''w'''are). The term "Mac OS" first appeared in the splash screen for System 7.5.1, but was not adopted as the new name until the release of Mac OS 7.6. ==Related pages== * Apple Macintosh == References == Category:Operating systems Category:MacOS

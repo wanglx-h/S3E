@@ -1,0 +1,5 @@
+From: geir.solberg@enron.com
+To: portland.shift@enron.com
+Date: Mon, 11 Dec 2000 18:18:00 -0800 (PST)
+Subject: New Fatboy Sheet
+I made a new fatboy sheet that should fit all our customers profile. The template is in the new folder P\RealTime\Fatboy\Fatboysheet Template. Hopefully this can limit the number of different sheets we currently are using. I put it in the P drive as it is local and will limit our dependency on terminal server. Geir

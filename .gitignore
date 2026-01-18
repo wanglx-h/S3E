@@ -1,0 +1,68 @@
+# Large artifacts / models / states (do NOT commit)
+pir-rag/*.pkl
+bge-base-en-v1.5/
+all-MiniLM-L6-v2/
+
+# Common ML artifacts
+*.pkl
+*.bin
+*.onnx
+*.h5
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Outputs / caches
+**/*output*/
+**/*outputs*/
+**/*cache*/
+**/__pycache__/
+# Office temp files
+~$*.docx
+
+# --------------------------
+# Route A: code-only repo
+# --------------------------
+
+# Data / datasets / corpora
+data/
+datasets/
+corpus/
+**/*.tsv
+**/*.csv
+**/*.jsonl
+
+# Model weights / checkpoints / embeddings
+models/
+checkpoints/
+weights/
+embeddings/
+**/*.pt
+**/*.pth
+**/*.ckpt
+**/*.bin
+**/*.onnx
+**/*.h5
+**/*.safetensors
+**/*.ot
+**/*.pkl
+
+# Your current large folders/files
+pir-rag/*.pkl
+bge-base-en-v1.5/
+all-MiniLM-L6-v2/
+
+# Outputs / caches / logs
+**/*output*/
+**/*outputs*/
+**/*result*/
+**/*results*/
+**/*cache*/
+**/__pycache__/
+**/.pytest_cache/
+**/.ipynb_checkpoints/
+*.log
+
+# Office temp files
+~$*.docx

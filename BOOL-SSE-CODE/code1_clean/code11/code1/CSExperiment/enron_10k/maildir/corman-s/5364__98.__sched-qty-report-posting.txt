@@ -1,0 +1,6 @@
+From: james.studebaker@enron.com
+To: lynn.blair@enron.com, john.buchanan@enron.com, terry.kowalke@enron.com, 
+	sheila.nacey@enron.com, lynda.laferla@enron.com
+Date: Mon, 29 Oct 2001 09:21:19 -0800 (PST)
+Subject: Sched Qty Report posting
+To all: Legale posted a HotTap Bulletin notice to let the shippers know that the old Scheduled Quantities by Location and Path report is now available again. Could you let the teams know? Thx, Jim

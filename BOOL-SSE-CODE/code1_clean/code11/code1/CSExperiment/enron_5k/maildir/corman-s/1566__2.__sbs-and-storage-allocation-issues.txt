@@ -1,0 +1,8 @@
+From: michael.bodnar@enron.com
+To: theresa.branney@enron.com, kay.threet@enron.com, reyna.cabrera@enron.com, 
+	gerry.medeles@enron.com, maggie.matheson@enron.com, 
+	john.buchanan@enron.com, lynn.blair@enron.com, 
+	terry.kowalke@enron.com
+Date: Mon, 25 Jun 2001 19:31:00 -0700 (PDT)
+Subject: SBS and Storage Allocation Issues
+Attached is a list of the issues brought forward today regarding the subject topic. A meeting is scheduled for Friday to discuss how these issues are to be resolved.

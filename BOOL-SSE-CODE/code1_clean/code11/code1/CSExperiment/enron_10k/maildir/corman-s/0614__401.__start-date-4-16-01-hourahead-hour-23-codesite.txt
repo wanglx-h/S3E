@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Mon, 16 Apr 2001 15:43:00 -0700 (PDT)
+Subject: Start Date: 4/16/01; HourAhead hour: 23;  <CODESITE>
+Start Date: 4/16/01; HourAhead hour: 23; No ancillary schedules awarded. No variances detected. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001041623.txt

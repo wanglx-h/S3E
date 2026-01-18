@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Tue, 6 Mar 2001 03:39:00 -0800 (PST)
+Subject: Schedule Crawler: HourAhead Failure <CODESITE>
+Start Date: 3/6/01; HourAhead hour: 12; HourAhead schedule download failed. Manual intervention required. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001030612.txt

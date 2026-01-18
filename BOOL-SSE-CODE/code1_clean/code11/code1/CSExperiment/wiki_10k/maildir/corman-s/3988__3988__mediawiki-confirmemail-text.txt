@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Confirmemail text
+needs to make sure your e-mail address is correct before you can either send or get any e-mails through . Click the button beneath this message to send a special e-mail to the address you already gave us in Special:Preferences. This e-mail will have a link in it with a special code. If you click the link, or copy it to your web browser, this will show that your e-mail address is real and that it works.

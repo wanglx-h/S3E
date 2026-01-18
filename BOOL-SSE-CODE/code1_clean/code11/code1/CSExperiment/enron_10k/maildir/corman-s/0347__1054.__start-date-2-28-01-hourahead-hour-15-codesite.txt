@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Wed, 28 Feb 2001 06:39:00 -0800 (PST)
+Subject: Start Date: 2/28/01; HourAhead hour: 15;  <CODESITE>
+Start Date: 2/28/01; HourAhead hour: 15; No ancillary schedules awarded. Variances detected. Variances detected in Generation schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001022815.txt ---- Generation Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: Wheelabrat MKT_TYPE: 2 TRANS_DATE: 2/28/01 UNIT_ID: MARTEL_2_AMFOR $$$ Variance found in table tblGEN_SCHEDULE. Details: (Hour: 15 / Preferred: 29.00 / Final: 28.97) TRANS_TYPE: FINAL SC_ID: ARCO MKT_TYPE: 2 TRANS_DATE: 2/28/01 UNIT_ID: CARBGN_6_UNIT 1

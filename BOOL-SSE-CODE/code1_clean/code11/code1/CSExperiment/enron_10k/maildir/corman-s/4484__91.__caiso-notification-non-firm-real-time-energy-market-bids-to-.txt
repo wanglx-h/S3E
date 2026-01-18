@@ -1,0 +1,6 @@
+From: khoffman@caiso.com
+To: 20participants@caiso.com
+Date: Tue, 22 Aug 2000 09:29:00 -0700 (PDT)
+Subject: CAISO Notification: "Non-Firm" Real Time Energy Market Bids to b e
+ Rejected - Market Message
+Market Participants and Schedule Coordinators, Please be advised that all Supplemental Energy bids (including imports and exports) submitted to the ISO for use in the real-time Imbalance Energy Market are considered to be "FIRM" (i.e., the bids cannot be withdrawn after 45 minutes prior to the Settlement Period and can be dispatched by the ISO anytime during the Settlement Period, see - ISO Tariff o 2.5.22.4.1). Any bids labeled as "Non- Firm" or reported to the CAISO real-time scheduler as "Non-Firm" or recallable will be rejected. The CAISO does not carry the necessary excess reserves to support "Non-Firm" Supplemental Imports. If there are any questions concerning this practice please contact Brian Rahman at 916-608-5883. Brian S. Rahman P.E. Manager of Markets - California ISO Phone (916) 608-5883 Pager (916) 814-0614

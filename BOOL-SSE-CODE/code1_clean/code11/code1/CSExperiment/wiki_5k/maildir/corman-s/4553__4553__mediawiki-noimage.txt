@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Noimage
+No file by this name exists, you can ''':Commons:Special:Search''' for something like it or $1.

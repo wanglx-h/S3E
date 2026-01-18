@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Y-intercept
+Image:Graph.png The '''y-intercept''' of a line on a graph is where the line touches (or intercepts) the y-axis (the numbered line going straight up). The equation for straight lines is y=mx+b. "b" is the y-intercept. You can find the y-intercept of a graph by seeing where the x-coordinate equals 0. The y-coordinate of a point with a x-coordinate of 0 is the y-intercept. ==Related pages== * Algebra Category:Algebra Category:Functions and mappings

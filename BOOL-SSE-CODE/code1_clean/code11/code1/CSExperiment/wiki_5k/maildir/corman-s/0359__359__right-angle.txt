@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Right angle
+File:Right angle.svg indicates that this is a right angle]] A '''right angle''' is an angle with a measurement of 90 degree (geometry) or π/2 radians. While most angles are represented by a small sliver of a circle in their angle, right angles have a small square instead. This is why something that is 90 degrees is often referred to as "square" in woodworking. When two lines cross each other so that all the angles have the same size, the result is four right angles. This is known as "perpendicular". The top of the letter T is at right angles to the wikt:vertical line. Walls of buildings are usually at right angles to the floor. Two things that are at right angles to each other are called "'''perpendicular'''" or "orthogonal". This is expressed using the \bot symbol (such as in \ell_1 \, \bot \, \ell_2). Plane (mathematics) (flat surfaces) can also meet at right angles. In a building, a wall and a floor are said to be perpendicular to each other, and they have a right angle. It also can be called a square angle. ==Related pages== * Acute angle * Obtuse angle * Parallel (geometry) == References == Category:Angles

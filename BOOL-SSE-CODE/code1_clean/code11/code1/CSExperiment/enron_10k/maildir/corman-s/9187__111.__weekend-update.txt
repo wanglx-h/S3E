@@ -1,0 +1,5 @@
+From: lynn.blair@enron.com
+To: shelley.corman@enron.com
+Date: Mon, 4 Feb 2002 05:16:25 -0800 (PST)
+Subject: Weekend Update
+NNG - Called SOL Sunday morning for Sunday's Gas day. The Reps called as many customers as they could to let them know. We had the SOL posted on the WEB before 9:00 a.m. We also did a pop up on TMS for any customer logging into the system. New TW HOTLINE will be implemented this week. We are working with Kim Watson and TK. We did a production migration last night (Sunday). So far everything is OK. TW was quiet this weekend from a scheduling perspective. Thanks. Lynn

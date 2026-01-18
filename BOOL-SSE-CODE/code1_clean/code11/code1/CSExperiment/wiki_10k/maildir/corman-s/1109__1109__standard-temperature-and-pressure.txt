@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Standard temperature and pressure
+In order to be able to reproduce experiment, '''standard conditions for temperature and pressure''' have been defined in different fields of science. Very often these are also called '''standard temperature and pressure'''. The table below gives some examples: {| class="wikitable" !Domain !Temperature !Pressure !Defined by |- |Physics |273.15 K (0 °C, 32 °F)'Numericals in Chemistry', ''Competition Science Vision'', Year 2, Issue 17 (July 1999), p. 629 |101.325 Pa |DIN 1343 |- |Chemistry |298.15 K = 25 °C''Applied Bioremediation and Phytoremediation'', eds. Ajay Singh; Owen P. Ward (Berlin: Springer, 2004), p. 97 |1 bar / 100 kPa |IUPAC |- |Airline industry |15 °C |1013,25 hPa, at sea level | |} == References == Category:Measurement Category:Engineering Category:Chemistry Category:Standards Category:Thermodynamics

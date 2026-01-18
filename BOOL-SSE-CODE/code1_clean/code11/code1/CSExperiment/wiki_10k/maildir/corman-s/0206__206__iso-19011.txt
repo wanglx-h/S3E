@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: ISO 19011
+'''ISO 19011''' is the new global accounting standard, replacing accounting standards that were part of ISO 14001 and ISO 9001. It is the most likely basis for accounting reform which could put an end to accounting scandals. The standard offers four resources to organizations to "save time, effort and money": * A clear explanation of the principles of management systems auditing. * Guidance on the management of audit programs. * Guidance on the conduct of internal or external audits. * Advice on the competence and evaluation of auditors. Category:Accounting Category:ISO standards

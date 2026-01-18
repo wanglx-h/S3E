@@ -1,0 +1,5 @@
+From: mollie.gustafson@enron.com
+To: portland.desk@enron.com
+Date: Tue, 14 Nov 2000 09:45:00 -0800 (PST)
+Subject: PEP System
+The PEP system may be reached via the internet from any computer (home!) at the following address: http://pep.corp.enron.com. Happy reviewing! Mollie

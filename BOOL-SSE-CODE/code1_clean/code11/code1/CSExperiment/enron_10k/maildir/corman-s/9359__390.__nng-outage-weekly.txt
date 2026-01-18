@@ -1,0 +1,19 @@
+From: jerry.graves@enron.com
+To: lynn.blair@enron.com, scott.clark@enron.com, shelley.corman@enron.com, 
+	david.gaines@enron.com, tom.gilbert@enron.com, 
+	morgan.gottsponer@enron.com, randy.howard@enron.com, 
+	fred.jordan@enron.com, terry.kowalke@enron.com, 
+	randy.lebeau@enron.com, rr.mcgillivray@enron.com, 
+	dave.miller@enron.com, dave.odneal@enron.com, brian.poock@enron.com, 
+	randy.rice@enron.com, tom.rice@enron.com, ld.stephens@enron.com, 
+	steve.thomas@enron.com, wally.tippin@enron.com, 
+	jo.williams@enron.com, walt.williams@enron.com, byron.wood@enron.com, 
+	controllers.dl-ets@enron.com, steve.january@enron.com, 
+	ken.anderson@enron.com, doug.aschwege@enron.com, judy.beck@enron.com, 
+	carolyn.descoteaux@enron.com, dan.dobbins@enron.com, 
+	l..johnson@enron.com, david.kolarik@enron.com, 
+	keith.petersen@enron.com, bryan.reinecke@enron.com, 
+	becki.sans@enron.com, roger.westfall@enron.com
+Date: Thu, 7 Mar 2002 16:00:32 -0800 (PST)
+Subject: NNG Outage Weekly
+The Outages attached below have some potential flow impact, or are points of interest. (NNG) Jerry Graves 713-345-8923

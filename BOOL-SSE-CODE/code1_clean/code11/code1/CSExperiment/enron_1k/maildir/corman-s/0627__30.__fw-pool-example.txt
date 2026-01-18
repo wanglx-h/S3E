@@ -1,0 +1,5 @@
+From: gerry.medeles@enron.com
+To: lynn.blair@enron.com, john.buchanan@enron.com
+Date: Mon, 15 Oct 2001 07:08:22 -0700 (PDT)
+Subject: FW: Pool example
+-----Original Message----- From: Medeles, Gerry Sent: Wednesday, August 08, 2001 9:19 AM To: Buchanan, John Subject: Pool example Importance: High

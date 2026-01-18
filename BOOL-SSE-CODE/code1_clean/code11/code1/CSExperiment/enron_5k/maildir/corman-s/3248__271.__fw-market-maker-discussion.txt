@@ -1,0 +1,5 @@
+From: vince.kaminski@enron.com
+To: greg.whalley@enron.com
+Date: Fri, 8 Jun 2001 04:04:00 -0700 (PDT)
+Subject: FW: Market Maker Discussion
+Greg, I am forwarding you the notes from a regular weekly meeting with one of our summer interns. He works on review of the literature regarding drivers behind bid - offer spreads. Please, let me know if you would like additional info. Vince -----Original Message----- From: Lee, Bob Sent: Friday, June 08, 2001 9:59 AM To: Kaminski, Vince J; Lu, Zimin; Bharati, Rakesh; De, Rabi; Huang, Alex; Shanbhogue, Vasant; Supatgiat, Chonawee; Barkley, Tom Cc: Kim, Jinbaek Subject: Market Maker Discussion The next session to discuss papers on models for setting the bid-ask spread will be Friday, June 15 2:00-3:00PM in 19C2 If you want copies of the papers Jinbaek will present ahead of time, let me know and I will provide a copy. A summary of yesterday's session is attached. Bob Lee

@@ -1,0 +1,5 @@
+From: shelley.corman@enron.com
+To: tim.cooper@enron.com
+Date: Tue, 26 Feb 2002 06:10:11 -0800 (PST)
+Subject: FW: Weekly Throughput Report
+Tim - The denominator in the load factor calculations needs to be updated. Please check with Mike to get the current denominator for the months. -----Original Message----- From: Cooper, Tim Sent: Monday, February 25, 2002 3:19 PM To: Nacey, Sheila; Hayes, Robert; Corman, Shelley Subject: Weekly Throughput Report Please find the attached. Thanks, Tim

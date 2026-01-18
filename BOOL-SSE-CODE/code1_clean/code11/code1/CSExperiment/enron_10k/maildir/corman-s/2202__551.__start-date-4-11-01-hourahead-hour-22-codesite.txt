@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Wed, 11 Apr 2001 14:41:00 -0700 (PDT)
+Subject: Start Date: 4/11/01; HourAhead hour: 22;  <CODESITE>
+Start Date: 4/11/01; HourAhead hour: 22; No ancillary schedules awarded. Variances detected. Variances detected in Load schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001041122.txt ---- Energy Import/Export Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 4/11/01 TIE_POINT: PVERDE_5_DEVERS INTERCHG_ID: EPMI_CISO_GUZ ENGY_TYPE: FIRM ---- Load Schedule ---- $$$ Variance found in table tblLoads. Details: (Hour: 22 / Preferred: 49.25 / Final: 49.24) TRANS_TYPE: FINAL LOAD_ID: PGE3 MKT_TYPE: 2 TRANS_DATE: 4/11/01 SC_ID: EPMI

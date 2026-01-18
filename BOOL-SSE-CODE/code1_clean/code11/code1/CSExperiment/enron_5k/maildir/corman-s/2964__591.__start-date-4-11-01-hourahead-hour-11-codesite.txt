@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Wed, 11 Apr 2001 03:41:00 -0700 (PDT)
+Subject: Start Date: 4/11/01; HourAhead hour: 11;  <CODESITE>
+Start Date: 4/11/01; HourAhead hour: 11; No ancillary schedules awarded. No variances detected. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001041111.txt ---- Energy Import/Export Schedule ---- *** Final schedule not found for preferred schedule. Details: TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 4/11/01 TIE_POINT: SLVRPK_7_SPP INTERCHG_ID: EPMI_CISO_TOBY ENGY_TYPE: NFRM

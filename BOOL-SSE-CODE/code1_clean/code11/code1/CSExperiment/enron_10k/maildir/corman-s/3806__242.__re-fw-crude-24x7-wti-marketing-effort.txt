@@ -1,0 +1,5 @@
+From: greg.whalley@enron.com
+To: jennifer.mcquade@enron.com
+Date: Sat, 2 Jun 2001 03:07:00 -0700 (PDT)
+Subject: Re: FW: Crude 24X7 WTI Marketing Effort
+your volume comparison chart is off by a factor of 10. each contract is 1000 bbls.

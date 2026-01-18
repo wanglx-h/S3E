@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Help:MediaWiki namespace
+The '''MediaWiki namespace''' is a way to change the look of Wikipedia. You can change the words and text used for site links and text. For example, the "" message which you can see at the top of each page is available at MediaWiki:Tagline. Only Wikipedia:Administrators can change the MediaWiki namespace. If you want to make changes, please discuss them on Wikipedia talk:MediaWiki namespace. For more help and information, see mw:Help:System message. ==Related pages== * Special:Allmessages - A list of all the customisable MediaWiki messages, showing if they have been changed for this Wikipedia * Wikipedia:Template messages – a list of templates commonly used in this Wikipedia.

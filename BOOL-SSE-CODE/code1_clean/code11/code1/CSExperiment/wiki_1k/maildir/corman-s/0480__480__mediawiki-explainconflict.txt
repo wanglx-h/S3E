@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Explainconflict
+When you were changing the article, someone else also made changes. This is a Wikipedia:change conflict. There are two edit boxes below. Your changes are in the second box. The first box shows the article now (after the other person's changes). You should not ignore the new changes, but should add your changes into the first box. ''Only'' the text in the first edit box will be saved when you press "Save page".

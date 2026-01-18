@@ -1,0 +1,5 @@
+From: project.team@enron.com
+To:
+Date: Tue, 27 Jun 2000 04:23:00 -0700 (PDT)
+Subject: - Inventory Collected from CN=Mark Guzman/OU=PDX/O=ECT -
+As you are probably aware, your department has been selected to participate in Project GEM (Global Enron Migration) for the rollout of Windows 2000. In preparation for this rollout, it is imperative that we gather information about your workstation and the applications you use. To begin this data collection, we have automated the process and your system has just been inventoried. Once this information is received, we will be working with your department coordinator to consolidate this information to ensure this transition is as smooth as possible. The GEM team would like to thank you for your participation. If you have any questions, please call Steve Dubaniewicz Deployment Manager, 281-460-2263.

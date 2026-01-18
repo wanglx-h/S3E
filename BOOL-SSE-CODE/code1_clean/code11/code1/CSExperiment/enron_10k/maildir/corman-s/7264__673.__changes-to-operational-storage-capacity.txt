@@ -1,0 +1,6 @@
+From: michael.bodnar@enron.com
+To: sue.neville@enron.com, reyna.cabrera@enron.com, kay.threet@enron.com, 
+	preston.roobaert@enron.com
+Date: Wed, 14 Nov 2001 09:31:53 -0800 (PST)
+Subject: Changes to Operational Storage Capacity
+It has come to my attention that changing the operational storage capacity between the Evening process and the NonGrid process can be unduly problematic for customers because most of the pipelines that interconnect with NNG do not recognize the NonGrid process. Such changes can lead to EPSQ issues during the ID1 process when shipper quantities cut during the NonGrid storage allocation end up being less than the EPSQ calculated for ID1. The differences that result will most probably end up as shipper imbalances on NNG. For this reason, it is strongly recommended that operational storage capacity not be changed between the Evening and the NonGrid processes in the future.

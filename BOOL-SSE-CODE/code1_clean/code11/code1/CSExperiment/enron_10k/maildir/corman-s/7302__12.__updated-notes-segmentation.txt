@@ -1,0 +1,10 @@
+From: james.studebaker@enron.com
+To: teb.lokey@enron.com, nancy.bastida@enron.com, dannis.bellard@enron.com, 
+	frazier.king@enron.com, gerry.medeles@enron.com, 
+	shelley.corman@enron.com, bradley.holmes@enron.com, 
+	rachel.cady@enron.com, sheila.nacey@enron.com, 
+	jack.boatman@enron.com, mike.bryant@enron.com, buzz.smith@enron.com, 
+	sharon.farrell@enron.com, elizabeth.brown@enron.com
+Date: Tue, 26 Feb 2002 07:07:57 -0800 (PST)
+Subject: Updated notes - segmentation
+Attached are updated notes on Segmentation. Elizabeth sent comments that I added to item number 4. Thx, Jim

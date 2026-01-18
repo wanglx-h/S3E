@@ -1,0 +1,24 @@
+From: mary.hain@enron.com
+To: phillip.allen@enron.com, robert.badeer@enron.com, tim.belden@enron.com, 
+	shelia.benke@enron.com, donald.black@enron.com, 
+	william.bradford@enron.com, rick.buy@enron.com, 
+	andre.cangucu@enron.com, alan.comnes@enron.com, 
+	wanda.curry@enron.com, jeff.dasovich@enron.com, 
+	karen.denne@enron.com, mike.grigsby@enron.com, 
+	mark.haedicke@enron.com, mary.hain@enron.com, joe.hartsoe@enron.com, 
+	keith.holst@enron.com, robert.johnston@enron.com, 
+	paul.kaufman@enron.com, steven.kean@enron.com, 
+	harry.kingerski@enron.com, susan.mara@enron.com, 
+	sandra.mccubbin@enron.com, travis.mccullough@enron.com, 
+	mark.metts@enron.com, sarah.novosel@enron.com, mark.palmer@enron.com, 
+	linda.robertson@enron.com, richard.sanders@enron.com, 
+	gordon.savage@enron.com, richard.shapiro@enron.com, 
+	vicki.sharp@enron.com, mike.smith@enron.com, shari.stack@enron.com, 
+	james.steffes@enron.com, marty.sunde@enron.com, 
+	stephen.swain@enron.com, mitchell.taylor@enron.com, 
+	michael.tribolet@enron.com, robert.williams@enron.com, 
+	greg.wolfe@enron.com, roger.yang@enron.com, 
+	christian.yoder@enron.com
+Date: Thu, 15 Feb 2001 01:20:00 -0800 (PST)
+Subject: Who's scheduling for who
+Here's what I hear about who's scheduling what: The UDCs are scheduling their own g & t CDWR is scheduling for all UDCs (including SDG&E) in the bilateral market for day ahead and day of CDWR is scheduling for all the UDCs (including SDG&E) in the ISO real time market

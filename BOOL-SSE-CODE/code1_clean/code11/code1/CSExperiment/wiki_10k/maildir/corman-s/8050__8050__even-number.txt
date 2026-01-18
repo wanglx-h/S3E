@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Even number
+An '''even number''' is an integer that can be divided by two and remain an integer or has no not real remainder. For example, 16 is an even number, because 16\div 2=8, and 8 is an integer. An even number may be either a negative integer like -16, a positive like 20 or Zero Integer. == Definition == If an even number is divided by two, the result is another integer. Another way to say this is that even numbers are divisible by two. If n is an even number, we can write this as 2 \mid n, which means "2 divides n". An integer that is not an even number is an odd number. The quality of being odd or even is called the Parity (mathematics) of a number. Since even numbers are integers, negative numbers can be even. For example, -16 is an even negative number. Also, 0 is an even number, because 0\div 2 = 0. ==Related pages== * Odd number Category:Numbers Category:Number theory Category:Arithmetics

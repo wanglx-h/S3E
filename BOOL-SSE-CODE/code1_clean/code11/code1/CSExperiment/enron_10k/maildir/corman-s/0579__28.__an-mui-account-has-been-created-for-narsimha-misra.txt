@@ -1,0 +1,5 @@
+From: cam@pjm.com
+To: nmisra@enron.com, rring@enron.com
+Date: Tue, 4 Sep 2001 12:01:54 -0700 (PDT)
+Subject: An MUI account has been created for Narsimha Misra
+Narsimha Misra at Enron Energy Services, Inc. has been given access to the following MUI applications: eData General OASIS Message OASIS Read Only OASIS Transaction If you have any questions please contact your account manager(s): Richard Ring (eesi)

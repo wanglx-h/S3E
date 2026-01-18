@@ -1,0 +1,7 @@
+From: kenneth.thibodeaux@enron.com
+To: rick.buy@enron.com, ted.ii@enron.com, cassandra.schultz@enron.com, 
+	jeffrey.shankman@enron.com, mike.mcconnell@enron.com, 
+	greg.whalley@enron.com
+Date: Wed, 20 Jun 2001 00:56:00 -0700 (PDT)
+Subject: PRELIMINARY Global Products 5 Day Loss
+The PRELIMINARY DPR reflects a 5 Day Loss Notification for Global Products in the following amount: Limit - ($18,750,000) 5 Day Loss - ($19,108,000)

@@ -1,0 +1,7 @@
+From: britt.davis@enron.com
+To: drew.fossum@enron.com, j..porter@enron.com, kathy.ringblom@enron.com, 
+	becky.zikes@enron.com
+Date: Fri, 12 Oct 2001 09:33:24 -0700 (PDT)
+Subject: Northern v. ONEOK/Bushton Measurement Issue/Chromatograph
+ malfunction 9/19-10/11
+Ken Cessac reported to me today concerning a problem with Northern's chromatograph at the Bushton Plant that occurred on 9/19 after a routine annual replacement of calibration gas by ETS, and that was fixed yesterday, although Ken needs to review the fix. In a nutshell, the problem appears likely to have caused the volumes to be off for the period of time at issue; it is yet to be determined whether the Btu's per MMBtu will be off. Angela Mendez apparently caught this when certain values started repeating themselves. I am told that a similar problem was experienced when the chromatograph was first installed years ago, but thought to have been fixed. Once Ken has finished his review and I have spoken with Rick Kile, we can draft the appropriate letter. I will continue to keep you advised. Britt

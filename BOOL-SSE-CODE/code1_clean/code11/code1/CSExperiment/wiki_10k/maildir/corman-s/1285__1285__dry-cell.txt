@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Dry cell
+'''Dry cells''' are a type of chemical cells. Dry cells are commonly used today in the form of battery. Dry cells are used in many electrical appliances. Most dry cells are not truly dry; they still contain a liquid electrolyte, but it is immobilized in a paste or gel. Several truly dry, or solid-state, batteries have been developed, but none are commercially available yet. ==Types of dry cells== *Primary cells **Zinc-carbon cells, also known as Leclanche cells **Alkaline cells **Lithium cells **Mercury cells **Silver oxide cell *Secondary cells **Nickel-cadmium cell **Lithium-ion cell **Nickel metal-hydride cell **Sealed lead acid battery Primary cells are not rechargeable battery. They have to be thrown away after their chemicals are used. Secondary cells are rechargeable. They can be used again. ==Related pages== *Battery *Rechargeable battery *Table of batteries ==References== Category:Electronics Category:Physical chemistry Category:Batteries

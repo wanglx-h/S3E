@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Logouttext
+You are now logged out. You can continue to use Wikipedia anonymously. You can also log in again as the same user, or a different one. Note that some pages may continue to be displayed as if you were still logged in, until you clear your browser cache.

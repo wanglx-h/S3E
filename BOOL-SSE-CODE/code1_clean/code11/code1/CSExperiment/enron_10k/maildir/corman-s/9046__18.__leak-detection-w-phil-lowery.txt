@@ -1,0 +1,5 @@
+From: ricki.winters@enron.com
+To:
+Date: Tue, 28 Aug 2001 06:32:02 -0700 (PDT)
+Subject: Leak Detection w/ Phil Lowery
+Tonai Lehr x56611

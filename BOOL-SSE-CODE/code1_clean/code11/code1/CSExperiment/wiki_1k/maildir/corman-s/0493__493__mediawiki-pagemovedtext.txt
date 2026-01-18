@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Pagemovedtext
+Page "$1" moved to "$2". '''Please :Whatlinkshere/$2''' if this move has created any double-redirects, and fix them if necessary.

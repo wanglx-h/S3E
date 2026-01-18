@@ -1,0 +1,5 @@
+From: custserv@iso-ne.com
+To: undisclosed-recipients@enron.com
+Date: Sat, 19 Jan 2002 04:20:52 -0800 (PST)
+Subject: Your Digital ID is about to expire
+Dear RICHARD D RING, Our record indicates that your Digital ID will expire on 18-FEB-02. You must use Netscape as your browser! Please visit https://onsite.verisign.com/ISONewEngland/userRenewal.htm to renew your Digital ID. To complete the renewal process: You will need the Challenge Phrase you used to enroll for your original certificate, and the following Renewal ID Number: Your Renewal ID number is : 832263473 If you have any questions or problems, please contact your Administrator by replying to this e-mail message.

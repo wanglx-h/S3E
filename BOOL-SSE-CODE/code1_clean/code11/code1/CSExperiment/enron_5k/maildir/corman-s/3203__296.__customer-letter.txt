@@ -1,0 +1,5 @@
+From: lynn.blair@enron.com
+To: john.buchanan@enron.com, james.studebaker@enron.com
+Date: Wed, 17 Oct 2001 08:46:59 -0700 (PDT)
+Subject: Customer Letter
+Here is a first pass at the customer letter. Probably needs some work on more detail. Thanks. Lynn

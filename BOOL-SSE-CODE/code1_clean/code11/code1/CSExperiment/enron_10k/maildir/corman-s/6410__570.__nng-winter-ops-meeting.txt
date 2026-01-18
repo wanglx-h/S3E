@@ -1,0 +1,5 @@
+From: lynn.blair@enron.com
+To: john.buchanan@enron.com
+Date: Thu, 26 Jul 2001 08:02:34 -0700 (PDT)
+Subject: NNG Winter Ops Meeting
+John, would you please work with Brad Holmes and Jerry Medeles to capture all of the system enhancements we have made on NNG since last years meeting. Thanks. Lynn

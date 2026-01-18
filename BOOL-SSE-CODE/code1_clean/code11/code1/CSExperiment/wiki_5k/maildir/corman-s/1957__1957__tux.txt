@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Tux
+Image:Tux.svg '''Tux''' is a mascot of the Linux operating system; a cartoon penguin made by Larry Ewing in 1996. Wherever he is seen, it means such a system can work with Linux. He is also a character in some video games made for Linux, like ''Super Tux''. The name "Tux" comes from James Hughes, who named the Linux mascot that as an shortened form of "'''T'''orvalds' '''U'''ni'''X'''," as Linus Torvalds was the person who made the Linux kernel. Tux is also an abbreviation of tuxedo. == References == Category:Linux Category:Mascots Category:Fictional penguins

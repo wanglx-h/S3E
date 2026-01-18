@@ -1,0 +1,5 @@
+From: gary.spraggins@enron.com
+To: shelley.corman@enron.com
+Date: Tue, 22 Jan 2002 05:37:50 -0800 (PST)
+Subject: NNG - Northend Loads
+Norm Temp Actual North Load Friday 18th 13 14 3420 Saturday 19th 13 23 3170 Sunday 20th 14 26 3020 Monday 21st. 14 30 2900 Tues. 22nd. 14 34 3000 Wed. 23 21 3360 Thurs. 24th. 21 3390 Friday 25th 30

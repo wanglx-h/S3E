@@ -1,0 +1,5 @@
+From: lisa.sawyer@enron.com
+To: bradley.holmes@enron.com
+Date: Wed, 23 Jan 2002 09:16:29 -0800 (PST)
+Subject: Dynegy Transition Impact
+Brad, We are going to have to pull some of the WEB team members to work on the split of the NNG and TW data on the ADHOC database. The Internet pulls data from this database and we are having to split this up for security purposes. This will impact us getting started on the HotTap Redesign Project. We are hoping that we will be able to pickup on the effort at the beginning of February. Just wanted to make sure you all were aware. Let me know if you have any questions. Thanks.

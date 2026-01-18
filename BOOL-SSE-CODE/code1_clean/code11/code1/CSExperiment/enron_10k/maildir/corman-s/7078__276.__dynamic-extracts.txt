@@ -1,0 +1,5 @@
+From: clientrelations@ercot.com
+To: mockmarket@ercot.com, retailmarket@ercot.com
+Date: Mon, 21 Jan 2002 13:06:12 -0800 (PST)
+Subject: Dynamic extracts
+All of the Dynamic extracts are now available for use with the exception of: GENERATION SITE TOTALS BY CM ZONE TOTAL GENERATION BY UFE ZONE We will send another notice when these extracts are available. ERCOT Client Relations ClientRelations@ercot.com 512-248-3900

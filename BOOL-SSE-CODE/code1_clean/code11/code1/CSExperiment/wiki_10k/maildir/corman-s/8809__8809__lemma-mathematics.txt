@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Lemma (mathematics)
+In mathematics, a '''lemma''' is a "mini-proof"; a small hypothesis which is mathematical proof and then provides a part of a more important theorem. == Popular Lemmas == A good small thing can lead to many big things. Some powerful results in mathematics are known as lemmas, such as Bézout's identity, Dehn's lemma, Euclid's lemma, Farkas' lemma, Fatou's lemma, Gauss's lemma (disambiguation), Small cancellation theory#Greendlinger.27s lemma, Itō's lemma, Jordan's lemma, Nakayama's lemma, Closed and exact differential forms#Poincar.C3.A9 lemma, Riesz's lemma, Schur's lemma, Schwarz's lemma, Urysohn's lemma, Yoneda lemma and Zorn's lemma. While these results originally seemed too simple to get independent interest, they have turned out to be important to the theories in which they occur. Category:Mathematical theorems

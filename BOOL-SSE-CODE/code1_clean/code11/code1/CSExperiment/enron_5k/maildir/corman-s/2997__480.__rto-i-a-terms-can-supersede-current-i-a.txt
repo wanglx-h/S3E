@@ -1,0 +1,25 @@
+From: christi.nicolay@enron.com
+To: jeff.brown@enron.com, ron.mcnamara@enron.com, james.steffes@enron.com, 
+	sarah.novosel@enron.com, aleck.dadson@enron.com, 
+	daniel.allegretti@enron.com, howard.fromer@enron.com, 
+	joe.hartsoe@enron.com, donna.fulton@enron.com, tom.hoatson@enron.com, 
+	steve.montovano@enron.com, jean.ryall@enron.com, 
+	tom.chapman@enron.com, janine.migden@enron.com, 
+	dave.mangskau@enron.com, dan.staines@enron.com, mike.roan@enron.com, 
+	joe.connor@enron.com, kerry.stroup@enron.com, steve.walton@enron.com, 
+	mary.hain@enron.com, alan.comnes@enron.com, susan.mara@enron.com, 
+	thane.twiggs@enron.com, richard.shapiro@enron.com, 
+	ben.jacoby@enron.com, dave.kellermeyer@enron.com, 
+	jeffrey.keenan@enron.com, rusty.stevens@enron.com, 
+	rebecca.walker@enron.com, john.moore@enron.com, fred.mitro@enron.com, 
+	raimund.grube@enron.com, chris.booth@enron.com, 
+	greg.krause@enron.com, mathew.gimble@enron.com, 
+	steven.krimsky@enron.com, michelle.zhang@enron.com, 
+	ron.tapscott@enron.com, jeff.williams@enron.com, w.duran@enron.com, 
+	barton.clark@enron.com, elizabeth.sager@enron.com, 
+	barbara.gray@enron.com, jeffrey.hodge@enron.com, 
+	bob.carter@enron.com, kay.mann@enron.com, steve.hooser@enron.com, 
+	david.fairley@enron.com
+Date: Thu, 22 Mar 2001 06:03:00 -0800 (PST)
+Subject: RTO I/A terms can supersede current I/A
+On 3/14/01, FERC upheld a provision in a utility pro forma interconnection agreement, which provides that the terms and conditions of the IA would be superseded by any pertinent interconnection provisions required by an RTO, if the utility joins an RTO. (APS case) We have been monitoring RTO proposed interconnection procedures and IA provisions and commenting as necessary. We need to be mindful of this order as we negotiate IAs for our sites to the extent that such a provision is included in the draft IA.

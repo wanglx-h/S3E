@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Fri, 9 Mar 2001 02:37:00 -0800 (PST)
+Subject: Start Date: 3/9/01; HourAhead hour: 11;  <CODESITE>
+Start Date: 3/9/01; HourAhead hour: 11; No ancillary schedules awarded. Variances detected. Variances detected in Generation schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001030911.txt ---- Generation Schedule ---- $$$ Variance found in table tblGEN_SCHEDULE. Details: (Hour: 11 / Preferred: 3.00 / Final: 3.91) TRANS_TYPE: FINAL SC_ID: ECTRT MKT_TYPE: 2 TRANS_DATE: 3/9/01 UNIT_ID: VESTAL_6_WDFIRE

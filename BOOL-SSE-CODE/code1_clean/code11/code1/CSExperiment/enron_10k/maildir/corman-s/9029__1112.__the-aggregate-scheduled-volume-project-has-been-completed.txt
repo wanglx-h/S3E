@@ -1,0 +1,5 @@
+From: cara.semperger@enron.com
+To: tim.belden@enron.com, portland.desk@enron.com
+Date: Fri, 9 Feb 2001 08:19:00 -0800 (PST)
+Subject: The Aggregate Scheduled Volume Project has been completed!
+After nearly a year of work, we now have a tool to show us the meaning behind our MW volume. I would like to thank the following people for their help on this very difficult project: Glenn Anderson - for a multitude of Enpower coding, the lion's share of the work on this project. Murray O'Neill and Dave Poston - for their assistance and knowledge in project management and "developer-speak". Dan Maxwell - for creating the final VB tool that was the capstone of the project. Thank you all for your very hard work, we have a product to be proud of! Cara

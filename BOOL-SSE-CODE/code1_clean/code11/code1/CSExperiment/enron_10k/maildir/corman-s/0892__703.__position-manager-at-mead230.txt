@@ -1,0 +1,5 @@
+From: stanley.cocke@enron.com
+To: portland.shift@enron.com
+Date: Fri, 16 Mar 2001 07:00:00 -0800 (PST)
+Subject: Position Manager at Mead230
+Just wanted to let everyone know that we will be out in position manager for Sunday, 3/18. We're out a total of 102MW, 17MW for HE11-16. This is an LV Cogen schedule that is going real-time. Thanks, Stan

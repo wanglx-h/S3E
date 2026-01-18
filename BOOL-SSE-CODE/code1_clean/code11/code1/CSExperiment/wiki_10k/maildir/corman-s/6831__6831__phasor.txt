@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Phasor
+A '''phasor''' is a tool in mathematics. It is used to show numbers in a different coordinate system. Certain electronic components have models that can be described more easily by the use of phasors. Inductor add a +90º "phase", while Capacitor add -90º "phase". Both elements work on the imaginary axis. Resistor have 0º "phase", and are considered real. Category:Engineering

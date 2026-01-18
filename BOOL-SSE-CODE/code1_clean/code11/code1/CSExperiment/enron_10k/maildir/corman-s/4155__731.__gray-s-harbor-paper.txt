@@ -1,0 +1,5 @@
+From: holden.salisbury@enron.com
+To: portland.shift@enron.com, lester.rawson@enron.com, stanley.cocke@enron.com
+Date: Thu, 15 Mar 2001 16:53:00 -0800 (PST)
+Subject: Gray's Harbor Paper
+Here is a little information that could be of use in the future. BPA transmission and BPA Power Scheduling have informed us that scheduling this unit is a three part process: First you must call BPA(t) and set up the demand account. This should be done as early as possible. They do not like to set up this account at 23:30. Second you must also schedule the transmission on the use account. Third you must call BPA Power Scheduling and tell them to generate the power. This last step seems to have been overlooked. Power Scheduling's phone number is 503/230-3341. Secondary numbers are 503/230-4194 and 503/230-3150. Please call BPA transmission or BPA Power Scheduling if you have any questions. Thanks

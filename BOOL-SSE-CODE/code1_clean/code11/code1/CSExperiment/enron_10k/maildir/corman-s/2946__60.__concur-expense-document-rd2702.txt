@@ -1,0 +1,5 @@
+From: enron_update@concureworkplace.com
+To: shelley.corman@enron.com
+Date: Tue, 7 Feb 0002 12:16:48 -0800 (PST)
+Subject: <<Concur Expense Document>> - RD2702
+The following expense report is ready for approval: Employee Name: Richard A. Dietz Mr. Status last changed by: Alma S. Green Expense Report Name: RD2702 Report Total: $780.10 Amount Due Employee: $780.10 To approve this expense report, click on the following link for Concur Expense. http://expensexms.enron.com

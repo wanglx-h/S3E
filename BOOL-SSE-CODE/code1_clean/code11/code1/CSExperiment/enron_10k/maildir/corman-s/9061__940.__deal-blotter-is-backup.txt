@@ -1,0 +1,5 @@
+From: david.poston@enron.com
+To: portland.desk@enron.com
+Date: Mon, 5 Mar 2001 00:21:00 -0800 (PST)
+Subject: Deal Blotter is Backup
+Good Morning, Enpower's Deal Blotter is now up and running in Portland. The local routing daemon was hung and the server had to be rebooted. Thanks, David Poston

@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: George Morrow
+'''George Morrow''' (c. 1934 - May 7, 2003) was part of the early microcomputer industry in the United States. Morrow promoted (make popular) and improved the S-100 bus used in many early microcomputers. Morrow was also a member of the Homebrew Computer Club. Starting in 1976, he designed and sold computers, computer parts, and accessories under several company names, including ''Morrow Designs''. Morrow's companies built microcomputers that used the CP/M operating system. When IBM started selling their IBM PC personal computer in 1981, Morrow and other CP/M computer makers had trouble competing. Morrow Designs filed for bankruptcy in 1986.'''John Markoff (2003):''' [https://archive.today/20120717121557/http://news.com.com/2100-1008-1000732.html Computer visionary George Morrow dies] or [http://www.freelists.org/archives/tech-alerts/05-2003/msg00006.html here] ==References== Category:American computer scientists Category:Scientists from Detroit Category:1934 births Category:2003 deaths

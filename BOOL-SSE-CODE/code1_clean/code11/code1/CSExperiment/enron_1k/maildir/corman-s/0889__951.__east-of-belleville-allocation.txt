@@ -1,0 +1,5 @@
+From: lynn.blair@enron.com
+To: john.buchanan@enron.com, terry.kowalke@enron.com
+Date: Fri, 16 Nov 2001 14:52:56 -0800 (PST)
+Subject: East of Belleville allocation
+Let's discuss again on Monday if we need to relook at hard coding the allocation based on discussions with Kent and Frank. Thanks. Lynn

@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Proportionality
+A '''proportionality relationship''' happens when two quantity or numbers ''x'' and ''y'' are related multiplicatively by a fixed number. This can occur when either their ratio ''x''/''y'' is a fixed number (direct proportionality), or their product ''xy'' is a fixed number (inverse proportionality). If ''x'' is directly proportional to ''y'', then we write x \propto y. The fixed number of a proportionality relationship is called the constant of proportionality. ==Related pages== *Relation (mathematics) * Function (mathematics) == References == Category:Mathematics

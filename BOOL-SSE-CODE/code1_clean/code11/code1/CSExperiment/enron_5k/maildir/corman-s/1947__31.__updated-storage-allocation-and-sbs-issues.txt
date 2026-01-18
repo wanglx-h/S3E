@@ -1,0 +1,6 @@
+From: michael.bodnar@enron.com
+To: michael.bodnar@enron.com, theresa.branney@enron.com, lynn.blair@enron.com, 
+	john.buchanan@enron.com, gerry.medeles@enron.com
+Date: Mon, 25 Jun 2001 14:20:03 -0700 (PDT)
+Subject: Updated: Storage Allocation and SBS Issues
+FYI............. I changed the time of the meeting to be from 10:00 a.m to 11:00 a.m.......... Please plan to attend this meeting to review the SBS/storage allocations issues and develop resolution plans.

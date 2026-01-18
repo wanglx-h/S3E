@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Mon, 23 Apr 2001 10:41:00 -0700 (PDT)
+Subject: Start Date: 4/23/01; HourAhead hour: 18;  <CODESITE>
+Start Date: 4/23/01; HourAhead hour: 18; No ancillary schedules awarded. Variances detected. Variances detected in Generation schedule. Variances detected in Load schedule. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001042318.txt ---- Generation Schedule ---- $$$ Variance found in table tblGEN_SCHEDULE. Details: (Hour: 18 / Preferred: 0.00 / Final: 0.00) TRANS_TYPE: FINAL SC_ID: EES MKT_TYPE: 2 TRANS_DATE: 4/23/01 UNIT_ID: BADLND_7_PL1X2 ---- Load Schedule ---- $$$ Variance found in table tblLoads. Details: (Hour: 18 / Preferred: 5.85 / Final: 5.30) TRANS_TYPE: FINAL LOAD_ID: PGE2 MKT_TYPE: 2 TRANS_DATE: 4/23/01 SC_ID: EPMI $$$ Variance found in table tblLoads. Details: (Hour: 18 / Preferred: 6.96 / Final: 8.06) TRANS_TYPE: FINAL LOAD_ID: SCE1 MKT_TYPE: 2 TRANS_DATE: 4/23/01 SC_ID: EPMI

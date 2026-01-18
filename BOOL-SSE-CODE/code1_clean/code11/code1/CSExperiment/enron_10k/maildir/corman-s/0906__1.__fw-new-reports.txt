@@ -1,0 +1,5 @@
+From: helpdesk.hottap@enron.com
+To: sheila.nacey@enron.com, lynn.blair@enron.com
+Date: Tue, 16 Oct 2001 12:23:33 -0700 (PDT)
+Subject: FW: New Reports
+The only ID we have for Tristar, an NNG customer, is Kevin Herrmann. Deborah HotTap Helpdesk 3-6063 -----Original Message----- From: sblaydes@tristargas.com@ENRON Sent: Tuesday, October 16, 2001 1:46 PM To: hottap@enron.com Subject: New Reports I have two questions about the Service Requester Scheduled Quantity report that came on line this week: 1. Does it have to be legal size? The previous report was very readable and it was 8 1/2 x 11, landscape 2. This report gives no month-to-date totals and now I have to get two reports on each pipeline every day in order to reconcile our system correctly. Is there any way the first page of the old report could be added to this report so that month-to-date totals can be seen?

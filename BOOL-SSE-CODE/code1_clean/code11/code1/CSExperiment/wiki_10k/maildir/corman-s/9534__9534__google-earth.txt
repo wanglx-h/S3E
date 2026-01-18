@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: Google Earth
+| programming language = C++ | operating system = }} | language count = Various | genre = Virtual globe | license = Freeware | website = }} '''Google Earth''' is a virtual globe Computer program that was first called Earth Viewer. Keyhole, Inc. created it in 2001. It has been owned by Google since 2004. The program maps the surface of Earth by combining pictures taken by satellites and airplanes. There are also 3D maps where users can look at areas from different angles. It is quite similar to Google Maps. Google Earth is interactive and lets the user move the globe, and look at satellite imagery with overlays of roads, buildings, geographic features, and more. Teachers can use it to improve students' visual literacy. Students can use it to develop a background for three-dimensional and cultural differences. == References == ==Related pages== *Google Maps == Other websites == *[http://earth.google.com Official Google Earth website] *[http://www.educause.edu/library/resources/7-things-you-should-know-about-google-earth 7 Things You Should Know About Google Earth] Category:Google Category:Cartography

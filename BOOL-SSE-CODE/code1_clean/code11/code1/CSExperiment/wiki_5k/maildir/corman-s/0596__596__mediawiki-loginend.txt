@@ -1,0 +1,5 @@
+From:
+To:
+Date:
+Subject: MediaWiki:Loginend
+|simple.wikipedia.org|||secure.wikimedia.org||You are viewing this page on , which ''might'' be a proxy or phishing site. This site can intercept your password; you are strongly suggested to log in from [//simple.wikipedia.org/wiki/Special:Userlogin simple.wikipedia.org].}}}} '''Secure your account:''' * Think about logging in on the [https://simple.wikipedia.org/w/index.php?title=Special:UserLogin secure server]. * If your password only contains letters or numbers, please consider changing it (in your Special:Preferences after you log in). * To avoid becoming a victim of phishing, always make sure you are viewing [//simple.wikipedia.org/w/index.php?title=Special:UserLogin Wikipedia's login page] when logging in. Wikipedia will never ask for any information other than your username, password and e-mail address. * Do not give out your password to anyone. * If your account is taken over, it may be Wikipedia:Blocks and bans unless you can show you are its owner.

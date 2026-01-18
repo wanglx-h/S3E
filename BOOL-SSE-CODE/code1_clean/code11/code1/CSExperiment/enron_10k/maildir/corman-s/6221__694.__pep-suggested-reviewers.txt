@@ -1,0 +1,5 @@
+From: lynn.blair@enron.com
+To: christine.mcevoy@enron.com
+Date: Tue, 27 Nov 2001 16:19:07 -0800 (PST)
+Subject: PEP Suggested Reviewers
+Christine, I had to change Laura to Linda Ward on your request. We had to many people selecting Laura and I need to evenly distribute the reviews. If you have any concerns, please let me know. Thanks. Lynn

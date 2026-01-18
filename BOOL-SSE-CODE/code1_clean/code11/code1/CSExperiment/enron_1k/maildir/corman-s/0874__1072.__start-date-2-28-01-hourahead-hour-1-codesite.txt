@@ -1,0 +1,5 @@
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Date: Tue, 27 Feb 2001 16:43:00 -0800 (PST)
+Subject: Start Date: 2/28/01; HourAhead hour: 1;  <CODESITE>
+Start Date: 2/28/01; HourAhead hour: 1; No ancillary schedules awarded. No variances detected. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001022801.txt !!!General SQL error. Couldn't update; currently locked by user 'Admin' on machine 'NAHOU-TRDTS3'. Table !!!General SQL error. Couldn't update; currently locked by user 'Admin' on machine 'NAHOU-TRDTS3'. Table !!!General SQL error. Couldn't update; currently locked by user 'Admin' on machine 'NAHOU-TRDTS3'. Table

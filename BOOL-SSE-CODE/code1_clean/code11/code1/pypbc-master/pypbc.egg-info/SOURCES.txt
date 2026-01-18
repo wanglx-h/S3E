@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pypbc.c
+setup.py
+pypbc/__init__.pyi
+pypbc/py.typed
+pypbc.egg-info/PKG-INFO
+pypbc.egg-info/SOURCES.txt
+pypbc.egg-info/dependency_links.txt
+pypbc.egg-info/top_level.txt
